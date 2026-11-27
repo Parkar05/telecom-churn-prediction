@@ -1,0 +1,26 @@
+feature,mean_abs_shap,label
+months_to_renewal,1.3012317297711735,Months to contract renewal
+active_lines,0.39283940591483585,Active lines
+port_out_requests_3m,0.3553438853772297,"Port-out requests, last 3 months"
+data_usage_change_pct,0.23597216166779325,Data usage change vs previous 3 months
+tenure_months,0.1855794720027823,Tenure (months)
+industry,0.15045115608371445,Industry
+data_gb_per_line,0.13973674893165583,Data per line (GB/month)
+mrr,0.13364112774848888,Monthly recurring revenue (KWD)
+products_count,0.1247577559104238,Products subscribed
+region,0.11490455723622015,Region
+contract_term,0.11258234425128198,Contract term
+lines_change_pct_3m,0.10089960184830363,"Change in lines, last 3 months"
+avg_resolution_days_3m,0.09925780883822878,Avg ticket resolution (days)
+avg_days_late_3m,0.09523383154921085,Avg days paid late
+lines_disconnected_3m,0.08735514224874813,"Lines disconnected, last 3 months"
+voice_usage_change_pct,0.08290537494872853,Voice usage change vs previous 3 months
+tickets_3m,0.07774859436589443,"Support tickets, last 3 months"
+overdue_amount,0.07771325906146001,Overdue amount (KWD)
+segment,0.06424772152971908,Segment
+billing_disputes_3m,0.03503478860593962,"Billing disputes, last 3 months"
+open_tickets,0.013956752559636139,Open support tickets
+sla_breaches_3m,0.011023549265361029,"SLA breaches, last 3 months"
+network_tickets_3m,0.00829777446276243,"Network complaints, last 3 months"
+mrr_change_pct,0.0024194108479325374,MRR change vs previous 3 months
+products_dropped_6m,0.0,"Products dropped, last 6 months"

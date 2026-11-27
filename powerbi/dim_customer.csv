@@ -1,0 +1,1501 @@
+customer_id,company_name,segment,industry,region,account_manager,contract_term,contract_start
+T00001,Failaka Solutions 40,SME,Education,Mubarak Al-Kabeer,Account Manager B,12 months,2025-09-29
+T00002,Falcon Partners 42,SME,Education,Farwaniya,Account Manager D,Month-to-month,2018-01-04
+T00003,Palm Group 48,Enterprise,Retail,Hawalli,Account Manager F,24 months,2018-09-29
+T00004,Falcon Solutions 71,Enterprise,Hospitality,Capital,Account Manager E,Month-to-month,2024-12-16
+T00005,Desert Group 80,SME,Hospitality,Mubarak Al-Kabeer,Account Manager E,12 months,2019-05-20
+T00006,Coral Enterprises 91,Corporate,Construction,Farwaniya,Account Manager C,12 months,2019-10-01
+T00007,Sahara Logistics 78,SME,Hospitality,Hawalli,Account Manager D,Month-to-month,2026-04-21
+T00008,Atlas Logistics 57,Government,Healthcare,Hawalli,Account Manager C,12 months,2023-03-03
+T00009,Granite Works 53,SME,Education,Capital,Account Manager A,Month-to-month,2021-08-19
+T00010,Bay Solutions 81,SME,Education,Capital,Account Manager D,Month-to-month,2020-10-04
+T00011,Vertex Partners 78,SME,Retail,Farwaniya,Account Manager C,12 months,2025-10-01
+T00012,Failaka Trading 35,SME,Construction,Jahra,Account Manager D,24 months,2022-04-08
+T00013,Gulf Enterprises 13,Corporate,Banking & Finance,Ahmadi,Account Manager F,24 months,2019-08-29
+T00014,Desert Systems 71,SME,Hospitality,Jahra,Account Manager B,12 months,2025-10-09
+T00015,Horizon Works 91,SME,Logistics,Capital,Account Manager B,Month-to-month,2026-04-08
+T00016,Prime Supply 64,SME,Education,Hawalli,Account Manager C,24 months,2021-02-14
+T00017,Failaka Industries 65,SME,Construction,Hawalli,Account Manager D,12 months,2020-06-29
+T00018,Palm Partners 17,SME,Construction,Hawalli,Account Manager A,12 months,2022-03-22
+T00019,Horizon Supply 74,SME,Construction,Jahra,Account Manager D,24 months,2020-05-04
+T00020,Prime Supply 95,SME,Hospitality,Capital,Account Manager D,Month-to-month,2025-03-08
+T00021,Gulf Services 46,SME,Logistics,Hawalli,Account Manager B,Month-to-month,2024-07-08
+T00022,Vertex Logistics 79,Government,Healthcare,Farwaniya,Account Manager D,24 months,2023-03-29
+T00023,Granite Services 92,SME,Retail,Ahmadi,Account Manager E,Month-to-month,2018-12-22
+T00024,Coral Industries 32,SME,Oil & Gas,Farwaniya,Account Manager C,12 months,2021-10-08
+T00025,Palm Systems 14,Corporate,Oil & Gas,Hawalli,Account Manager B,12 months,2021-11-20
+T00026,Nova Partners 64,SME,Oil & Gas,Capital,Account Manager D,Month-to-month,2023-05-25
+T00027,Gulf Solutions 21,Government,Hospitality,Capital,Account Manager B,24 months,2021-09-30
+T00028,Vertex Trading 60,Enterprise,Healthcare,Hawalli,Account Manager E,12 months,2019-07-28
+T00029,Crescent Logistics 70,SME,Logistics,Capital,Account Manager C,Month-to-month,2026-01-22
+T00030,Horizon Enterprises 77,Corporate,Healthcare,Farwaniya,Account Manager B,24 months,2022-07-09
+T00031,Coral Services 56,Enterprise,Retail,Ahmadi,Account Manager D,24 months,2024-02-21
+T00032,Crescent Solutions 63,SME,Hospitality,Farwaniya,Account Manager E,24 months,2019-12-11
+T00033,Prime Supply 85,Government,Oil & Gas,Hawalli,Account Manager B,12 months,2026-03-02
+T00034,Prime Services 20,SME,Education,Ahmadi,Account Manager D,Month-to-month,2019-05-31
+T00035,Palm Industries 53,Corporate,Healthcare,Ahmadi,Account Manager A,24 months,2018-11-14
+T00036,Bay Enterprises 47,SME,Education,Capital,Account Manager E,12 months,2024-11-20
+T00037,Coral Services 28,SME,Construction,Hawalli,Account Manager F,12 months,2026-01-12
+T00038,Bay Enterprises 39,Enterprise,Retail,Ahmadi,Account Manager D,12 months,2018-04-07
+T00039,Palm Works 82,SME,Retail,Farwaniya,Account Manager F,12 months,2019-08-20
+T00040,Delta Systems 34,SME,Logistics,Farwaniya,Account Manager B,Month-to-month,2024-12-18
+T00041,Delta Holdings 57,Enterprise,Banking & Finance,Ahmadi,Account Manager B,12 months,2019-12-06
+T00042,Atlas Group 24,SME,Education,Capital,Account Manager F,Month-to-month,2026-06-01
+T00043,Granite Industries 17,Government,Construction,Hawalli,Account Manager C,12 months,2018-06-05
+T00044,Coral Partners 48,Corporate,Healthcare,Ahmadi,Account Manager B,12 months,2026-04-22
+T00045,Palm Holdings 21,Corporate,Banking & Finance,Capital,Account Manager A,Month-to-month,2023-11-20
+T00046,Palm Solutions 59,Corporate,Oil & Gas,Farwaniya,Account Manager C,Month-to-month,2024-10-03
+T00047,Coral Supply 42,SME,Banking & Finance,Ahmadi,Account Manager D,12 months,2018-04-03
+T00048,Delta Systems 52,Corporate,Construction,Jahra,Account Manager B,Month-to-month,2022-11-20
+T00049,Prime Holdings 68,SME,Oil & Gas,Ahmadi,Account Manager F,24 months,2023-11-05
+T00050,Granite Trading 73,Corporate,Healthcare,Hawalli,Account Manager E,24 months,2019-04-15
+T00051,Apex Supply 47,Corporate,Healthcare,Mubarak Al-Kabeer,Account Manager C,12 months,2026-06-05
+T00052,Prime Group 85,SME,Education,Ahmadi,Account Manager D,Month-to-month,2024-03-20
+T00053,Sahara Systems 20,Corporate,Retail,Capital,Account Manager D,24 months,2024-08-09
+T00054,Prime Logistics 62,Enterprise,Construction,Mubarak Al-Kabeer,Account Manager C,24 months,2020-08-05
+T00055,Al Enterprises 58,SME,Retail,Hawalli,Account Manager E,12 months,2024-03-30
+T00056,Al Industries 50,Corporate,Logistics,Hawalli,Account Manager F,12 months,2021-05-31
+T00057,Palm Services 48,SME,Logistics,Farwaniya,Account Manager A,24 months,2022-01-05
+T00058,Summit Supply 50,Corporate,Construction,Ahmadi,Account Manager E,24 months,2021-05-26
+T00059,Atlas Logistics 11,SME,Oil & Gas,Hawalli,Account Manager D,12 months,2024-05-19
+T00060,Atlas Partners 91,Corporate,Education,Hawalli,Account Manager D,24 months,2019-07-03
+T00061,Palm Services 58,SME,Oil & Gas,Farwaniya,Account Manager E,Month-to-month,2023-02-06
+T00062,Prime Holdings 98,SME,Construction,Capital,Account Manager A,24 months,2021-05-29
+T00063,Al Works 70,Corporate,Healthcare,Hawalli,Account Manager A,24 months,2025-04-25
+T00064,Summit Services 84,SME,Hospitality,Farwaniya,Account Manager B,12 months,2019-05-29
+T00065,Al Industries 69,SME,Logistics,Jahra,Account Manager E,Month-to-month,2019-11-04
+T00066,Granite Trading 69,Corporate,Healthcare,Capital,Account Manager B,12 months,2023-03-16
+T00067,Prime Systems 65,Corporate,Construction,Capital,Account Manager D,24 months,2018-02-14
+T00068,Nova Enterprises 89,Enterprise,Logistics,Jahra,Account Manager D,12 months,2024-06-21
+T00069,Sahara Trading 31,SME,Construction,Ahmadi,Account Manager E,24 months,2020-10-19
+T00070,Desert Logistics 22,Government,Construction,Hawalli,Account Manager C,12 months,2022-06-13
+T00071,Sahara Services 81,SME,Healthcare,Hawalli,Account Manager E,24 months,2022-01-19
+T00072,Gulf Trading 91,Enterprise,Hospitality,Capital,Account Manager D,24 months,2019-04-17
+T00073,Summit Systems 90,Corporate,Construction,Farwaniya,Account Manager C,12 months,2023-05-22
+T00074,Al Trading 10,Corporate,Logistics,Capital,Account Manager C,24 months,2021-08-06
+T00075,Gulf Trading 82,Government,Oil & Gas,Capital,Account Manager A,12 months,2020-08-06
+T00076,Failaka Supply 81,Corporate,Oil & Gas,Hawalli,Account Manager D,24 months,2021-10-25
+T00077,Granite Solutions 35,Enterprise,Healthcare,Mubarak Al-Kabeer,Account Manager C,24 months,2018-11-14
+T00078,Apex Solutions 15,SME,Hospitality,Mubarak Al-Kabeer,Account Manager D,Month-to-month,2021-08-13
+T00079,Bay Services 96,SME,Oil & Gas,Capital,Account Manager B,Month-to-month,2025-09-06
+T00080,Coral Industries 78,SME,Oil & Gas,Capital,Account Manager F,Month-to-month,2023-02-19
+T00081,Apex Enterprises 82,SME,Retail,Ahmadi,Account Manager F,Month-to-month,2023-04-27
+T00082,Apex Logistics 13,SME,Retail,Hawalli,Account Manager F,Month-to-month,2019-02-18
+T00083,Crescent Solutions 20,Government,Retail,Farwaniya,Account Manager C,12 months,2018-10-13
+T00084,Prime Enterprises 54,Government,Healthcare,Hawalli,Account Manager E,12 months,2018-06-05
+T00085,Horizon Enterprises 58,SME,Education,Ahmadi,Account Manager F,12 months,2024-10-29
+T00086,Failaka Industries 85,Corporate,Retail,Capital,Account Manager A,12 months,2019-06-30
+T00087,Oasis Industries 82,SME,Retail,Jahra,Account Manager F,24 months,2024-02-05
+T00088,Palm Trading 27,SME,Healthcare,Jahra,Account Manager F,12 months,2023-11-12
+T00089,Al Group 18,Enterprise,Retail,Farwaniya,Account Manager D,24 months,2021-02-21
+T00090,Palm Partners 97,SME,Hospitality,Capital,Account Manager F,24 months,2023-03-17
+T00091,Palm Systems 55,Enterprise,Hospitality,Hawalli,Account Manager B,24 months,2025-06-27
+T00092,Nova Trading 64,Government,Education,Hawalli,Account Manager B,24 months,2025-01-08
+T00093,Al Trading 29,SME,Logistics,Farwaniya,Account Manager A,Month-to-month,2020-10-12
+T00094,Sahara Logistics 73,Corporate,Construction,Hawalli,Account Manager C,12 months,2019-03-19
+T00095,Oasis Solutions 43,SME,Hospitality,Capital,Account Manager D,Month-to-month,2024-12-14
+T00096,Nova Services 26,SME,Logistics,Capital,Account Manager A,Month-to-month,2018-05-25
+T00097,Falcon Supply 62,SME,Hospitality,Jahra,Account Manager A,12 months,2022-08-18
+T00098,Crescent Partners 79,Enterprise,Retail,Mubarak Al-Kabeer,Account Manager D,24 months,2021-04-26
+T00099,Summit Systems 87,SME,Healthcare,Jahra,Account Manager C,24 months,2019-09-14
+T00100,Vertex Logistics 22,SME,Oil & Gas,Capital,Account Manager C,12 months,2025-09-04
+T00101,Desert Supply 58,Corporate,Banking & Finance,Farwaniya,Account Manager B,12 months,2024-02-22
+T00102,Atlas Logistics 61,SME,Logistics,Capital,Account Manager F,Month-to-month,2018-01-31
+T00103,Horizon Enterprises 32,SME,Logistics,Farwaniya,Account Manager F,Month-to-month,2020-11-27
+T00104,Failaka Logistics 93,SME,Oil & Gas,Capital,Account Manager C,12 months,2018-05-19
+T00105,Gulf Industries 51,Corporate,Retail,Farwaniya,Account Manager C,24 months,2025-11-09
+T00106,Horizon Enterprises 45,SME,Retail,Farwaniya,Account Manager A,12 months,2018-02-22
+T00107,Coral Logistics 21,Corporate,Hospitality,Jahra,Account Manager C,12 months,2019-12-04
+T00108,Prime Supply 21,SME,Hospitality,Farwaniya,Account Manager F,Month-to-month,2023-10-13
+T00109,Coral Group 18,SME,Logistics,Capital,Account Manager F,12 months,2024-09-30
+T00110,Atlas Systems 48,SME,Construction,Capital,Account Manager E,12 months,2020-11-12
+T00111,Delta Systems 45,SME,Retail,Hawalli,Account Manager E,12 months,2022-10-16
+T00112,Failaka Supply 46,Enterprise,Oil & Gas,Ahmadi,Account Manager A,24 months,2019-02-22
+T00113,Gulf Holdings 84,SME,Healthcare,Farwaniya,Account Manager E,Month-to-month,2025-01-23
+T00114,Desert Supply 62,SME,Healthcare,Hawalli,Account Manager D,12 months,2018-05-30
+T00115,Failaka Group 91,Government,Oil & Gas,Mubarak Al-Kabeer,Account Manager F,12 months,2024-05-25
+T00116,Al Group 47,Corporate,Healthcare,Mubarak Al-Kabeer,Account Manager B,12 months,2018-12-21
+T00117,Crescent Logistics 23,SME,Logistics,Hawalli,Account Manager B,24 months,2022-07-20
+T00118,Desert Industries 60,Corporate,Logistics,Ahmadi,Account Manager E,12 months,2025-01-26
+T00119,Falcon Partners 62,SME,Hospitality,Capital,Account Manager E,12 months,2024-01-26
+T00120,Palm Partners 67,Enterprise,Hospitality,Jahra,Account Manager B,12 months,2022-03-16
+T00121,Vertex Systems 64,SME,Retail,Capital,Account Manager A,12 months,2022-08-24
+T00122,Atlas Solutions 80,Government,Education,Jahra,Account Manager E,24 months,2023-05-03
+T00123,Atlas Partners 27,SME,Retail,Capital,Account Manager C,Month-to-month,2025-01-14
+T00124,Oasis Partners 65,Government,Construction,Ahmadi,Account Manager A,12 months,2023-11-11
+T00125,Horizon Holdings 95,Enterprise,Hospitality,Jahra,Account Manager D,24 months,2024-09-09
+T00126,Horizon Services 75,Government,Hospitality,Jahra,Account Manager E,12 months,2023-09-30
+T00127,Vertex Works 21,Corporate,Banking & Finance,Hawalli,Account Manager C,24 months,2025-12-12
+T00128,Coral Works 54,Corporate,Logistics,Hawalli,Account Manager A,12 months,2019-06-24
+T00129,Palm Partners 33,SME,Retail,Farwaniya,Account Manager A,24 months,2023-03-26
+T00130,Delta Solutions 37,Government,Retail,Hawalli,Account Manager A,12 months,2024-12-06
+T00131,Horizon Works 44,Corporate,Hospitality,Farwaniya,Account Manager C,12 months,2021-02-24
+T00132,Crescent Trading 20,Enterprise,Logistics,Ahmadi,Account Manager D,24 months,2024-03-20
+T00133,Nova Trading 87,Corporate,Construction,Hawalli,Account Manager A,24 months,2023-11-25
+T00134,Apex Services 14,Corporate,Retail,Hawalli,Account Manager D,24 months,2024-08-15
+T00135,Nova Group 60,SME,Oil & Gas,Farwaniya,Account Manager D,12 months,2023-08-29
+T00136,Atlas Logistics 25,Corporate,Construction,Hawalli,Account Manager A,24 months,2020-10-04
+T00137,Palm Group 15,Corporate,Construction,Hawalli,Account Manager C,Month-to-month,2024-02-28
+T00138,Palm Works 11,SME,Logistics,Capital,Account Manager D,12 months,2024-08-01
+T00139,Oasis Services 72,Government,Banking & Finance,Hawalli,Account Manager D,24 months,2025-09-18
+T00140,Sahara Holdings 43,Corporate,Education,Ahmadi,Account Manager C,24 months,2021-03-28
+T00141,Palm Industries 31,SME,Logistics,Capital,Account Manager E,Month-to-month,2025-07-28
+T00142,Failaka Enterprises 20,Corporate,Education,Mubarak Al-Kabeer,Account Manager B,12 months,2018-06-14
+T00143,Horizon Holdings 54,Corporate,Education,Jahra,Account Manager A,12 months,2021-07-10
+T00144,Granite Trading 98,Government,Education,Hawalli,Account Manager A,12 months,2024-06-22
+T00145,Oasis Services 47,Corporate,Healthcare,Hawalli,Account Manager F,12 months,2021-08-05
+T00146,Atlas Services 71,Government,Oil & Gas,Ahmadi,Account Manager A,12 months,2020-02-24
+T00147,Prime Enterprises 77,SME,Healthcare,Farwaniya,Account Manager E,12 months,2021-01-23
+T00148,Falcon Supply 67,Enterprise,Healthcare,Capital,Account Manager B,12 months,2025-03-10
+T00149,Atlas Trading 70,Enterprise,Oil & Gas,Hawalli,Account Manager A,24 months,2022-11-21
+T00150,Desert Services 56,SME,Banking & Finance,Hawalli,Account Manager C,24 months,2022-01-15
+T00151,Crescent Industries 73,Corporate,Construction,Ahmadi,Account Manager D,24 months,2025-01-26
+T00152,Gulf Logistics 84,Corporate,Oil & Gas,Mubarak Al-Kabeer,Account Manager F,24 months,2024-09-20
+T00153,Coral Supply 95,Corporate,Oil & Gas,Farwaniya,Account Manager D,24 months,2019-02-01
+T00154,Vertex Solutions 84,Government,Construction,Capital,Account Manager D,24 months,2025-05-01
+T00155,Apex Supply 67,Government,Retail,Capital,Account Manager F,24 months,2020-08-08
+T00156,Prime Partners 49,SME,Hospitality,Capital,Account Manager F,24 months,2026-05-02
+T00157,Apex Holdings 39,SME,Hospitality,Ahmadi,Account Manager A,Month-to-month,2023-06-07
+T00158,Nova Works 77,Government,Oil & Gas,Hawalli,Account Manager B,12 months,2024-02-15
+T00159,Al Logistics 52,Enterprise,Banking & Finance,Jahra,Account Manager B,24 months,2022-05-09
+T00160,Crescent Supply 23,Corporate,Hospitality,Capital,Account Manager F,24 months,2025-09-23
+T00161,Atlas Solutions 31,Government,Logistics,Hawalli,Account Manager F,24 months,2019-03-14
+T00162,Coral Supply 13,SME,Education,Capital,Account Manager B,Month-to-month,2023-12-13
+T00163,Failaka Solutions 27,SME,Oil & Gas,Hawalli,Account Manager D,12 months,2018-04-20
+T00164,Summit Solutions 53,SME,Retail,Jahra,Account Manager F,Month-to-month,2020-09-24
+T00165,Granite Systems 74,SME,Healthcare,Hawalli,Account Manager B,24 months,2022-12-12
+T00166,Crescent Trading 17,Corporate,Retail,Ahmadi,Account Manager F,24 months,2018-12-07
+T00167,Summit Solutions 84,SME,Healthcare,Capital,Account Manager E,Month-to-month,2024-11-30
+T00168,Apex Works 66,SME,Healthcare,Ahmadi,Account Manager C,12 months,2023-02-04
+T00169,Vertex Systems 46,SME,Construction,Jahra,Account Manager E,12 months,2020-06-18
+T00170,Bay Services 77,Enterprise,Retail,Ahmadi,Account Manager A,12 months,2025-11-18
+T00171,Failaka Trading 74,Corporate,Logistics,Ahmadi,Account Manager E,12 months,2023-10-03
+T00172,Falcon Enterprises 58,Government,Hospitality,Ahmadi,Account Manager C,12 months,2023-08-10
+T00173,Sahara Holdings 92,Enterprise,Construction,Mubarak Al-Kabeer,Account Manager F,Month-to-month,2024-05-05
+T00174,Apex Group 52,Government,Logistics,Capital,Account Manager F,24 months,2023-11-09
+T00175,Horizon Services 71,Enterprise,Education,Farwaniya,Account Manager A,24 months,2026-05-30
+T00176,Sahara Holdings 54,Corporate,Oil & Gas,Farwaniya,Account Manager A,24 months,2026-02-22
+T00177,Oasis Works 37,Corporate,Education,Ahmadi,Account Manager C,24 months,2022-06-05
+T00178,Vertex Industries 85,Enterprise,Oil & Gas,Jahra,Account Manager A,24 months,2021-11-08
+T00179,Falcon Holdings 61,SME,Construction,Mubarak Al-Kabeer,Account Manager E,12 months,2019-11-30
+T00180,Crescent Works 57,SME,Logistics,Ahmadi,Account Manager C,12 months,2021-01-20
+T00181,Horizon Industries 11,Corporate,Hospitality,Hawalli,Account Manager F,Month-to-month,2024-06-27
+T00182,Falcon Supply 91,Government,Hospitality,Capital,Account Manager D,24 months,2020-07-16
+T00183,Failaka Systems 44,Government,Banking & Finance,Capital,Account Manager F,12 months,2019-11-23
+T00184,Gulf Trading 40,Enterprise,Banking & Finance,Capital,Account Manager F,24 months,2025-03-14
+T00185,Atlas Solutions 33,Corporate,Healthcare,Capital,Account Manager A,24 months,2018-01-29
+T00186,Al Systems 92,Enterprise,Logistics,Farwaniya,Account Manager E,12 months,2022-01-20
+T00187,Bay Logistics 47,Corporate,Hospitality,Farwaniya,Account Manager C,24 months,2019-01-23
+T00188,Atlas Industries 63,SME,Education,Ahmadi,Account Manager A,24 months,2021-08-04
+T00189,Vertex Trading 46,Government,Healthcare,Mubarak Al-Kabeer,Account Manager B,12 months,2023-08-18
+T00190,Summit Solutions 72,SME,Healthcare,Ahmadi,Account Manager B,12 months,2022-11-20
+T00191,Horizon Systems 73,SME,Construction,Ahmadi,Account Manager D,Month-to-month,2025-03-30
+T00192,Granite Services 65,Corporate,Healthcare,Capital,Account Manager C,Month-to-month,2025-04-09
+T00193,Sahara Logistics 97,SME,Oil & Gas,Ahmadi,Account Manager E,12 months,2022-07-29
+T00194,Delta Systems 90,Corporate,Construction,Ahmadi,Account Manager D,12 months,2026-06-03
+T00195,Horizon Enterprises 35,Corporate,Banking & Finance,Hawalli,Account Manager B,24 months,2026-05-01
+T00196,Granite Systems 79,Corporate,Hospitality,Hawalli,Account Manager E,12 months,2022-06-09
+T00197,Crescent Works 16,Corporate,Construction,Farwaniya,Account Manager C,Month-to-month,2019-12-14
+T00198,Prime Partners 75,SME,Banking & Finance,Ahmadi,Account Manager D,Month-to-month,2023-02-21
+T00199,Apex Logistics 67,SME,Oil & Gas,Mubarak Al-Kabeer,Account Manager C,12 months,2025-08-18
+T00200,Vertex Supply 68,Corporate,Education,Mubarak Al-Kabeer,Account Manager C,24 months,2025-04-13
+T00201,Oasis Supply 19,SME,Retail,Ahmadi,Account Manager C,Month-to-month,2026-04-01
+T00202,Granite Industries 35,Corporate,Hospitality,Jahra,Account Manager E,12 months,2018-07-12
+T00203,Apex Enterprises 96,Government,Healthcare,Ahmadi,Account Manager C,12 months,2021-12-07
+T00204,Palm Systems 40,Corporate,Banking & Finance,Capital,Account Manager E,Month-to-month,2018-10-24
+T00205,Al Industries 36,Corporate,Banking & Finance,Ahmadi,Account Manager B,Month-to-month,2022-09-14
+T00206,Al Partners 79,Enterprise,Logistics,Capital,Account Manager F,24 months,2025-10-15
+T00207,Granite Logistics 87,Enterprise,Construction,Hawalli,Account Manager F,24 months,2020-04-18
+T00208,Granite Works 51,SME,Banking & Finance,Capital,Account Manager A,24 months,2019-06-18
+T00209,Atlas Supply 31,Corporate,Logistics,Hawalli,Account Manager E,12 months,2025-09-23
+T00210,Oasis Trading 80,Corporate,Retail,Capital,Account Manager E,24 months,2022-01-04
+T00211,Failaka Industries 29,Corporate,Logistics,Mubarak Al-Kabeer,Account Manager E,24 months,2020-06-22
+T00212,Vertex Partners 81,Government,Oil & Gas,Ahmadi,Account Manager B,12 months,2024-07-14
+T00213,Summit Supply 49,SME,Healthcare,Farwaniya,Account Manager E,24 months,2022-03-10
+T00214,Apex Solutions 13,Corporate,Logistics,Ahmadi,Account Manager C,24 months,2025-11-13
+T00215,Nova Holdings 94,Corporate,Hospitality,Mubarak Al-Kabeer,Account Manager E,12 months,2020-06-24
+T00216,Al Holdings 19,Corporate,Logistics,Farwaniya,Account Manager B,24 months,2018-07-29
+T00217,Coral Enterprises 77,Corporate,Education,Ahmadi,Account Manager F,12 months,2018-05-22
+T00218,Palm Systems 78,Corporate,Logistics,Mubarak Al-Kabeer,Account Manager E,24 months,2019-03-23
+T00219,Al Works 75,Government,Education,Ahmadi,Account Manager D,24 months,2019-07-18
+T00220,Palm Holdings 81,Corporate,Healthcare,Ahmadi,Account Manager B,24 months,2019-04-05
+T00221,Falcon Trading 90,Enterprise,Banking & Finance,Capital,Account Manager B,24 months,2026-04-09
+T00222,Desert Industries 65,SME,Education,Farwaniya,Account Manager D,12 months,2025-12-16
+T00223,Desert Works 49,Government,Hospitality,Capital,Account Manager E,24 months,2019-07-12
+T00224,Al Supply 55,SME,Construction,Capital,Account Manager E,12 months,2022-04-27
+T00225,Summit Enterprises 57,SME,Logistics,Capital,Account Manager C,Month-to-month,2021-02-07
+T00226,Al Services 45,Corporate,Logistics,Capital,Account Manager F,24 months,2024-09-21
+T00227,Bay Works 64,SME,Healthcare,Mubarak Al-Kabeer,Account Manager C,12 months,2024-09-27
+T00228,Bay Group 31,SME,Banking & Finance,Hawalli,Account Manager E,24 months,2024-09-10
+T00229,Oasis Works 56,SME,Logistics,Capital,Account Manager F,Month-to-month,2018-04-07
+T00230,Atlas Services 85,Government,Logistics,Ahmadi,Account Manager A,24 months,2024-06-12
+T00231,Coral Group 73,SME,Retail,Farwaniya,Account Manager F,Month-to-month,2021-10-14
+T00232,Vertex Logistics 45,SME,Banking & Finance,Ahmadi,Account Manager B,12 months,2022-10-26
+T00233,Prime Group 58,Enterprise,Oil & Gas,Farwaniya,Account Manager F,24 months,2021-11-28
+T00234,Sahara Works 26,SME,Oil & Gas,Ahmadi,Account Manager A,12 months,2019-10-05
+T00235,Bay Industries 70,Corporate,Construction,Jahra,Account Manager F,12 months,2018-01-31
+T00236,Atlas Logistics 73,Corporate,Construction,Capital,Account Manager B,24 months,2025-06-08
+T00237,Oasis Services 57,SME,Logistics,Hawalli,Account Manager F,12 months,2023-03-22
+T00238,Granite Systems 36,Corporate,Hospitality,Ahmadi,Account Manager A,12 months,2020-11-19
+T00239,Prime Industries 61,Corporate,Oil & Gas,Capital,Account Manager C,Month-to-month,2024-12-04
+T00240,Gulf Supply 86,SME,Oil & Gas,Ahmadi,Account Manager E,Month-to-month,2024-12-29
+T00241,Palm Enterprises 62,Corporate,Oil & Gas,Farwaniya,Account Manager E,12 months,2018-11-10
+T00242,Nova Holdings 54,SME,Hospitality,Jahra,Account Manager B,12 months,2019-04-23
+T00243,Coral Solutions 54,SME,Retail,Mubarak Al-Kabeer,Account Manager C,Month-to-month,2019-10-27
+T00244,Atlas Industries 19,Government,Banking & Finance,Hawalli,Account Manager B,12 months,2025-10-16
+T00245,Falcon Trading 15,SME,Retail,Jahra,Account Manager E,12 months,2021-10-05
+T00246,Falcon Solutions 59,Government,Healthcare,Farwaniya,Account Manager E,24 months,2020-12-31
+T00247,Al Group 50,Corporate,Education,Capital,Account Manager D,Month-to-month,2023-10-13
+T00248,Granite Systems 88,SME,Healthcare,Capital,Account Manager F,24 months,2025-08-18
+T00249,Atlas Logistics 47,SME,Hospitality,Mubarak Al-Kabeer,Account Manager E,24 months,2019-05-12
+T00250,Sahara Supply 95,SME,Healthcare,Ahmadi,Account Manager C,24 months,2019-03-21
+T00251,Delta Partners 58,Corporate,Construction,Capital,Account Manager D,12 months,2025-11-23
+T00252,Granite Group 40,SME,Construction,Capital,Account Manager A,Month-to-month,2022-11-20
+T00253,Sahara Holdings 30,SME,Retail,Jahra,Account Manager C,Month-to-month,2023-10-21
+T00254,Vertex Group 89,SME,Education,Ahmadi,Account Manager C,Month-to-month,2019-12-28
+T00255,Coral Group 57,Corporate,Education,Ahmadi,Account Manager C,24 months,2026-05-06
+T00256,Granite Enterprises 29,SME,Construction,Hawalli,Account Manager D,24 months,2024-11-13
+T00257,Vertex Systems 68,SME,Oil & Gas,Ahmadi,Account Manager C,24 months,2021-08-31
+T00258,Al Group 86,SME,Education,Farwaniya,Account Manager A,12 months,2019-06-11
+T00259,Desert Group 38,SME,Logistics,Capital,Account Manager D,24 months,2025-02-08
+T00260,Gulf Industries 40,Corporate,Healthcare,Ahmadi,Account Manager E,12 months,2023-05-29
+T00261,Sahara Trading 35,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager C,12 months,2024-08-28
+T00262,Nova Partners 32,SME,Healthcare,Farwaniya,Account Manager F,12 months,2021-01-20
+T00263,Delta Systems 79,Enterprise,Banking & Finance,Ahmadi,Account Manager E,12 months,2025-08-03
+T00264,Failaka Logistics 86,Enterprise,Construction,Hawalli,Account Manager B,Month-to-month,2021-05-05
+T00265,Crescent Supply 98,SME,Retail,Jahra,Account Manager F,24 months,2020-02-01
+T00266,Vertex Enterprises 32,SME,Retail,Ahmadi,Account Manager E,12 months,2024-06-28
+T00267,Apex Enterprises 90,Corporate,Oil & Gas,Hawalli,Account Manager A,12 months,2019-03-26
+T00268,Summit Services 51,Corporate,Oil & Gas,Ahmadi,Account Manager A,24 months,2024-01-11
+T00269,Gulf Solutions 60,SME,Banking & Finance,Jahra,Account Manager C,12 months,2025-05-02
+T00270,Atlas Industries 48,SME,Education,Capital,Account Manager A,Month-to-month,2025-05-05
+T00271,Bay Group 95,Government,Banking & Finance,Farwaniya,Account Manager E,24 months,2022-01-09
+T00272,Delta Partners 93,Corporate,Hospitality,Ahmadi,Account Manager D,12 months,2023-10-30
+T00273,Oasis Industries 13,Corporate,Construction,Jahra,Account Manager A,Month-to-month,2026-06-19
+T00274,Coral Supply 75,SME,Retail,Capital,Account Manager C,12 months,2018-09-24
+T00275,Prime Group 13,Corporate,Healthcare,Capital,Account Manager A,24 months,2018-07-23
+T00276,Nova Solutions 60,SME,Healthcare,Capital,Account Manager B,Month-to-month,2024-10-08
+T00277,Nova Supply 50,SME,Banking & Finance,Capital,Account Manager E,24 months,2025-06-24
+T00278,Summit Partners 80,Enterprise,Healthcare,Capital,Account Manager F,12 months,2019-12-18
+T00279,Atlas Trading 14,SME,Oil & Gas,Hawalli,Account Manager F,24 months,2024-10-25
+T00280,Sahara Industries 66,SME,Oil & Gas,Capital,Account Manager F,Month-to-month,2026-03-05
+T00281,Falcon Services 15,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager F,12 months,2019-11-04
+T00282,Sahara Enterprises 49,Corporate,Logistics,Ahmadi,Account Manager D,24 months,2018-07-09
+T00283,Desert Supply 36,Government,Hospitality,Ahmadi,Account Manager C,12 months,2026-03-19
+T00284,Crescent Holdings 30,Corporate,Healthcare,Capital,Account Manager E,12 months,2025-11-11
+T00285,Oasis Industries 10,Corporate,Hospitality,Farwaniya,Account Manager A,12 months,2018-05-17
+T00286,Summit Industries 46,Corporate,Logistics,Hawalli,Account Manager F,24 months,2018-03-07
+T00287,Sahara Industries 10,SME,Banking & Finance,Hawalli,Account Manager B,12 months,2025-05-07
+T00288,Prime Partners 34,Corporate,Logistics,Capital,Account Manager F,12 months,2024-12-10
+T00289,Crescent Trading 39,SME,Oil & Gas,Farwaniya,Account Manager E,12 months,2023-04-17
+T00290,Oasis Logistics 59,Corporate,Oil & Gas,Ahmadi,Account Manager A,24 months,2018-11-07
+T00291,Delta Logistics 84,Enterprise,Banking & Finance,Ahmadi,Account Manager F,24 months,2022-03-20
+T00292,Horizon Group 30,Enterprise,Construction,Capital,Account Manager E,24 months,2023-04-03
+T00293,Atlas Systems 31,SME,Oil & Gas,Ahmadi,Account Manager F,24 months,2021-09-04
+T00294,Coral Logistics 86,Corporate,Education,Ahmadi,Account Manager E,24 months,2019-11-08
+T00295,Bay Holdings 30,Enterprise,Retail,Capital,Account Manager A,12 months,2024-04-14
+T00296,Palm Group 31,Corporate,Education,Hawalli,Account Manager A,12 months,2025-06-22
+T00297,Coral Logistics 14,Corporate,Banking & Finance,Farwaniya,Account Manager F,12 months,2025-05-20
+T00298,Crescent Logistics 86,SME,Oil & Gas,Ahmadi,Account Manager D,Month-to-month,2019-04-26
+T00299,Palm Solutions 23,Enterprise,Retail,Capital,Account Manager D,24 months,2026-02-26
+T00300,Failaka Trading 38,SME,Logistics,Hawalli,Account Manager D,12 months,2024-02-27
+T00301,Prime Trading 91,SME,Banking & Finance,Farwaniya,Account Manager C,24 months,2022-07-09
+T00302,Nova Trading 93,Corporate,Logistics,Capital,Account Manager A,24 months,2022-01-17
+T00303,Gulf Services 12,SME,Healthcare,Capital,Account Manager E,Month-to-month,2025-11-14
+T00304,Gulf Industries 72,Corporate,Retail,Ahmadi,Account Manager B,24 months,2021-03-20
+T00305,Failaka Logistics 31,SME,Oil & Gas,Hawalli,Account Manager F,24 months,2021-06-11
+T00306,Nova Partners 30,Corporate,Logistics,Farwaniya,Account Manager A,24 months,2025-09-13
+T00307,Vertex Enterprises 85,Corporate,Construction,Capital,Account Manager E,12 months,2023-05-24
+T00308,Crescent Trading 34,SME,Education,Hawalli,Account Manager C,12 months,2024-04-20
+T00309,Sahara Partners 65,SME,Banking & Finance,Capital,Account Manager D,12 months,2023-03-17
+T00310,Crescent Industries 89,SME,Retail,Ahmadi,Account Manager B,12 months,2022-03-19
+T00311,Delta Supply 86,Corporate,Logistics,Jahra,Account Manager B,24 months,2023-08-29
+T00312,Summit Group 32,SME,Banking & Finance,Hawalli,Account Manager D,24 months,2019-06-09
+T00313,Coral Partners 50,Corporate,Construction,Hawalli,Account Manager F,24 months,2019-03-18
+T00314,Granite Systems 90,SME,Healthcare,Capital,Account Manager C,Month-to-month,2019-05-04
+T00315,Granite Trading 42,Government,Oil & Gas,Mubarak Al-Kabeer,Account Manager C,24 months,2024-01-06
+T00316,Palm Services 23,SME,Retail,Capital,Account Manager E,24 months,2020-05-21
+T00317,Atlas Partners 81,Corporate,Healthcare,Hawalli,Account Manager B,Month-to-month,2019-05-03
+T00318,Prime Systems 36,Corporate,Retail,Capital,Account Manager A,24 months,2021-12-23
+T00319,Desert Partners 46,Corporate,Construction,Farwaniya,Account Manager D,Month-to-month,2025-01-08
+T00320,Failaka Group 83,SME,Retail,Capital,Account Manager F,12 months,2025-09-24
+T00321,Nova Works 12,Government,Construction,Jahra,Account Manager F,12 months,2019-11-25
+T00322,Palm Holdings 44,Enterprise,Healthcare,Jahra,Account Manager C,24 months,2020-03-02
+T00323,Al Enterprises 24,Government,Education,Hawalli,Account Manager B,24 months,2024-12-02
+T00324,Bay Enterprises 85,SME,Retail,Hawalli,Account Manager B,12 months,2020-12-04
+T00325,Palm Group 75,Corporate,Banking & Finance,Hawalli,Account Manager A,12 months,2025-11-19
+T00326,Apex Group 21,SME,Education,Farwaniya,Account Manager C,24 months,2025-01-29
+T00327,Sahara Industries 62,SME,Retail,Ahmadi,Account Manager C,Month-to-month,2020-06-08
+T00328,Desert Industries 79,Corporate,Retail,Ahmadi,Account Manager E,24 months,2022-12-21
+T00329,Prime Enterprises 71,Corporate,Healthcare,Farwaniya,Account Manager F,24 months,2020-08-29
+T00330,Nova Solutions 80,Government,Banking & Finance,Capital,Account Manager F,12 months,2025-12-15
+T00331,Horizon Industries 98,SME,Logistics,Hawalli,Account Manager A,24 months,2022-12-11
+T00332,Summit Trading 92,SME,Education,Capital,Account Manager C,24 months,2024-01-20
+T00333,Al Partners 98,Corporate,Retail,Ahmadi,Account Manager A,12 months,2020-02-10
+T00334,Vertex Systems 44,SME,Hospitality,Capital,Account Manager A,12 months,2018-04-10
+T00335,Prime Partners 89,SME,Healthcare,Farwaniya,Account Manager B,24 months,2022-10-21
+T00336,Nova Works 46,SME,Hospitality,Capital,Account Manager C,12 months,2022-08-18
+T00337,Horizon Industries 65,SME,Retail,Ahmadi,Account Manager F,12 months,2019-01-12
+T00338,Gulf Group 74,Enterprise,Oil & Gas,Capital,Account Manager A,24 months,2022-10-15
+T00339,Nova Logistics 62,SME,Logistics,Mubarak Al-Kabeer,Account Manager A,Month-to-month,2022-09-21
+T00340,Prime Group 40,SME,Healthcare,Jahra,Account Manager F,Month-to-month,2018-09-01
+T00341,Bay Supply 84,Corporate,Retail,Ahmadi,Account Manager F,12 months,2023-04-09
+T00342,Gulf Trading 14,SME,Healthcare,Ahmadi,Account Manager C,24 months,2023-09-04
+T00343,Vertex Industries 30,Government,Hospitality,Jahra,Account Manager F,24 months,2022-01-28
+T00344,Apex Works 84,SME,Construction,Capital,Account Manager E,12 months,2024-07-03
+T00345,Summit Systems 64,Government,Hospitality,Farwaniya,Account Manager C,24 months,2021-04-06
+T00346,Gulf Partners 56,SME,Healthcare,Ahmadi,Account Manager F,Month-to-month,2025-03-20
+T00347,Falcon Services 70,Corporate,Education,Capital,Account Manager E,24 months,2025-08-20
+T00348,Vertex Group 77,Government,Logistics,Capital,Account Manager B,24 months,2024-12-13
+T00349,Palm Supply 23,SME,Healthcare,Jahra,Account Manager E,12 months,2022-11-07
+T00350,Oasis Supply 55,SME,Hospitality,Ahmadi,Account Manager A,24 months,2025-05-26
+T00351,Coral Trading 13,Corporate,Banking & Finance,Mubarak Al-Kabeer,Account Manager A,24 months,2021-07-15
+T00352,Delta Holdings 56,SME,Oil & Gas,Mubarak Al-Kabeer,Account Manager F,Month-to-month,2021-08-08
+T00353,Oasis Holdings 93,Government,Logistics,Capital,Account Manager F,12 months,2021-12-22
+T00354,Nova Services 89,SME,Education,Jahra,Account Manager D,24 months,2025-08-29
+T00355,Bay Holdings 24,Corporate,Oil & Gas,Mubarak Al-Kabeer,Account Manager B,24 months,2026-01-22
+T00356,Bay Logistics 23,SME,Oil & Gas,Capital,Account Manager E,Month-to-month,2025-02-26
+T00357,Falcon Supply 33,Corporate,Healthcare,Hawalli,Account Manager D,12 months,2018-09-18
+T00358,Gulf Enterprises 27,Enterprise,Construction,Mubarak Al-Kabeer,Account Manager B,24 months,2023-10-23
+T00359,Coral Works 97,Corporate,Logistics,Capital,Account Manager B,12 months,2022-06-01
+T00360,Coral Solutions 28,SME,Retail,Capital,Account Manager D,24 months,2018-10-15
+T00361,Atlas Logistics 88,Corporate,Education,Hawalli,Account Manager D,12 months,2026-02-02
+T00362,Palm Systems 88,Corporate,Hospitality,Capital,Account Manager D,12 months,2025-10-14
+T00363,Failaka Holdings 46,SME,Healthcare,Jahra,Account Manager D,12 months,2022-01-06
+T00364,Horizon Industries 76,Enterprise,Logistics,Farwaniya,Account Manager F,Month-to-month,2018-12-15
+T00365,Bay Enterprises 57,Government,Oil & Gas,Farwaniya,Account Manager B,12 months,2021-07-01
+T00366,Delta Supply 60,Corporate,Construction,Capital,Account Manager E,24 months,2020-01-18
+T00367,Oasis Industries 79,Corporate,Retail,Capital,Account Manager D,12 months,2026-05-20
+T00368,Coral Enterprises 87,SME,Logistics,Jahra,Account Manager D,12 months,2023-10-27
+T00369,Sahara Services 54,Government,Oil & Gas,Ahmadi,Account Manager A,24 months,2019-10-25
+T00370,Nova Trading 28,Enterprise,Healthcare,Capital,Account Manager F,24 months,2024-01-29
+T00371,Oasis Enterprises 50,Government,Construction,Hawalli,Account Manager C,24 months,2022-04-30
+T00372,Al Solutions 97,Enterprise,Hospitality,Ahmadi,Account Manager B,24 months,2026-01-22
+T00373,Granite Holdings 81,SME,Retail,Hawalli,Account Manager B,12 months,2025-12-04
+T00374,Palm Supply 88,Corporate,Banking & Finance,Capital,Account Manager E,Month-to-month,2019-05-26
+T00375,Failaka Holdings 65,Corporate,Hospitality,Capital,Account Manager E,12 months,2022-04-02
+T00376,Atlas Holdings 64,SME,Banking & Finance,Ahmadi,Account Manager F,12 months,2023-12-22
+T00377,Vertex Partners 44,SME,Retail,Capital,Account Manager E,12 months,2019-12-22
+T00378,Oasis Trading 63,Enterprise,Logistics,Farwaniya,Account Manager F,12 months,2026-06-23
+T00379,Vertex Supply 54,Government,Hospitality,Ahmadi,Account Manager C,12 months,2024-07-03
+T00380,Crescent Trading 27,SME,Education,Ahmadi,Account Manager D,Month-to-month,2025-09-14
+T00381,Atlas Holdings 42,SME,Logistics,Capital,Account Manager B,Month-to-month,2018-07-10
+T00382,Falcon Services 21,Corporate,Construction,Farwaniya,Account Manager A,24 months,2023-10-24
+T00383,Atlas Industries 37,Government,Retail,Farwaniya,Account Manager D,24 months,2018-02-26
+T00384,Bay Trading 40,SME,Banking & Finance,Hawalli,Account Manager E,Month-to-month,2019-07-06
+T00385,Al Supply 74,Corporate,Construction,Hawalli,Account Manager A,12 months,2023-06-05
+T00386,Desert Solutions 18,SME,Oil & Gas,Capital,Account Manager F,12 months,2025-04-22
+T00387,Crescent Services 61,Corporate,Education,Capital,Account Manager D,12 months,2021-07-03
+T00388,Sahara Holdings 34,Corporate,Oil & Gas,Jahra,Account Manager D,24 months,2022-06-23
+T00389,Crescent Solutions 96,SME,Education,Mubarak Al-Kabeer,Account Manager C,Month-to-month,2022-08-06
+T00390,Gulf Logistics 56,SME,Construction,Jahra,Account Manager A,12 months,2025-07-05
+T00391,Nova Logistics 50,Enterprise,Oil & Gas,Capital,Account Manager E,24 months,2020-07-12
+T00392,Summit Industries 14,SME,Healthcare,Capital,Account Manager B,12 months,2025-05-19
+T00393,Al Logistics 17,Government,Oil & Gas,Ahmadi,Account Manager D,Month-to-month,2020-04-09
+T00394,Granite Solutions 68,SME,Oil & Gas,Capital,Account Manager F,24 months,2020-09-04
+T00395,Bay Logistics 88,SME,Education,Hawalli,Account Manager A,12 months,2020-10-12
+T00396,Prime Solutions 32,Corporate,Construction,Mubarak Al-Kabeer,Account Manager B,Month-to-month,2024-10-03
+T00397,Prime Group 37,SME,Logistics,Ahmadi,Account Manager A,12 months,2026-03-05
+T00398,Delta Group 88,Corporate,Construction,Ahmadi,Account Manager A,12 months,2022-12-11
+T00399,Delta Works 19,Corporate,Banking & Finance,Capital,Account Manager F,Month-to-month,2022-06-24
+T00400,Granite Systems 97,Government,Hospitality,Hawalli,Account Manager B,24 months,2019-12-01
+T00401,Nova Holdings 22,Corporate,Education,Jahra,Account Manager C,12 months,2022-04-23
+T00402,Coral Group 29,SME,Oil & Gas,Hawalli,Account Manager C,12 months,2019-09-02
+T00403,Vertex Logistics 18,SME,Banking & Finance,Hawalli,Account Manager F,12 months,2023-04-19
+T00404,Apex Works 76,Enterprise,Education,Farwaniya,Account Manager E,12 months,2024-03-07
+T00405,Failaka Holdings 58,SME,Healthcare,Capital,Account Manager B,Month-to-month,2022-08-03
+T00406,Horizon Industries 17,Government,Retail,Farwaniya,Account Manager F,24 months,2024-09-19
+T00407,Summit Logistics 24,Government,Oil & Gas,Capital,Account Manager B,24 months,2021-12-10
+T00408,Prime Works 43,Corporate,Retail,Ahmadi,Account Manager C,12 months,2018-07-06
+T00409,Vertex Partners 75,SME,Hospitality,Capital,Account Manager B,Month-to-month,2024-09-24
+T00410,Palm Group 85,SME,Banking & Finance,Capital,Account Manager B,Month-to-month,2023-08-03
+T00411,Falcon Works 46,Corporate,Logistics,Ahmadi,Account Manager A,12 months,2023-12-09
+T00412,Prime Services 12,SME,Retail,Capital,Account Manager A,Month-to-month,2018-04-06
+T00413,Delta Trading 28,SME,Logistics,Hawalli,Account Manager D,24 months,2023-05-08
+T00414,Prime Solutions 89,Corporate,Logistics,Capital,Account Manager C,24 months,2025-11-29
+T00415,Palm Industries 44,Enterprise,Healthcare,Hawalli,Account Manager C,24 months,2024-01-06
+T00416,Summit Solutions 85,SME,Logistics,Farwaniya,Account Manager B,Month-to-month,2023-08-13
+T00417,Failaka Solutions 67,Government,Logistics,Capital,Account Manager D,Month-to-month,2020-06-26
+T00418,Oasis Trading 50,SME,Retail,Capital,Account Manager E,12 months,2023-10-07
+T00419,Gulf Solutions 88,SME,Retail,Ahmadi,Account Manager C,12 months,2026-05-04
+T00420,Palm Industries 85,Corporate,Healthcare,Mubarak Al-Kabeer,Account Manager B,12 months,2025-12-01
+T00421,Vertex Works 76,Corporate,Healthcare,Farwaniya,Account Manager D,24 months,2019-11-11
+T00422,Atlas Partners 57,Government,Education,Ahmadi,Account Manager F,12 months,2022-05-26
+T00423,Palm Solutions 39,SME,Education,Ahmadi,Account Manager C,Month-to-month,2026-04-22
+T00424,Desert Group 24,Government,Logistics,Capital,Account Manager C,12 months,2022-12-13
+T00425,Al Supply 16,Corporate,Education,Hawalli,Account Manager B,12 months,2025-12-11
+T00426,Sahara Trading 79,SME,Hospitality,Capital,Account Manager E,Month-to-month,2024-08-06
+T00427,Atlas Partners 35,SME,Hospitality,Ahmadi,Account Manager F,Month-to-month,2024-12-30
+T00428,Crescent Logistics 57,Enterprise,Construction,Hawalli,Account Manager F,24 months,2025-03-27
+T00429,Falcon Partners 83,Enterprise,Healthcare,Capital,Account Manager D,24 months,2019-08-05
+T00430,Oasis Holdings 21,Corporate,Education,Ahmadi,Account Manager A,24 months,2018-12-10
+T00431,Falcon Industries 26,SME,Healthcare,Capital,Account Manager C,Month-to-month,2022-02-06
+T00432,Granite Industries 52,SME,Education,Ahmadi,Account Manager C,12 months,2020-09-10
+T00433,Apex Supply 23,Corporate,Logistics,Hawalli,Account Manager B,24 months,2022-10-03
+T00434,Gulf Holdings 59,Enterprise,Hospitality,Farwaniya,Account Manager D,24 months,2022-05-12
+T00435,Granite Solutions 24,SME,Retail,Farwaniya,Account Manager B,12 months,2022-04-09
+T00436,Summit Works 12,SME,Retail,Capital,Account Manager F,Month-to-month,2025-04-09
+T00437,Falcon Industries 23,Corporate,Education,Hawalli,Account Manager C,12 months,2021-09-19
+T00438,Coral Trading 38,Corporate,Hospitality,Hawalli,Account Manager B,24 months,2025-07-04
+T00439,Coral Systems 16,SME,Hospitality,Jahra,Account Manager A,12 months,2025-05-28
+T00440,Crescent Supply 45,SME,Hospitality,Hawalli,Account Manager A,24 months,2024-09-23
+T00441,Horizon Partners 68,Enterprise,Healthcare,Capital,Account Manager D,24 months,2022-08-17
+T00442,Gulf Works 97,Corporate,Healthcare,Jahra,Account Manager D,12 months,2023-01-30
+T00443,Prime Services 82,Corporate,Education,Capital,Account Manager D,24 months,2026-01-30
+T00444,Palm Holdings 51,SME,Oil & Gas,Farwaniya,Account Manager D,24 months,2023-10-14
+T00445,Apex Industries 83,SME,Hospitality,Hawalli,Account Manager F,Month-to-month,2025-12-07
+T00446,Coral Enterprises 40,Corporate,Oil & Gas,Capital,Account Manager F,24 months,2021-06-29
+T00447,Vertex Trading 92,Corporate,Hospitality,Farwaniya,Account Manager E,24 months,2020-07-14
+T00448,Atlas Trading 80,Corporate,Hospitality,Farwaniya,Account Manager E,24 months,2025-08-28
+T00449,Bay Systems 14,SME,Healthcare,Farwaniya,Account Manager A,24 months,2021-06-25
+T00450,Delta Systems 80,SME,Banking & Finance,Ahmadi,Account Manager C,24 months,2023-10-01
+T00451,Apex Solutions 28,Corporate,Oil & Gas,Hawalli,Account Manager A,24 months,2024-04-27
+T00452,Summit Systems 77,SME,Education,Hawalli,Account Manager F,12 months,2020-05-29
+T00453,Summit Group 88,SME,Oil & Gas,Hawalli,Account Manager A,12 months,2019-03-21
+T00454,Nova Holdings 50,Corporate,Construction,Hawalli,Account Manager F,24 months,2018-03-26
+T00455,Delta Industries 48,SME,Hospitality,Jahra,Account Manager E,Month-to-month,2024-05-14
+T00456,Gulf Services 66,SME,Construction,Farwaniya,Account Manager A,Month-to-month,2019-02-02
+T00457,Crescent Holdings 23,Corporate,Healthcare,Hawalli,Account Manager E,24 months,2018-08-20
+T00458,Coral Systems 38,SME,Logistics,Mubarak Al-Kabeer,Account Manager F,24 months,2018-10-21
+T00459,Oasis Enterprises 74,SME,Banking & Finance,Hawalli,Account Manager F,Month-to-month,2019-12-11
+T00460,Crescent Group 68,SME,Hospitality,Farwaniya,Account Manager C,Month-to-month,2025-10-22
+T00461,Bay Systems 16,Government,Hospitality,Farwaniya,Account Manager E,12 months,2025-05-22
+T00462,Crescent Systems 94,Government,Oil & Gas,Hawalli,Account Manager E,12 months,2019-02-20
+T00463,Horizon Holdings 59,Corporate,Healthcare,Capital,Account Manager C,Month-to-month,2023-05-06
+T00464,Gulf Industries 70,SME,Education,Capital,Account Manager C,Month-to-month,2018-12-14
+T00465,Granite Works 61,Enterprise,Education,Hawalli,Account Manager A,12 months,2021-11-07
+T00466,Al Supply 50,SME,Construction,Hawalli,Account Manager F,24 months,2022-12-04
+T00467,Summit Works 76,SME,Oil & Gas,Hawalli,Account Manager B,Month-to-month,2026-03-05
+T00468,Palm Group 98,SME,Education,Farwaniya,Account Manager C,12 months,2021-11-10
+T00469,Crescent Partners 76,SME,Hospitality,Jahra,Account Manager E,24 months,2018-08-31
+T00470,Bay Solutions 36,SME,Education,Farwaniya,Account Manager F,Month-to-month,2022-10-04
+T00471,Falcon Supply 73,SME,Hospitality,Capital,Account Manager C,24 months,2018-10-10
+T00472,Falcon Enterprises 75,Enterprise,Oil & Gas,Ahmadi,Account Manager F,24 months,2020-03-30
+T00473,Falcon Holdings 89,SME,Banking & Finance,Capital,Account Manager E,12 months,2018-03-30
+T00474,Vertex Industries 74,Corporate,Oil & Gas,Ahmadi,Account Manager F,12 months,2021-02-18
+T00475,Vertex Partners 74,SME,Hospitality,Capital,Account Manager D,Month-to-month,2021-12-28
+T00476,Coral Group 47,SME,Retail,Capital,Account Manager C,Month-to-month,2020-01-14
+T00477,Gulf Systems 45,Enterprise,Education,Mubarak Al-Kabeer,Account Manager B,24 months,2024-03-22
+T00478,Atlas Enterprises 46,Corporate,Banking & Finance,Farwaniya,Account Manager F,12 months,2023-11-30
+T00479,Crescent Logistics 33,SME,Healthcare,Capital,Account Manager E,Month-to-month,2024-01-15
+T00480,Prime Services 18,Enterprise,Logistics,Mubarak Al-Kabeer,Account Manager F,24 months,2021-10-29
+T00481,Atlas Enterprises 21,SME,Hospitality,Capital,Account Manager E,24 months,2023-04-01
+T00482,Bay Enterprises 68,SME,Banking & Finance,Farwaniya,Account Manager B,24 months,2025-02-04
+T00483,Atlas Trading 88,Government,Construction,Hawalli,Account Manager F,24 months,2020-06-30
+T00484,Atlas Services 27,Government,Logistics,Jahra,Account Manager D,12 months,2022-08-22
+T00485,Gulf Services 93,Corporate,Logistics,Ahmadi,Account Manager F,12 months,2019-12-01
+T00486,Sahara Services 31,SME,Construction,Jahra,Account Manager D,Month-to-month,2023-06-04
+T00487,Coral Enterprises 25,Government,Healthcare,Ahmadi,Account Manager C,12 months,2022-09-22
+T00488,Prime Works 34,Government,Healthcare,Ahmadi,Account Manager A,12 months,2026-03-31
+T00489,Delta Industries 34,Corporate,Education,Capital,Account Manager E,24 months,2020-05-15
+T00490,Summit Group 70,Enterprise,Oil & Gas,Jahra,Account Manager F,12 months,2022-05-06
+T00491,Coral Works 75,Government,Education,Jahra,Account Manager D,12 months,2024-07-24
+T00492,Horizon Enterprises 78,SME,Construction,Ahmadi,Account Manager B,12 months,2025-12-24
+T00493,Granite Partners 64,SME,Retail,Jahra,Account Manager B,24 months,2020-11-13
+T00494,Palm Group 37,SME,Hospitality,Capital,Account Manager E,24 months,2021-07-24
+T00495,Palm Supply 56,Enterprise,Logistics,Mubarak Al-Kabeer,Account Manager C,24 months,2022-08-05
+T00496,Falcon Logistics 71,Enterprise,Construction,Mubarak Al-Kabeer,Account Manager A,12 months,2018-06-01
+T00497,Horizon Trading 57,Corporate,Retail,Hawalli,Account Manager F,Month-to-month,2021-12-02
+T00498,Oasis Enterprises 87,SME,Banking & Finance,Capital,Account Manager D,12 months,2018-10-18
+T00499,Granite Systems 42,SME,Oil & Gas,Ahmadi,Account Manager E,Month-to-month,2026-02-03
+T00500,Oasis Solutions 93,SME,Logistics,Capital,Account Manager F,Month-to-month,2020-05-24
+T00501,Apex Works 39,Corporate,Logistics,Hawalli,Account Manager E,12 months,2025-02-06
+T00502,Atlas Works 58,SME,Hospitality,Capital,Account Manager F,12 months,2018-03-10
+T00503,Palm Logistics 49,SME,Healthcare,Mubarak Al-Kabeer,Account Manager C,Month-to-month,2023-12-27
+T00504,Failaka Services 39,SME,Construction,Hawalli,Account Manager A,Month-to-month,2020-05-18
+T00505,Apex Solutions 45,SME,Construction,Mubarak Al-Kabeer,Account Manager F,Month-to-month,2022-08-24
+T00506,Coral Supply 92,Government,Education,Hawalli,Account Manager B,12 months,2021-05-27
+T00507,Atlas Works 93,Government,Healthcare,Capital,Account Manager E,12 months,2022-12-25
+T00508,Granite Trading 76,SME,Banking & Finance,Hawalli,Account Manager A,12 months,2023-07-30
+T00509,Granite Services 30,Corporate,Healthcare,Capital,Account Manager B,24 months,2020-07-13
+T00510,Delta Industries 52,SME,Education,Ahmadi,Account Manager F,12 months,2021-09-16
+T00511,Failaka Logistics 72,SME,Retail,Jahra,Account Manager F,Month-to-month,2023-10-09
+T00512,Desert Systems 67,Enterprise,Logistics,Mubarak Al-Kabeer,Account Manager D,24 months,2024-09-16
+T00513,Failaka Group 37,Corporate,Hospitality,Hawalli,Account Manager D,24 months,2025-11-21
+T00514,Summit Logistics 62,Enterprise,Healthcare,Ahmadi,Account Manager E,12 months,2020-08-11
+T00515,Falcon Holdings 35,Government,Retail,Capital,Account Manager F,24 months,2023-07-12
+T00516,Desert Systems 82,SME,Logistics,Capital,Account Manager D,24 months,2018-02-20
+T00517,Summit Works 60,SME,Oil & Gas,Farwaniya,Account Manager D,12 months,2019-09-24
+T00518,Gulf Holdings 10,Corporate,Hospitality,Mubarak Al-Kabeer,Account Manager A,12 months,2022-03-19
+T00519,Al Holdings 50,Corporate,Oil & Gas,Hawalli,Account Manager D,Month-to-month,2023-05-20
+T00520,Delta Industries 84,SME,Banking & Finance,Capital,Account Manager F,24 months,2026-03-23
+T00521,Desert Industries 72,SME,Healthcare,Farwaniya,Account Manager D,24 months,2019-02-06
+T00522,Delta Systems 20,Corporate,Retail,Ahmadi,Account Manager A,24 months,2021-01-21
+T00523,Prime Holdings 50,Corporate,Construction,Capital,Account Manager A,Month-to-month,2025-05-29
+T00524,Granite Group 27,SME,Education,Hawalli,Account Manager D,12 months,2024-11-12
+T00525,Coral Industries 12,SME,Oil & Gas,Hawalli,Account Manager C,Month-to-month,2023-01-29
+T00526,Oasis Holdings 65,Corporate,Hospitality,Hawalli,Account Manager C,24 months,2024-08-06
+T00527,Sahara Supply 35,Corporate,Retail,Ahmadi,Account Manager C,Month-to-month,2020-09-24
+T00528,Granite Systems 16,SME,Retail,Hawalli,Account Manager D,24 months,2021-04-11
+T00529,Coral Industries 62,SME,Healthcare,Capital,Account Manager F,Month-to-month,2025-04-12
+T00530,Delta Solutions 34,Government,Healthcare,Capital,Account Manager F,12 months,2024-02-23
+T00531,Crescent Works 29,Corporate,Oil & Gas,Capital,Account Manager D,12 months,2020-09-25
+T00532,Bay Logistics 19,SME,Healthcare,Capital,Account Manager F,24 months,2019-07-14
+T00533,Palm Services 61,Corporate,Logistics,Capital,Account Manager D,12 months,2024-01-10
+T00534,Gulf Industries 47,SME,Construction,Ahmadi,Account Manager D,12 months,2024-07-15
+T00535,Horizon Partners 31,Corporate,Logistics,Mubarak Al-Kabeer,Account Manager C,12 months,2018-09-07
+T00536,Horizon Group 71,SME,Hospitality,Ahmadi,Account Manager C,12 months,2024-07-20
+T00537,Delta Systems 10,Corporate,Healthcare,Ahmadi,Account Manager E,24 months,2025-04-01
+T00538,Al Partners 19,SME,Education,Hawalli,Account Manager C,12 months,2018-04-07
+T00539,Nova Enterprises 74,Corporate,Oil & Gas,Ahmadi,Account Manager E,24 months,2019-08-09
+T00540,Prime Supply 38,Enterprise,Retail,Capital,Account Manager B,12 months,2019-03-30
+T00541,Atlas Group 51,Corporate,Construction,Ahmadi,Account Manager F,24 months,2025-03-05
+T00542,Gulf Logistics 28,Enterprise,Retail,Farwaniya,Account Manager A,24 months,2022-08-05
+T00543,Nova Holdings 69,Government,Healthcare,Jahra,Account Manager B,12 months,2024-02-26
+T00544,Delta Holdings 38,SME,Retail,Farwaniya,Account Manager D,Month-to-month,2022-06-05
+T00545,Delta Enterprises 84,Government,Construction,Mubarak Al-Kabeer,Account Manager B,24 months,2024-02-13
+T00546,Coral Services 93,SME,Logistics,Ahmadi,Account Manager D,12 months,2018-05-21
+T00547,Oasis Holdings 38,Government,Retail,Capital,Account Manager E,24 months,2020-10-09
+T00548,Desert Enterprises 73,SME,Hospitality,Mubarak Al-Kabeer,Account Manager A,24 months,2025-01-02
+T00549,Apex Solutions 53,Enterprise,Hospitality,Hawalli,Account Manager F,24 months,2020-08-26
+T00550,Desert Works 33,Corporate,Healthcare,Hawalli,Account Manager C,Month-to-month,2025-06-26
+T00551,Prime Partners 88,SME,Healthcare,Capital,Account Manager F,Month-to-month,2024-07-09
+T00552,Coral Industries 39,SME,Logistics,Mubarak Al-Kabeer,Account Manager C,12 months,2023-04-24
+T00553,Gulf Group 57,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager D,Month-to-month,2023-10-31
+T00554,Summit Trading 55,SME,Construction,Jahra,Account Manager B,24 months,2020-08-23
+T00555,Nova Solutions 10,Corporate,Hospitality,Capital,Account Manager B,12 months,2021-09-14
+T00556,Nova Logistics 85,SME,Retail,Ahmadi,Account Manager A,12 months,2021-07-04
+T00557,Delta Industries 13,Enterprise,Education,Farwaniya,Account Manager F,12 months,2022-01-25
+T00558,Atlas Systems 76,Corporate,Healthcare,Hawalli,Account Manager A,24 months,2020-10-10
+T00559,Apex Holdings 24,SME,Logistics,Hawalli,Account Manager F,12 months,2020-04-20
+T00560,Al Industries 15,SME,Hospitality,Ahmadi,Account Manager A,Month-to-month,2024-01-31
+T00561,Sahara Group 83,SME,Healthcare,Ahmadi,Account Manager B,12 months,2019-05-13
+T00562,Vertex Partners 50,Corporate,Retail,Mubarak Al-Kabeer,Account Manager A,12 months,2026-06-02
+T00563,Apex Trading 18,SME,Logistics,Farwaniya,Account Manager F,12 months,2025-11-24
+T00564,Oasis Holdings 58,Corporate,Banking & Finance,Ahmadi,Account Manager A,24 months,2026-01-02
+T00565,Palm Systems 32,SME,Retail,Jahra,Account Manager C,12 months,2018-10-22
+T00566,Horizon Partners 76,Corporate,Logistics,Capital,Account Manager C,Month-to-month,2019-08-04
+T00567,Palm Logistics 37,SME,Education,Capital,Account Manager E,12 months,2018-12-16
+T00568,Falcon Holdings 29,SME,Education,Capital,Account Manager B,12 months,2025-10-21
+T00569,Delta Supply 20,Enterprise,Logistics,Hawalli,Account Manager D,24 months,2026-05-29
+T00570,Delta Industries 40,Corporate,Retail,Jahra,Account Manager D,Month-to-month,2019-07-07
+T00571,Gulf Industries 25,Government,Healthcare,Hawalli,Account Manager B,24 months,2021-05-11
+T00572,Al Services 15,Corporate,Healthcare,Capital,Account Manager C,12 months,2020-09-21
+T00573,Falcon Enterprises 98,Enterprise,Retail,Capital,Account Manager D,12 months,2019-12-15
+T00574,Sahara Industries 97,Corporate,Logistics,Mubarak Al-Kabeer,Account Manager A,24 months,2022-07-26
+T00575,Bay Solutions 49,Corporate,Logistics,Farwaniya,Account Manager D,24 months,2023-02-17
+T00576,Coral Holdings 26,Corporate,Hospitality,Mubarak Al-Kabeer,Account Manager C,12 months,2021-04-08
+T00577,Sahara Supply 96,Enterprise,Construction,Capital,Account Manager F,24 months,2023-06-16
+T00578,Granite Works 50,SME,Education,Ahmadi,Account Manager E,24 months,2018-02-23
+T00579,Gulf Systems 29,SME,Logistics,Mubarak Al-Kabeer,Account Manager F,12 months,2018-01-24
+T00580,Summit Group 75,SME,Banking & Finance,Capital,Account Manager E,24 months,2021-12-16
+T00581,Al Partners 76,Corporate,Hospitality,Hawalli,Account Manager F,Month-to-month,2018-12-07
+T00582,Vertex Holdings 83,Corporate,Hospitality,Hawalli,Account Manager C,24 months,2024-10-01
+T00583,Falcon Enterprises 51,Enterprise,Construction,Capital,Account Manager E,12 months,2020-01-18
+T00584,Al Partners 14,SME,Oil & Gas,Capital,Account Manager E,12 months,2019-01-31
+T00585,Coral Systems 43,SME,Oil & Gas,Capital,Account Manager A,24 months,2025-12-07
+T00586,Crescent Systems 33,Government,Retail,Ahmadi,Account Manager F,24 months,2018-12-16
+T00587,Summit Logistics 33,SME,Retail,Jahra,Account Manager C,12 months,2022-11-10
+T00588,Delta Industries 83,SME,Construction,Capital,Account Manager A,Month-to-month,2018-09-28
+T00589,Atlas Partners 24,SME,Logistics,Hawalli,Account Manager C,24 months,2018-05-20
+T00590,Falcon Services 34,SME,Education,Capital,Account Manager C,24 months,2026-04-30
+T00591,Prime Partners 24,SME,Hospitality,Ahmadi,Account Manager D,12 months,2022-08-21
+T00592,Atlas Logistics 60,Enterprise,Oil & Gas,Jahra,Account Manager B,12 months,2023-01-27
+T00593,Failaka Enterprises 85,SME,Construction,Ahmadi,Account Manager B,Month-to-month,2018-10-24
+T00594,Nova Holdings 10,SME,Banking & Finance,Hawalli,Account Manager B,12 months,2023-08-07
+T00595,Al Solutions 63,Corporate,Retail,Mubarak Al-Kabeer,Account Manager A,12 months,2023-01-09
+T00596,Sahara Services 67,SME,Oil & Gas,Farwaniya,Account Manager B,12 months,2019-07-15
+T00597,Delta Solutions 84,SME,Retail,Capital,Account Manager D,12 months,2025-01-31
+T00598,Sahara Industries 51,SME,Retail,Hawalli,Account Manager D,24 months,2022-01-04
+T00599,Apex Logistics 84,Corporate,Banking & Finance,Capital,Account Manager A,12 months,2026-05-13
+T00600,Coral Logistics 15,Corporate,Healthcare,Jahra,Account Manager F,12 months,2025-08-08
+T00601,Atlas Solutions 52,SME,Education,Hawalli,Account Manager D,12 months,2019-08-29
+T00602,Vertex Logistics 27,SME,Healthcare,Capital,Account Manager C,24 months,2025-03-05
+T00603,Atlas Enterprises 12,Government,Education,Farwaniya,Account Manager E,24 months,2018-08-20
+T00604,Desert Works 18,Corporate,Oil & Gas,Jahra,Account Manager C,12 months,2018-09-11
+T00605,Oasis Solutions 19,SME,Education,Capital,Account Manager C,12 months,2025-01-13
+T00606,Oasis Partners 25,SME,Construction,Hawalli,Account Manager A,Month-to-month,2019-06-12
+T00607,Nova Industries 67,Corporate,Oil & Gas,Ahmadi,Account Manager B,24 months,2018-05-29
+T00608,Sahara Solutions 38,SME,Banking & Finance,Ahmadi,Account Manager F,12 months,2020-02-22
+T00609,Atlas Holdings 31,SME,Oil & Gas,Farwaniya,Account Manager D,24 months,2022-10-04
+T00610,Nova Partners 41,Corporate,Healthcare,Ahmadi,Account Manager E,Month-to-month,2024-11-08
+T00611,Atlas Group 92,Corporate,Healthcare,Capital,Account Manager A,12 months,2023-09-06
+T00612,Failaka Logistics 28,Government,Oil & Gas,Ahmadi,Account Manager B,24 months,2018-07-10
+T00613,Apex Works 12,Corporate,Banking & Finance,Capital,Account Manager B,24 months,2023-12-03
+T00614,Coral Enterprises 18,Corporate,Banking & Finance,Jahra,Account Manager B,24 months,2023-02-28
+T00615,Delta Industries 14,SME,Hospitality,Hawalli,Account Manager F,Month-to-month,2025-05-10
+T00616,Prime Logistics 65,SME,Education,Capital,Account Manager C,24 months,2025-07-04
+T00617,Oasis Industries 27,SME,Healthcare,Capital,Account Manager E,12 months,2019-03-26
+T00618,Sahara Supply 77,Government,Oil & Gas,Ahmadi,Account Manager F,24 months,2025-07-24
+T00619,Prime Services 71,SME,Hospitality,Capital,Account Manager E,Month-to-month,2021-02-10
+T00620,Oasis Trading 28,SME,Banking & Finance,Capital,Account Manager D,24 months,2025-01-30
+T00621,Oasis Trading 38,SME,Hospitality,Capital,Account Manager E,12 months,2023-11-08
+T00622,Crescent Supply 17,SME,Education,Ahmadi,Account Manager E,12 months,2022-03-22
+T00623,Vertex Works 81,SME,Logistics,Jahra,Account Manager A,24 months,2020-11-22
+T00624,Coral Solutions 81,Government,Retail,Ahmadi,Account Manager F,12 months,2021-05-09
+T00625,Granite Group 54,SME,Oil & Gas,Capital,Account Manager B,24 months,2021-12-10
+T00626,Horizon Logistics 35,Corporate,Oil & Gas,Capital,Account Manager A,12 months,2022-07-23
+T00627,Granite Supply 43,Enterprise,Retail,Mubarak Al-Kabeer,Account Manager E,12 months,2020-11-26
+T00628,Apex Holdings 80,Government,Education,Capital,Account Manager D,24 months,2023-10-19
+T00629,Vertex Logistics 21,Government,Education,Farwaniya,Account Manager E,24 months,2018-09-10
+T00630,Bay Group 29,SME,Construction,Farwaniya,Account Manager A,Month-to-month,2025-10-07
+T00631,Gulf Supply 19,SME,Healthcare,Farwaniya,Account Manager C,Month-to-month,2020-01-22
+T00632,Delta Works 12,SME,Education,Hawalli,Account Manager E,12 months,2024-03-12
+T00633,Vertex Partners 41,Corporate,Banking & Finance,Capital,Account Manager B,Month-to-month,2025-12-19
+T00634,Bay Holdings 49,SME,Oil & Gas,Hawalli,Account Manager F,24 months,2019-10-11
+T00635,Oasis Services 66,SME,Retail,Capital,Account Manager E,Month-to-month,2022-10-16
+T00636,Falcon Supply 81,Corporate,Hospitality,Jahra,Account Manager C,12 months,2022-03-25
+T00637,Coral Enterprises 44,Corporate,Education,Hawalli,Account Manager C,Month-to-month,2020-03-11
+T00638,Delta Group 34,SME,Oil & Gas,Jahra,Account Manager E,12 months,2021-05-18
+T00639,Crescent Supply 60,SME,Construction,Capital,Account Manager C,24 months,2018-03-15
+T00640,Falcon Logistics 35,Corporate,Oil & Gas,Capital,Account Manager D,24 months,2021-03-20
+T00641,Bay Holdings 59,SME,Banking & Finance,Capital,Account Manager B,24 months,2025-06-06
+T00642,Falcon Group 96,SME,Hospitality,Hawalli,Account Manager D,Month-to-month,2026-04-07
+T00643,Atlas Trading 43,Corporate,Construction,Capital,Account Manager B,Month-to-month,2022-11-13
+T00644,Horizon Industries 37,Corporate,Banking & Finance,Mubarak Al-Kabeer,Account Manager E,24 months,2018-10-16
+T00645,Gulf Partners 74,Corporate,Oil & Gas,Hawalli,Account Manager C,12 months,2022-10-28
+T00646,Granite Holdings 86,SME,Healthcare,Capital,Account Manager A,24 months,2024-09-26
+T00647,Desert Services 60,Corporate,Banking & Finance,Jahra,Account Manager E,24 months,2024-10-10
+T00648,Delta Services 57,Corporate,Construction,Jahra,Account Manager E,12 months,2020-11-06
+T00649,Summit Partners 83,Corporate,Logistics,Jahra,Account Manager E,12 months,2019-08-18
+T00650,Granite Supply 26,Enterprise,Hospitality,Capital,Account Manager A,24 months,2025-12-23
+T00651,Vertex Industries 69,Corporate,Retail,Ahmadi,Account Manager E,24 months,2020-08-12
+T00652,Granite Trading 68,Corporate,Construction,Ahmadi,Account Manager F,24 months,2021-07-24
+T00653,Coral Works 44,SME,Banking & Finance,Hawalli,Account Manager A,12 months,2019-05-04
+T00654,Prime Supply 91,Corporate,Construction,Ahmadi,Account Manager E,12 months,2022-03-04
+T00655,Vertex Supply 10,Government,Healthcare,Hawalli,Account Manager F,24 months,2024-11-07
+T00656,Failaka Trading 93,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager D,24 months,2020-02-06
+T00657,Bay Works 60,Corporate,Healthcare,Jahra,Account Manager A,12 months,2019-05-15
+T00658,Nova Trading 39,Enterprise,Oil & Gas,Farwaniya,Account Manager C,Month-to-month,2019-04-01
+T00659,Desert Logistics 28,SME,Healthcare,Jahra,Account Manager B,12 months,2022-05-02
+T00660,Crescent Logistics 10,Corporate,Healthcare,Farwaniya,Account Manager E,24 months,2018-05-15
+T00661,Vertex Services 93,Corporate,Healthcare,Hawalli,Account Manager B,24 months,2022-05-29
+T00662,Atlas Works 88,SME,Logistics,Ahmadi,Account Manager D,12 months,2022-08-09
+T00663,Granite Holdings 85,SME,Retail,Mubarak Al-Kabeer,Account Manager C,24 months,2018-10-07
+T00664,Vertex Trading 34,SME,Oil & Gas,Farwaniya,Account Manager E,12 months,2018-02-22
+T00665,Bay Industries 48,SME,Hospitality,Capital,Account Manager D,Month-to-month,2026-03-16
+T00666,Delta Industries 54,Corporate,Healthcare,Farwaniya,Account Manager D,24 months,2022-04-29
+T00667,Desert Partners 31,Corporate,Education,Capital,Account Manager E,12 months,2020-10-29
+T00668,Granite Trading 95,Corporate,Hospitality,Ahmadi,Account Manager E,24 months,2023-01-24
+T00669,Delta Works 85,SME,Logistics,Capital,Account Manager B,12 months,2025-09-20
+T00670,Gulf Supply 62,SME,Banking & Finance,Capital,Account Manager F,24 months,2020-06-23
+T00671,Falcon Industries 18,SME,Hospitality,Capital,Account Manager F,12 months,2019-07-30
+T00672,Falcon Services 54,SME,Healthcare,Capital,Account Manager B,12 months,2022-01-17
+T00673,Crescent Solutions 60,Corporate,Education,Ahmadi,Account Manager F,12 months,2023-12-03
+T00674,Failaka Supply 74,SME,Logistics,Farwaniya,Account Manager B,Month-to-month,2019-04-24
+T00675,Failaka Works 47,Corporate,Construction,Ahmadi,Account Manager F,24 months,2018-07-05
+T00676,Coral Holdings 21,SME,Education,Capital,Account Manager A,Month-to-month,2023-12-30
+T00677,Oasis Industries 20,Corporate,Healthcare,Farwaniya,Account Manager F,24 months,2025-08-11
+T00678,Sahara Services 29,SME,Banking & Finance,Hawalli,Account Manager D,12 months,2021-11-09
+T00679,Apex Trading 35,SME,Hospitality,Ahmadi,Account Manager D,Month-to-month,2020-11-06
+T00680,Sahara Trading 12,Corporate,Banking & Finance,Capital,Account Manager D,Month-to-month,2019-06-06
+T00681,Coral Partners 55,Corporate,Education,Hawalli,Account Manager E,24 months,2020-11-28
+T00682,Crescent Logistics 71,SME,Hospitality,Ahmadi,Account Manager B,12 months,2018-09-29
+T00683,Vertex Industries 65,SME,Logistics,Hawalli,Account Manager F,Month-to-month,2024-05-05
+T00684,Bay Industries 43,SME,Hospitality,Capital,Account Manager C,Month-to-month,2023-04-23
+T00685,Delta Systems 22,Corporate,Banking & Finance,Hawalli,Account Manager A,24 months,2022-08-20
+T00686,Al Partners 51,Enterprise,Oil & Gas,Farwaniya,Account Manager D,12 months,2025-05-03
+T00687,Granite Partners 92,SME,Logistics,Ahmadi,Account Manager E,Month-to-month,2024-03-07
+T00688,Vertex Solutions 53,SME,Healthcare,Capital,Account Manager E,Month-to-month,2020-06-12
+T00689,Atlas Solutions 18,Enterprise,Banking & Finance,Capital,Account Manager E,24 months,2024-02-26
+T00690,Horizon Supply 27,Corporate,Retail,Mubarak Al-Kabeer,Account Manager C,24 months,2019-08-25
+T00691,Oasis Solutions 81,SME,Logistics,Capital,Account Manager C,24 months,2020-11-17
+T00692,Oasis Supply 31,SME,Logistics,Mubarak Al-Kabeer,Account Manager B,12 months,2023-03-09
+T00693,Nova Partners 67,SME,Retail,Jahra,Account Manager D,Month-to-month,2022-10-18
+T00694,Granite Works 88,Corporate,Education,Jahra,Account Manager B,Month-to-month,2023-08-08
+T00695,Failaka Holdings 48,SME,Oil & Gas,Farwaniya,Account Manager C,12 months,2025-08-24
+T00696,Prime Logistics 42,Government,Hospitality,Capital,Account Manager B,12 months,2021-12-24
+T00697,Al Solutions 57,SME,Construction,Capital,Account Manager A,12 months,2018-08-19
+T00698,Falcon Supply 52,Enterprise,Banking & Finance,Farwaniya,Account Manager A,24 months,2023-10-15
+T00699,Granite Systems 13,Government,Education,Hawalli,Account Manager A,24 months,2023-10-26
+T00700,Desert Enterprises 58,Corporate,Education,Capital,Account Manager F,24 months,2018-11-13
+T00701,Atlas Partners 90,Government,Banking & Finance,Capital,Account Manager E,12 months,2026-03-14
+T00702,Falcon Trading 37,Corporate,Healthcare,Hawalli,Account Manager D,24 months,2025-10-24
+T00703,Coral Services 84,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager E,24 months,2024-10-23
+T00704,Coral Industries 35,SME,Construction,Hawalli,Account Manager E,12 months,2025-11-26
+T00705,Nova Trading 84,Government,Healthcare,Capital,Account Manager E,24 months,2018-05-14
+T00706,Coral Industries 74,Government,Healthcare,Mubarak Al-Kabeer,Account Manager A,12 months,2023-07-18
+T00707,Horizon Trading 91,Corporate,Banking & Finance,Mubarak Al-Kabeer,Account Manager C,24 months,2024-08-01
+T00708,Sahara Partners 73,SME,Construction,Hawalli,Account Manager C,Month-to-month,2019-12-15
+T00709,Falcon Services 49,SME,Healthcare,Jahra,Account Manager F,24 months,2018-07-30
+T00710,Granite Trading 25,SME,Education,Jahra,Account Manager A,Month-to-month,2024-03-15
+T00711,Granite Group 37,SME,Education,Ahmadi,Account Manager A,Month-to-month,2023-07-07
+T00712,Delta Solutions 55,Enterprise,Retail,Capital,Account Manager C,Month-to-month,2023-02-14
+T00713,Summit Solutions 95,SME,Banking & Finance,Capital,Account Manager E,24 months,2023-09-28
+T00714,Gulf Industries 69,SME,Hospitality,Mubarak Al-Kabeer,Account Manager F,24 months,2018-05-25
+T00715,Sahara Industries 72,Government,Hospitality,Mubarak Al-Kabeer,Account Manager C,12 months,2024-10-09
+T00716,Horizon Services 21,Government,Retail,Ahmadi,Account Manager F,12 months,2025-06-29
+T00717,Granite Systems 84,SME,Construction,Jahra,Account Manager C,Month-to-month,2025-04-07
+T00718,Falcon Supply 65,Government,Retail,Capital,Account Manager A,24 months,2022-08-23
+T00719,Prime Supply 80,SME,Banking & Finance,Hawalli,Account Manager B,Month-to-month,2021-07-25
+T00720,Atlas Partners 44,SME,Education,Farwaniya,Account Manager C,24 months,2026-05-08
+T00721,Horizon Supply 90,SME,Banking & Finance,Ahmadi,Account Manager A,12 months,2018-02-11
+T00722,Desert Supply 48,Government,Oil & Gas,Capital,Account Manager A,12 months,2025-02-08
+T00723,Palm Services 52,SME,Healthcare,Ahmadi,Account Manager B,24 months,2021-04-27
+T00724,Falcon Group 42,Enterprise,Healthcare,Farwaniya,Account Manager D,24 months,2020-10-31
+T00725,Gulf Holdings 20,Corporate,Construction,Hawalli,Account Manager F,24 months,2021-01-24
+T00726,Nova Enterprises 16,Enterprise,Construction,Jahra,Account Manager D,12 months,2022-09-27
+T00727,Vertex Services 74,Government,Hospitality,Jahra,Account Manager D,24 months,2023-10-26
+T00728,Oasis Solutions 92,SME,Logistics,Capital,Account Manager A,24 months,2020-10-12
+T00729,Apex Systems 17,SME,Retail,Hawalli,Account Manager E,12 months,2023-07-31
+T00730,Al Group 24,SME,Oil & Gas,Farwaniya,Account Manager D,24 months,2026-01-13
+T00731,Sahara Solutions 35,Corporate,Retail,Jahra,Account Manager A,Month-to-month,2024-03-30
+T00732,Granite Services 29,Corporate,Education,Ahmadi,Account Manager D,24 months,2024-02-25
+T00733,Falcon Partners 69,Corporate,Education,Ahmadi,Account Manager F,12 months,2025-05-22
+T00734,Coral Works 96,SME,Construction,Farwaniya,Account Manager A,Month-to-month,2024-03-09
+T00735,Al Solutions 60,Corporate,Construction,Ahmadi,Account Manager E,12 months,2025-04-20
+T00736,Al Holdings 23,Enterprise,Education,Farwaniya,Account Manager C,24 months,2020-04-19
+T00737,Coral Trading 23,SME,Education,Hawalli,Account Manager E,12 months,2020-10-08
+T00738,Gulf Industries 60,SME,Hospitality,Hawalli,Account Manager B,24 months,2023-01-20
+T00739,Falcon Works 33,Corporate,Healthcare,Hawalli,Account Manager A,24 months,2018-05-10
+T00740,Horizon Systems 65,Corporate,Oil & Gas,Farwaniya,Account Manager A,Month-to-month,2024-07-03
+T00741,Apex Works 64,Government,Banking & Finance,Hawalli,Account Manager B,12 months,2020-07-04
+T00742,Bay Works 65,SME,Logistics,Hawalli,Account Manager F,Month-to-month,2022-01-11
+T00743,Coral Industries 40,SME,Hospitality,Hawalli,Account Manager E,Month-to-month,2024-12-10
+T00744,Prime Industries 52,Enterprise,Banking & Finance,Capital,Account Manager C,12 months,2023-05-16
+T00745,Desert Holdings 48,Corporate,Hospitality,Hawalli,Account Manager B,Month-to-month,2025-06-15
+T00746,Failaka Supply 85,Corporate,Education,Hawalli,Account Manager B,24 months,2018-08-24
+T00747,Falcon Group 78,Enterprise,Education,Farwaniya,Account Manager F,12 months,2023-01-07
+T00748,Prime Partners 47,SME,Oil & Gas,Hawalli,Account Manager E,24 months,2023-10-03
+T00749,Gulf Systems 38,Enterprise,Education,Ahmadi,Account Manager F,24 months,2018-03-06
+T00750,Gulf Systems 25,Enterprise,Healthcare,Hawalli,Account Manager A,24 months,2021-05-14
+T00751,Apex Solutions 78,SME,Oil & Gas,Capital,Account Manager F,12 months,2025-02-26
+T00752,Palm Works 25,Government,Banking & Finance,Farwaniya,Account Manager F,24 months,2021-12-30
+T00753,Palm Supply 77,Corporate,Retail,Ahmadi,Account Manager D,Month-to-month,2021-07-07
+T00754,Gulf Services 19,SME,Healthcare,Jahra,Account Manager B,12 months,2023-03-30
+T00755,Vertex Logistics 57,SME,Oil & Gas,Jahra,Account Manager F,24 months,2018-08-30
+T00756,Horizon Trading 55,SME,Oil & Gas,Capital,Account Manager E,Month-to-month,2023-08-02
+T00757,Coral Logistics 34,SME,Logistics,Hawalli,Account Manager D,Month-to-month,2019-08-03
+T00758,Granite Industries 53,Corporate,Hospitality,Capital,Account Manager E,24 months,2018-03-03
+T00759,Horizon Logistics 92,SME,Retail,Capital,Account Manager E,12 months,2019-05-19
+T00760,Oasis Supply 15,Government,Healthcare,Jahra,Account Manager C,12 months,2019-06-13
+T00761,Palm Systems 31,Enterprise,Healthcare,Hawalli,Account Manager D,12 months,2018-09-18
+T00762,Desert Enterprises 66,SME,Banking & Finance,Hawalli,Account Manager B,Month-to-month,2024-06-08
+T00763,Failaka Trading 63,Government,Banking & Finance,Ahmadi,Account Manager D,12 months,2021-05-28
+T00764,Granite Trading 51,Government,Banking & Finance,Capital,Account Manager E,12 months,2020-01-02
+T00765,Crescent Works 35,Government,Oil & Gas,Hawalli,Account Manager C,24 months,2020-09-28
+T00766,Crescent Enterprises 15,SME,Construction,Farwaniya,Account Manager E,Month-to-month,2019-06-17
+T00767,Apex Services 74,Corporate,Oil & Gas,Capital,Account Manager B,24 months,2025-03-02
+T00768,Failaka Enterprises 79,SME,Construction,Jahra,Account Manager D,24 months,2018-07-25
+T00769,Coral Logistics 50,SME,Hospitality,Jahra,Account Manager F,12 months,2025-01-12
+T00770,Failaka Solutions 86,Enterprise,Oil & Gas,Jahra,Account Manager F,24 months,2018-09-29
+T00771,Delta Systems 36,SME,Construction,Farwaniya,Account Manager A,Month-to-month,2026-06-25
+T00772,Atlas Logistics 68,Government,Construction,Farwaniya,Account Manager B,24 months,2020-10-10
+T00773,Delta Enterprises 92,SME,Retail,Mubarak Al-Kabeer,Account Manager D,Month-to-month,2019-11-29
+T00774,Granite Enterprises 43,Government,Retail,Capital,Account Manager F,12 months,2020-01-21
+T00775,Vertex Logistics 65,Enterprise,Education,Capital,Account Manager B,24 months,2018-02-03
+T00776,Apex Holdings 55,SME,Retail,Hawalli,Account Manager D,24 months,2020-08-02
+T00777,Al Enterprises 53,Corporate,Hospitality,Farwaniya,Account Manager B,12 months,2025-07-02
+T00778,Crescent Partners 29,Corporate,Construction,Hawalli,Account Manager F,24 months,2026-01-10
+T00779,Vertex Enterprises 41,SME,Hospitality,Ahmadi,Account Manager A,12 months,2023-01-23
+T00780,Prime Holdings 27,Corporate,Retail,Capital,Account Manager C,24 months,2025-12-28
+T00781,Falcon Systems 20,SME,Education,Mubarak Al-Kabeer,Account Manager F,24 months,2023-11-01
+T00782,Palm Solutions 89,SME,Education,Farwaniya,Account Manager D,Month-to-month,2021-09-12
+T00783,Palm Group 60,SME,Hospitality,Capital,Account Manager D,12 months,2024-12-29
+T00784,Prime Industries 95,SME,Banking & Finance,Ahmadi,Account Manager D,Month-to-month,2024-03-20
+T00785,Apex Industries 35,Corporate,Retail,Capital,Account Manager A,12 months,2024-09-11
+T00786,Gulf Holdings 35,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager F,24 months,2022-04-18
+T00787,Atlas Partners 26,Corporate,Oil & Gas,Farwaniya,Account Manager F,12 months,2019-06-10
+T00788,Sahara Enterprises 77,Corporate,Banking & Finance,Farwaniya,Account Manager E,Month-to-month,2024-05-28
+T00789,Gulf Enterprises 84,SME,Retail,Capital,Account Manager E,12 months,2018-10-23
+T00790,Gulf Services 41,Government,Retail,Hawalli,Account Manager A,24 months,2019-09-29
+T00791,Delta Logistics 81,SME,Logistics,Capital,Account Manager C,Month-to-month,2018-02-23
+T00792,Prime Holdings 34,SME,Banking & Finance,Hawalli,Account Manager A,Month-to-month,2018-12-04
+T00793,Desert Group 44,SME,Oil & Gas,Ahmadi,Account Manager B,Month-to-month,2024-02-10
+T00794,Prime Enterprises 58,Corporate,Hospitality,Mubarak Al-Kabeer,Account Manager C,12 months,2019-03-31
+T00795,Apex Enterprises 23,SME,Retail,Mubarak Al-Kabeer,Account Manager B,Month-to-month,2026-04-05
+T00796,Nova Logistics 52,Corporate,Hospitality,Hawalli,Account Manager B,Month-to-month,2022-04-28
+T00797,Desert Services 61,Government,Education,Ahmadi,Account Manager A,24 months,2025-05-20
+T00798,Palm Industries 82,Corporate,Retail,Capital,Account Manager B,Month-to-month,2023-01-12
+T00799,Desert Logistics 49,Government,Retail,Mubarak Al-Kabeer,Account Manager B,12 months,2023-04-27
+T00800,Apex Group 31,SME,Hospitality,Capital,Account Manager C,Month-to-month,2025-12-01
+T00801,Atlas Holdings 26,Government,Hospitality,Hawalli,Account Manager A,12 months,2024-05-07
+T00802,Gulf Solutions 51,SME,Banking & Finance,Ahmadi,Account Manager D,12 months,2022-01-18
+T00803,Atlas Holdings 73,SME,Education,Jahra,Account Manager B,24 months,2022-02-10
+T00804,Desert Works 76,SME,Construction,Ahmadi,Account Manager C,12 months,2022-03-08
+T00805,Gulf Group 26,SME,Hospitality,Ahmadi,Account Manager F,12 months,2025-11-17
+T00806,Summit Holdings 21,SME,Logistics,Hawalli,Account Manager D,Month-to-month,2021-06-13
+T00807,Al Logistics 72,Corporate,Education,Farwaniya,Account Manager F,12 months,2026-06-06
+T00808,Atlas Works 42,Corporate,Education,Jahra,Account Manager F,12 months,2024-08-17
+T00809,Coral Solutions 58,SME,Retail,Jahra,Account Manager E,12 months,2025-08-15
+T00810,Delta Trading 92,SME,Logistics,Mubarak Al-Kabeer,Account Manager A,Month-to-month,2021-12-03
+T00811,Falcon Logistics 65,Government,Banking & Finance,Capital,Account Manager A,24 months,2021-01-29
+T00812,Failaka Trading 87,SME,Retail,Jahra,Account Manager F,Month-to-month,2021-03-26
+T00813,Failaka Supply 51,SME,Healthcare,Farwaniya,Account Manager C,Month-to-month,2023-01-10
+T00814,Failaka Logistics 89,Corporate,Education,Ahmadi,Account Manager D,24 months,2019-11-26
+T00815,Apex Works 54,SME,Oil & Gas,Ahmadi,Account Manager D,Month-to-month,2018-01-10
+T00816,Delta Holdings 51,SME,Education,Ahmadi,Account Manager F,Month-to-month,2019-01-24
+T00817,Delta Trading 73,SME,Oil & Gas,Capital,Account Manager C,12 months,2026-02-14
+T00818,Al Partners 52,Corporate,Banking & Finance,Capital,Account Manager A,12 months,2022-06-25
+T00819,Crescent Logistics 53,SME,Logistics,Farwaniya,Account Manager D,12 months,2019-12-29
+T00820,Oasis Logistics 60,SME,Hospitality,Capital,Account Manager D,24 months,2026-03-10
+T00821,Delta Partners 67,Government,Healthcare,Farwaniya,Account Manager C,24 months,2026-03-28
+T00822,Apex Supply 19,SME,Healthcare,Capital,Account Manager B,Month-to-month,2021-11-19
+T00823,Palm Solutions 27,SME,Education,Jahra,Account Manager F,12 months,2022-08-27
+T00824,Delta Trading 85,SME,Retail,Farwaniya,Account Manager A,12 months,2023-12-18
+T00825,Delta Supply 69,SME,Construction,Hawalli,Account Manager D,Month-to-month,2018-09-15
+T00826,Sahara Industries 89,SME,Oil & Gas,Capital,Account Manager D,Month-to-month,2026-06-16
+T00827,Gulf Group 21,Government,Retail,Farwaniya,Account Manager E,24 months,2024-10-28
+T00828,Oasis Enterprises 33,Corporate,Construction,Mubarak Al-Kabeer,Account Manager F,12 months,2019-01-23
+T00829,Apex Systems 65,SME,Education,Farwaniya,Account Manager D,Month-to-month,2021-06-24
+T00830,Coral Logistics 40,Corporate,Retail,Farwaniya,Account Manager D,24 months,2019-06-01
+T00831,Summit Solutions 25,SME,Education,Hawalli,Account Manager E,24 months,2023-09-16
+T00832,Desert Solutions 76,Corporate,Logistics,Hawalli,Account Manager F,Month-to-month,2022-06-14
+T00833,Nova Systems 94,SME,Construction,Capital,Account Manager C,12 months,2021-08-19
+T00834,Delta Holdings 15,Enterprise,Construction,Hawalli,Account Manager D,12 months,2022-11-30
+T00835,Apex Trading 70,SME,Retail,Mubarak Al-Kabeer,Account Manager D,24 months,2025-09-25
+T00836,Bay Solutions 75,Corporate,Education,Jahra,Account Manager E,Month-to-month,2025-04-19
+T00837,Gulf Solutions 82,Corporate,Oil & Gas,Ahmadi,Account Manager F,12 months,2020-01-21
+T00838,Granite Group 91,Corporate,Retail,Farwaniya,Account Manager A,24 months,2024-08-22
+T00839,Coral Services 22,SME,Banking & Finance,Hawalli,Account Manager F,12 months,2026-05-06
+T00840,Summit Enterprises 98,Corporate,Hospitality,Capital,Account Manager F,12 months,2022-02-14
+T00841,Apex Logistics 30,SME,Banking & Finance,Farwaniya,Account Manager A,24 months,2020-04-23
+T00842,Granite Partners 33,SME,Banking & Finance,Jahra,Account Manager C,Month-to-month,2024-10-30
+T00843,Al Logistics 97,SME,Construction,Farwaniya,Account Manager C,24 months,2018-12-01
+T00844,Oasis Enterprises 32,Corporate,Banking & Finance,Hawalli,Account Manager F,12 months,2020-06-15
+T00845,Delta Services 64,Government,Hospitality,Jahra,Account Manager D,12 months,2019-08-15
+T00846,Delta Partners 43,Government,Retail,Ahmadi,Account Manager F,24 months,2018-10-20
+T00847,Palm Works 84,Enterprise,Retail,Capital,Account Manager C,24 months,2020-01-03
+T00848,Desert Enterprises 10,SME,Banking & Finance,Capital,Account Manager B,12 months,2019-07-29
+T00849,Vertex Partners 42,SME,Hospitality,Capital,Account Manager F,24 months,2020-01-05
+T00850,Granite Works 13,SME,Logistics,Capital,Account Manager B,Month-to-month,2023-10-05
+T00851,Desert Solutions 89,SME,Retail,Farwaniya,Account Manager C,12 months,2021-11-13
+T00852,Horizon Enterprises 82,Corporate,Healthcare,Ahmadi,Account Manager C,24 months,2025-11-03
+T00853,Delta Industries 22,SME,Education,Ahmadi,Account Manager D,Month-to-month,2024-09-23
+T00854,Falcon Holdings 76,Enterprise,Retail,Capital,Account Manager D,24 months,2022-01-20
+T00855,Gulf Holdings 31,SME,Retail,Farwaniya,Account Manager D,12 months,2024-01-10
+T00856,Gulf Solutions 27,Government,Banking & Finance,Hawalli,Account Manager E,24 months,2022-01-18
+T00857,Vertex Holdings 48,Corporate,Construction,Capital,Account Manager D,24 months,2019-07-24
+T00858,Crescent Enterprises 86,SME,Logistics,Hawalli,Account Manager A,24 months,2019-02-20
+T00859,Horizon Systems 75,Enterprise,Education,Hawalli,Account Manager F,24 months,2021-03-26
+T00860,Bay Industries 97,SME,Construction,Jahra,Account Manager B,24 months,2018-01-08
+T00861,Gulf Holdings 68,Enterprise,Education,Farwaniya,Account Manager E,12 months,2022-05-23
+T00862,Nova Solutions 98,SME,Construction,Farwaniya,Account Manager C,12 months,2020-12-27
+T00863,Palm Industries 77,SME,Healthcare,Capital,Account Manager C,12 months,2024-05-23
+T00864,Granite Industries 46,SME,Healthcare,Jahra,Account Manager F,24 months,2018-07-01
+T00865,Crescent Industries 27,SME,Logistics,Capital,Account Manager A,Month-to-month,2024-05-08
+T00866,Gulf Solutions 45,Government,Healthcare,Hawalli,Account Manager A,12 months,2021-05-30
+T00867,Crescent Solutions 35,Corporate,Logistics,Capital,Account Manager F,24 months,2025-01-07
+T00868,Gulf Services 28,SME,Oil & Gas,Capital,Account Manager B,24 months,2022-04-28
+T00869,Coral Partners 81,Enterprise,Oil & Gas,Mubarak Al-Kabeer,Account Manager D,24 months,2018-11-07
+T00870,Failaka Group 63,Corporate,Banking & Finance,Hawalli,Account Manager F,12 months,2021-12-16
+T00871,Summit Industries 32,SME,Retail,Hawalli,Account Manager B,12 months,2020-08-20
+T00872,Summit Industries 12,SME,Healthcare,Mubarak Al-Kabeer,Account Manager A,Month-to-month,2022-03-09
+T00873,Coral Partners 45,SME,Banking & Finance,Farwaniya,Account Manager F,24 months,2020-08-20
+T00874,Coral Solutions 45,SME,Healthcare,Capital,Account Manager B,Month-to-month,2020-08-26
+T00875,Apex Systems 45,Government,Hospitality,Capital,Account Manager A,24 months,2018-09-23
+T00876,Summit Trading 17,SME,Oil & Gas,Jahra,Account Manager C,Month-to-month,2023-11-13
+T00877,Oasis Services 24,Corporate,Logistics,Capital,Account Manager A,12 months,2022-07-02
+T00878,Desert Holdings 91,Government,Hospitality,Capital,Account Manager D,24 months,2021-10-29
+T00879,Failaka Works 32,Corporate,Banking & Finance,Hawalli,Account Manager C,12 months,2024-01-25
+T00880,Apex Trading 30,Government,Banking & Finance,Capital,Account Manager C,24 months,2020-11-17
+T00881,Horizon Trading 86,SME,Construction,Jahra,Account Manager C,Month-to-month,2022-04-29
+T00882,Sahara Partners 37,Enterprise,Oil & Gas,Hawalli,Account Manager A,12 months,2019-05-05
+T00883,Nova Systems 57,Enterprise,Healthcare,Hawalli,Account Manager A,24 months,2018-10-23
+T00884,Delta Systems 21,Corporate,Construction,Hawalli,Account Manager B,24 months,2023-07-20
+T00885,Prime Services 24,Corporate,Banking & Finance,Hawalli,Account Manager B,Month-to-month,2021-04-05
+T00886,Granite Logistics 15,SME,Construction,Jahra,Account Manager C,Month-to-month,2023-07-08
+T00887,Sahara Solutions 56,SME,Hospitality,Ahmadi,Account Manager F,Month-to-month,2025-09-18
+T00888,Granite Enterprises 14,SME,Logistics,Capital,Account Manager D,Month-to-month,2025-03-16
+T00889,Apex Industries 76,Corporate,Retail,Ahmadi,Account Manager A,24 months,2022-04-14
+T00890,Failaka Group 47,Corporate,Education,Farwaniya,Account Manager E,Month-to-month,2024-10-14
+T00891,Prime Supply 31,SME,Retail,Farwaniya,Account Manager B,Month-to-month,2025-06-11
+T00892,Atlas Partners 69,Government,Oil & Gas,Capital,Account Manager B,12 months,2022-11-21
+T00893,Horizon Partners 61,SME,Retail,Hawalli,Account Manager B,12 months,2023-05-28
+T00894,Sahara Holdings 84,Enterprise,Oil & Gas,Farwaniya,Account Manager B,24 months,2021-03-01
+T00895,Delta Supply 91,Corporate,Logistics,Capital,Account Manager C,12 months,2020-06-21
+T00896,Delta Solutions 78,SME,Healthcare,Farwaniya,Account Manager A,12 months,2021-04-22
+T00897,Palm Group 70,SME,Hospitality,Ahmadi,Account Manager C,Month-to-month,2022-01-02
+T00898,Gulf Holdings 80,SME,Banking & Finance,Ahmadi,Account Manager E,12 months,2025-09-05
+T00899,Crescent Supply 10,Government,Hospitality,Ahmadi,Account Manager B,12 months,2020-04-29
+T00900,Palm Services 91,SME,Banking & Finance,Farwaniya,Account Manager F,12 months,2019-08-28
+T00901,Gulf Supply 44,Corporate,Logistics,Jahra,Account Manager A,12 months,2025-05-11
+T00902,Falcon Holdings 66,Corporate,Logistics,Mubarak Al-Kabeer,Account Manager C,24 months,2021-06-05
+T00903,Bay Logistics 16,SME,Healthcare,Hawalli,Account Manager A,Month-to-month,2018-09-08
+T00904,Granite Solutions 18,SME,Oil & Gas,Ahmadi,Account Manager E,Month-to-month,2025-11-17
+T00905,Vertex Holdings 64,SME,Healthcare,Capital,Account Manager E,Month-to-month,2025-02-17
+T00906,Sahara Industries 35,Corporate,Healthcare,Jahra,Account Manager C,12 months,2024-02-11
+T00907,Horizon Services 63,SME,Hospitality,Capital,Account Manager D,Month-to-month,2026-03-31
+T00908,Falcon Systems 97,Corporate,Oil & Gas,Hawalli,Account Manager F,24 months,2024-04-22
+T00909,Crescent Works 79,SME,Healthcare,Hawalli,Account Manager F,12 months,2019-05-03
+T00910,Atlas Solutions 78,SME,Education,Ahmadi,Account Manager F,24 months,2020-09-28
+T00911,Desert Holdings 30,SME,Oil & Gas,Capital,Account Manager C,24 months,2022-04-07
+T00912,Failaka Group 68,SME,Construction,Hawalli,Account Manager A,Month-to-month,2026-01-17
+T00913,Coral Services 94,Corporate,Oil & Gas,Jahra,Account Manager D,24 months,2024-11-25
+T00914,Al Logistics 29,SME,Healthcare,Farwaniya,Account Manager D,Month-to-month,2025-07-07
+T00915,Coral Enterprises 38,SME,Education,Farwaniya,Account Manager F,Month-to-month,2025-04-29
+T00916,Vertex Systems 54,Corporate,Banking & Finance,Farwaniya,Account Manager F,Month-to-month,2018-06-23
+T00917,Crescent Trading 50,Corporate,Oil & Gas,Capital,Account Manager E,12 months,2018-09-19
+T00918,Atlas Services 86,Government,Hospitality,Capital,Account Manager B,12 months,2022-02-17
+T00919,Delta Trading 84,Enterprise,Hospitality,Capital,Account Manager E,12 months,2025-03-17
+T00920,Falcon Holdings 94,Government,Oil & Gas,Ahmadi,Account Manager E,12 months,2020-12-07
+T00921,Sahara Trading 42,Corporate,Construction,Capital,Account Manager C,24 months,2022-10-27
+T00922,Palm Partners 32,Corporate,Banking & Finance,Farwaniya,Account Manager F,12 months,2025-08-23
+T00923,Horizon Works 29,Corporate,Logistics,Jahra,Account Manager A,24 months,2025-12-20
+T00924,Palm Enterprises 88,SME,Hospitality,Ahmadi,Account Manager B,12 months,2019-03-29
+T00925,Summit Solutions 58,Enterprise,Education,Capital,Account Manager D,24 months,2020-09-16
+T00926,Horizon Holdings 79,Corporate,Hospitality,Hawalli,Account Manager C,24 months,2022-12-30
+T00927,Delta Solutions 80,Government,Construction,Farwaniya,Account Manager B,24 months,2020-03-03
+T00928,Desert Holdings 12,SME,Hospitality,Capital,Account Manager E,12 months,2019-07-20
+T00929,Atlas Supply 49,SME,Logistics,Capital,Account Manager F,12 months,2018-01-03
+T00930,Palm Industries 66,Corporate,Retail,Capital,Account Manager F,12 months,2021-07-06
+T00931,Falcon Enterprises 92,Government,Construction,Farwaniya,Account Manager F,24 months,2022-12-30
+T00932,Horizon Industries 52,SME,Healthcare,Capital,Account Manager B,12 months,2021-01-08
+T00933,Prime Logistics 15,SME,Logistics,Jahra,Account Manager E,12 months,2023-02-12
+T00934,Failaka Group 27,Corporate,Construction,Farwaniya,Account Manager D,Month-to-month,2018-11-28
+T00935,Al Works 84,Corporate,Oil & Gas,Hawalli,Account Manager C,24 months,2023-09-19
+T00936,Apex Trading 41,Government,Banking & Finance,Hawalli,Account Manager D,12 months,2018-06-18
+T00937,Granite Partners 21,Corporate,Hospitality,Capital,Account Manager B,12 months,2024-12-09
+T00938,Prime Group 96,SME,Banking & Finance,Capital,Account Manager F,12 months,2025-05-12
+T00939,Gulf Works 70,Corporate,Healthcare,Capital,Account Manager E,12 months,2019-10-24
+T00940,Coral Services 39,SME,Banking & Finance,Capital,Account Manager A,Month-to-month,2018-02-20
+T00941,Apex Solutions 35,SME,Healthcare,Capital,Account Manager E,24 months,2023-06-20
+T00942,Desert Industries 18,SME,Healthcare,Hawalli,Account Manager A,12 months,2022-03-06
+T00943,Gulf Industries 43,Corporate,Construction,Capital,Account Manager C,12 months,2018-04-22
+T00944,Nova Trading 98,SME,Healthcare,Capital,Account Manager B,Month-to-month,2023-01-22
+T00945,Nova Trading 12,SME,Oil & Gas,Hawalli,Account Manager A,12 months,2020-06-02
+T00946,Prime Partners 83,SME,Logistics,Farwaniya,Account Manager D,12 months,2025-11-22
+T00947,Delta Trading 66,SME,Logistics,Capital,Account Manager F,12 months,2026-06-08
+T00948,Failaka Logistics 56,SME,Retail,Capital,Account Manager A,Month-to-month,2021-01-21
+T00949,Coral Enterprises 46,Enterprise,Construction,Ahmadi,Account Manager C,24 months,2020-04-01
+T00950,Oasis Enterprises 40,Corporate,Construction,Hawalli,Account Manager E,24 months,2020-02-05
+T00951,Gulf Logistics 16,SME,Banking & Finance,Capital,Account Manager D,12 months,2018-09-04
+T00952,Gulf Logistics 80,SME,Hospitality,Ahmadi,Account Manager D,24 months,2024-09-14
+T00953,Delta Group 47,SME,Logistics,Ahmadi,Account Manager F,Month-to-month,2018-11-16
+T00954,Gulf Services 31,Corporate,Education,Jahra,Account Manager F,12 months,2020-08-12
+T00955,Delta Works 71,Corporate,Construction,Capital,Account Manager B,24 months,2024-06-15
+T00956,Atlas Supply 71,Corporate,Banking & Finance,Jahra,Account Manager D,Month-to-month,2023-06-26
+T00957,Failaka Works 88,Enterprise,Education,Capital,Account Manager B,24 months,2018-06-04
+T00958,Nova Works 78,SME,Hospitality,Capital,Account Manager A,12 months,2024-04-23
+T00959,Desert Group 76,Enterprise,Banking & Finance,Capital,Account Manager D,24 months,2021-08-07
+T00960,Desert Logistics 71,SME,Healthcare,Farwaniya,Account Manager F,Month-to-month,2018-11-08
+T00961,Bay Works 19,Corporate,Logistics,Capital,Account Manager B,24 months,2021-07-12
+T00962,Summit Supply 60,SME,Hospitality,Jahra,Account Manager D,Month-to-month,2024-07-23
+T00963,Desert Group 40,Corporate,Oil & Gas,Hawalli,Account Manager A,12 months,2020-04-24
+T00964,Vertex Group 65,SME,Retail,Farwaniya,Account Manager E,Month-to-month,2022-04-19
+T00965,Oasis Systems 23,SME,Logistics,Hawalli,Account Manager E,12 months,2025-03-30
+T00966,Failaka Supply 22,SME,Education,Farwaniya,Account Manager A,12 months,2023-09-04
+T00967,Atlas Enterprises 64,Enterprise,Oil & Gas,Ahmadi,Account Manager B,24 months,2026-03-19
+T00968,Bay Partners 70,SME,Hospitality,Hawalli,Account Manager D,24 months,2018-05-24
+T00969,Failaka Trading 76,SME,Logistics,Capital,Account Manager A,Month-to-month,2020-04-20
+T00970,Oasis Trading 46,SME,Education,Farwaniya,Account Manager C,12 months,2025-04-08
+T00971,Oasis Industries 98,SME,Hospitality,Farwaniya,Account Manager A,24 months,2018-05-12
+T00972,Desert Group 49,Enterprise,Construction,Hawalli,Account Manager A,12 months,2026-06-13
+T00973,Apex Enterprises 78,SME,Retail,Capital,Account Manager D,12 months,2026-02-05
+T00974,Desert Works 83,Enterprise,Retail,Capital,Account Manager E,12 months,2020-04-05
+T00975,Crescent Partners 13,SME,Logistics,Mubarak Al-Kabeer,Account Manager E,24 months,2023-01-25
+T00976,Delta Supply 52,SME,Construction,Jahra,Account Manager E,12 months,2023-04-07
+T00977,Horizon Logistics 17,SME,Healthcare,Capital,Account Manager F,12 months,2025-02-13
+T00978,Failaka Enterprises 92,SME,Logistics,Hawalli,Account Manager B,24 months,2019-03-28
+T00979,Coral Logistics 95,SME,Oil & Gas,Farwaniya,Account Manager D,Month-to-month,2023-10-25
+T00980,Horizon Systems 63,SME,Banking & Finance,Ahmadi,Account Manager A,12 months,2019-10-24
+T00981,Granite Enterprises 20,SME,Hospitality,Farwaniya,Account Manager C,Month-to-month,2021-08-16
+T00982,Nova Holdings 55,Enterprise,Retail,Hawalli,Account Manager E,24 months,2023-08-03
+T00983,Bay Logistics 55,SME,Hospitality,Hawalli,Account Manager F,24 months,2024-10-01
+T00984,Coral Holdings 53,SME,Education,Hawalli,Account Manager E,12 months,2019-05-11
+T00985,Vertex Logistics 96,SME,Healthcare,Capital,Account Manager D,Month-to-month,2023-04-01
+T00986,Granite Partners 50,Corporate,Construction,Farwaniya,Account Manager A,12 months,2019-10-09
+T00987,Vertex Solutions 47,SME,Construction,Ahmadi,Account Manager E,Month-to-month,2018-12-21
+T00988,Vertex Trading 67,SME,Education,Ahmadi,Account Manager B,12 months,2024-12-17
+T00989,Oasis Holdings 78,Enterprise,Oil & Gas,Hawalli,Account Manager E,24 months,2021-12-26
+T00990,Horizon Enterprises 73,Government,Banking & Finance,Jahra,Account Manager E,12 months,2023-04-09
+T00991,Granite Industries 19,SME,Banking & Finance,Capital,Account Manager C,24 months,2019-08-02
+T00992,Coral Supply 24,Government,Logistics,Capital,Account Manager B,24 months,2022-06-27
+T00993,Oasis Systems 27,SME,Healthcare,Capital,Account Manager F,Month-to-month,2026-03-11
+T00994,Atlas Holdings 67,Corporate,Retail,Capital,Account Manager B,24 months,2021-09-12
+T00995,Atlas Holdings 35,SME,Banking & Finance,Hawalli,Account Manager B,Month-to-month,2023-02-02
+T00996,Delta Industries 30,Corporate,Logistics,Ahmadi,Account Manager E,12 months,2023-11-12
+T00997,Desert Works 94,Enterprise,Construction,Hawalli,Account Manager F,24 months,2021-08-16
+T00998,Horizon Industries 77,Government,Banking & Finance,Hawalli,Account Manager F,12 months,2019-03-13
+T00999,Crescent Works 42,Corporate,Education,Farwaniya,Account Manager E,12 months,2022-10-17
+T01000,Palm Group 41,Corporate,Education,Farwaniya,Account Manager B,12 months,2020-04-29
+T01001,Summit Enterprises 33,Corporate,Hospitality,Farwaniya,Account Manager B,24 months,2022-06-21
+T01002,Failaka Partners 76,Corporate,Oil & Gas,Farwaniya,Account Manager B,12 months,2025-09-27
+T01003,Prime Partners 40,SME,Hospitality,Capital,Account Manager F,Month-to-month,2018-10-28
+T01004,Failaka Enterprises 86,Corporate,Oil & Gas,Farwaniya,Account Manager B,12 months,2023-10-08
+T01005,Oasis Supply 38,SME,Oil & Gas,Farwaniya,Account Manager D,12 months,2025-07-10
+T01006,Desert Holdings 57,SME,Banking & Finance,Capital,Account Manager E,Month-to-month,2023-07-16
+T01007,Bay Services 30,Corporate,Construction,Hawalli,Account Manager E,12 months,2018-11-04
+T01008,Desert Supply 49,SME,Banking & Finance,Ahmadi,Account Manager B,Month-to-month,2018-01-14
+T01009,Granite Supply 90,Enterprise,Logistics,Farwaniya,Account Manager A,24 months,2022-10-31
+T01010,Vertex Services 95,SME,Oil & Gas,Hawalli,Account Manager D,24 months,2024-07-15
+T01011,Summit Trading 38,SME,Logistics,Capital,Account Manager B,12 months,2018-08-17
+T01012,Failaka Partners 17,SME,Education,Capital,Account Manager F,12 months,2022-04-17
+T01013,Vertex Solutions 54,SME,Banking & Finance,Hawalli,Account Manager E,12 months,2018-05-06
+T01014,Oasis Enterprises 76,Government,Oil & Gas,Ahmadi,Account Manager B,12 months,2025-07-09
+T01015,Apex Holdings 47,SME,Banking & Finance,Jahra,Account Manager E,Month-to-month,2021-06-26
+T01016,Atlas Partners 21,Corporate,Education,Capital,Account Manager B,Month-to-month,2020-11-08
+T01017,Oasis Solutions 57,SME,Oil & Gas,Mubarak Al-Kabeer,Account Manager E,12 months,2024-09-11
+T01018,Sahara Supply 49,SME,Education,Jahra,Account Manager C,12 months,2024-04-07
+T01019,Nova Solutions 19,SME,Logistics,Farwaniya,Account Manager A,24 months,2018-02-03
+T01020,Delta Supply 59,Government,Retail,Jahra,Account Manager E,12 months,2022-12-21
+T01021,Gulf Trading 96,SME,Education,Farwaniya,Account Manager D,24 months,2021-07-22
+T01022,Atlas Industries 25,Enterprise,Education,Mubarak Al-Kabeer,Account Manager A,12 months,2022-09-27
+T01023,Summit Systems 89,SME,Hospitality,Capital,Account Manager B,Month-to-month,2020-03-27
+T01024,Summit Enterprises 15,Corporate,Banking & Finance,Jahra,Account Manager D,24 months,2021-04-15
+T01025,Al Trading 92,SME,Hospitality,Mubarak Al-Kabeer,Account Manager B,24 months,2023-05-15
+T01026,Vertex Services 11,SME,Retail,Farwaniya,Account Manager D,12 months,2025-10-11
+T01027,Al Works 19,SME,Banking & Finance,Jahra,Account Manager B,12 months,2022-07-19
+T01028,Gulf Partners 63,SME,Retail,Jahra,Account Manager B,12 months,2022-11-23
+T01029,Desert Logistics 70,Corporate,Hospitality,Ahmadi,Account Manager B,24 months,2020-03-31
+T01030,Oasis Holdings 16,SME,Education,Capital,Account Manager F,Month-to-month,2023-11-15
+T01031,Crescent Services 65,Corporate,Banking & Finance,Capital,Account Manager A,12 months,2026-03-12
+T01032,Horizon Solutions 62,SME,Construction,Farwaniya,Account Manager D,12 months,2020-08-22
+T01033,Coral Holdings 58,Corporate,Education,Ahmadi,Account Manager C,24 months,2020-07-02
+T01034,Bay Industries 89,SME,Logistics,Capital,Account Manager E,24 months,2020-09-07
+T01035,Desert Services 68,Enterprise,Retail,Capital,Account Manager F,24 months,2025-07-29
+T01036,Prime Enterprises 27,Corporate,Education,Ahmadi,Account Manager C,24 months,2020-08-20
+T01037,Vertex Supply 94,SME,Logistics,Jahra,Account Manager D,24 months,2026-01-06
+T01038,Sahara Logistics 59,Corporate,Logistics,Hawalli,Account Manager E,12 months,2021-07-21
+T01039,Atlas Supply 52,SME,Healthcare,Capital,Account Manager F,Month-to-month,2024-02-26
+T01040,Delta Holdings 75,SME,Hospitality,Farwaniya,Account Manager F,12 months,2023-03-09
+T01041,Desert Enterprises 14,SME,Construction,Capital,Account Manager E,24 months,2019-01-16
+T01042,Prime Holdings 52,Enterprise,Oil & Gas,Jahra,Account Manager F,24 months,2018-05-15
+T01043,Palm Holdings 11,SME,Hospitality,Hawalli,Account Manager A,12 months,2026-05-02
+T01044,Atlas Logistics 58,Corporate,Retail,Farwaniya,Account Manager D,12 months,2019-08-25
+T01045,Failaka Solutions 64,SME,Hospitality,Farwaniya,Account Manager C,Month-to-month,2021-09-26
+T01046,Failaka Services 56,SME,Construction,Ahmadi,Account Manager D,24 months,2023-02-23
+T01047,Apex Solutions 73,SME,Hospitality,Ahmadi,Account Manager A,12 months,2018-07-23
+T01048,Al Industries 86,SME,Banking & Finance,Hawalli,Account Manager E,Month-to-month,2022-05-24
+T01049,Crescent Systems 63,SME,Construction,Hawalli,Account Manager C,24 months,2018-05-31
+T01050,Bay Solutions 25,SME,Construction,Mubarak Al-Kabeer,Account Manager F,Month-to-month,2022-07-16
+T01051,Al Works 29,SME,Education,Hawalli,Account Manager F,12 months,2019-07-30
+T01052,Vertex Logistics 24,SME,Retail,Capital,Account Manager F,Month-to-month,2021-03-13
+T01053,Oasis Trading 25,Corporate,Oil & Gas,Ahmadi,Account Manager F,24 months,2023-11-04
+T01054,Prime Services 60,Corporate,Healthcare,Capital,Account Manager D,Month-to-month,2022-11-16
+T01055,Coral Logistics 27,Government,Banking & Finance,Hawalli,Account Manager B,12 months,2019-10-20
+T01056,Failaka Supply 57,Government,Retail,Hawalli,Account Manager F,12 months,2020-09-12
+T01057,Al Group 92,Government,Education,Capital,Account Manager C,12 months,2021-07-29
+T01058,Horizon Supply 55,SME,Construction,Capital,Account Manager E,24 months,2026-05-19
+T01059,Al Works 77,Corporate,Healthcare,Capital,Account Manager D,24 months,2026-01-06
+T01060,Palm Supply 27,SME,Healthcare,Ahmadi,Account Manager B,12 months,2018-02-26
+T01061,Coral Solutions 96,SME,Retail,Capital,Account Manager B,12 months,2018-03-09
+T01062,Gulf Partners 80,SME,Logistics,Capital,Account Manager F,Month-to-month,2023-03-10
+T01063,Nova Trading 85,SME,Hospitality,Capital,Account Manager B,12 months,2023-02-20
+T01064,Nova Systems 93,Corporate,Logistics,Capital,Account Manager C,24 months,2024-06-21
+T01065,Failaka Logistics 47,Enterprise,Education,Jahra,Account Manager B,24 months,2023-08-02
+T01066,Failaka Partners 54,SME,Hospitality,Hawalli,Account Manager B,Month-to-month,2022-07-17
+T01067,Gulf Systems 75,SME,Hospitality,Hawalli,Account Manager D,Month-to-month,2024-01-23
+T01068,Palm Trading 72,Corporate,Banking & Finance,Capital,Account Manager B,Month-to-month,2023-09-05
+T01069,Palm Solutions 85,Corporate,Education,Capital,Account Manager E,24 months,2024-07-19
+T01070,Horizon Logistics 74,SME,Construction,Farwaniya,Account Manager C,12 months,2023-11-08
+T01071,Horizon Partners 37,Corporate,Construction,Hawalli,Account Manager C,24 months,2025-08-02
+T01072,Coral Supply 21,Corporate,Hospitality,Capital,Account Manager E,12 months,2024-09-13
+T01073,Palm Trading 42,Corporate,Retail,Capital,Account Manager F,12 months,2018-05-17
+T01074,Granite Solutions 43,Corporate,Education,Hawalli,Account Manager B,Month-to-month,2021-01-05
+T01075,Desert Enterprises 51,Government,Education,Hawalli,Account Manager C,12 months,2021-10-20
+T01076,Vertex Supply 56,Corporate,Construction,Hawalli,Account Manager C,12 months,2023-07-19
+T01077,Palm Industries 29,SME,Banking & Finance,Capital,Account Manager E,Month-to-month,2024-12-05
+T01078,Coral Works 68,Corporate,Logistics,Capital,Account Manager F,Month-to-month,2020-05-11
+T01079,Falcon Solutions 85,Corporate,Healthcare,Capital,Account Manager B,24 months,2022-03-04
+T01080,Delta Solutions 62,SME,Logistics,Farwaniya,Account Manager A,12 months,2019-12-18
+T01081,Failaka Logistics 92,SME,Retail,Farwaniya,Account Manager F,24 months,2023-03-31
+T01082,Prime Group 18,Corporate,Hospitality,Ahmadi,Account Manager C,24 months,2021-03-28
+T01083,Bay Systems 97,SME,Retail,Hawalli,Account Manager D,24 months,2020-10-22
+T01084,Horizon Industries 50,Enterprise,Retail,Farwaniya,Account Manager A,24 months,2018-04-10
+T01085,Nova Enterprises 70,Enterprise,Hospitality,Mubarak Al-Kabeer,Account Manager F,24 months,2024-09-11
+T01086,Sahara Holdings 37,SME,Retail,Ahmadi,Account Manager D,12 months,2020-04-06
+T01087,Nova Holdings 52,Corporate,Education,Capital,Account Manager E,24 months,2024-04-18
+T01088,Delta Services 22,Corporate,Oil & Gas,Hawalli,Account Manager C,12 months,2025-06-19
+T01089,Summit Partners 39,Corporate,Education,Hawalli,Account Manager C,24 months,2022-08-02
+T01090,Horizon Group 85,SME,Retail,Capital,Account Manager A,12 months,2018-03-30
+T01091,Al Logistics 81,SME,Oil & Gas,Ahmadi,Account Manager B,12 months,2022-05-23
+T01092,Granite Group 67,SME,Banking & Finance,Hawalli,Account Manager F,Month-to-month,2023-08-04
+T01093,Gulf Industries 41,Government,Oil & Gas,Capital,Account Manager F,12 months,2018-05-27
+T01094,Sahara Enterprises 53,SME,Oil & Gas,Capital,Account Manager A,12 months,2022-11-08
+T01095,Summit Industries 34,Enterprise,Oil & Gas,Hawalli,Account Manager E,12 months,2022-03-19
+T01096,Gulf Solutions 71,SME,Education,Hawalli,Account Manager C,24 months,2024-06-14
+T01097,Prime Trading 58,Corporate,Banking & Finance,Hawalli,Account Manager F,24 months,2021-08-21
+T01098,Summit Logistics 22,Enterprise,Logistics,Hawalli,Account Manager F,12 months,2023-08-08
+T01099,Oasis Partners 56,SME,Retail,Capital,Account Manager D,24 months,2020-11-05
+T01100,Summit Group 47,SME,Logistics,Hawalli,Account Manager D,12 months,2023-05-22
+T01101,Al Enterprises 64,SME,Logistics,Ahmadi,Account Manager B,Month-to-month,2019-05-29
+T01102,Atlas Holdings 39,SME,Oil & Gas,Hawalli,Account Manager B,12 months,2021-03-02
+T01103,Bay Services 19,SME,Hospitality,Capital,Account Manager E,Month-to-month,2024-09-29
+T01104,Desert Holdings 50,SME,Education,Ahmadi,Account Manager B,Month-to-month,2018-09-15
+T01105,Atlas Holdings 78,Corporate,Healthcare,Ahmadi,Account Manager D,12 months,2019-12-27
+T01106,Apex Trading 43,Corporate,Logistics,Ahmadi,Account Manager C,12 months,2024-06-30
+T01107,Apex Partners 28,Corporate,Retail,Farwaniya,Account Manager C,12 months,2019-05-14
+T01108,Vertex Industries 11,SME,Hospitality,Ahmadi,Account Manager B,Month-to-month,2025-11-30
+T01109,Failaka Partners 77,SME,Banking & Finance,Capital,Account Manager C,12 months,2018-05-21
+T01110,Atlas Works 47,SME,Education,Capital,Account Manager A,24 months,2026-01-18
+T01111,Palm Industries 18,SME,Logistics,Ahmadi,Account Manager F,12 months,2018-06-23
+T01112,Delta Works 93,SME,Education,Ahmadi,Account Manager A,Month-to-month,2020-04-23
+T01113,Atlas Trading 97,Corporate,Construction,Farwaniya,Account Manager F,24 months,2019-01-25
+T01114,Failaka Solutions 77,SME,Hospitality,Capital,Account Manager D,24 months,2021-08-08
+T01115,Coral Group 78,SME,Construction,Ahmadi,Account Manager F,Month-to-month,2026-06-17
+T01116,Delta Partners 66,SME,Construction,Ahmadi,Account Manager A,12 months,2025-06-07
+T01117,Summit Supply 97,SME,Education,Farwaniya,Account Manager B,12 months,2025-02-08
+T01118,Granite Enterprises 13,Government,Banking & Finance,Jahra,Account Manager F,12 months,2019-07-19
+T01119,Falcon Logistics 95,Government,Oil & Gas,Mubarak Al-Kabeer,Account Manager E,Month-to-month,2020-01-25
+T01120,Horizon Partners 23,Corporate,Retail,Jahra,Account Manager B,Month-to-month,2024-03-10
+T01121,Delta Holdings 18,SME,Education,Capital,Account Manager E,24 months,2024-03-24
+T01122,Granite Solutions 11,SME,Construction,Farwaniya,Account Manager D,Month-to-month,2019-05-29
+T01123,Nova Logistics 19,Corporate,Hospitality,Capital,Account Manager B,12 months,2024-12-11
+T01124,Apex Partners 38,Corporate,Healthcare,Capital,Account Manager A,Month-to-month,2022-07-03
+T01125,Al Logistics 23,SME,Banking & Finance,Farwaniya,Account Manager E,Month-to-month,2024-08-21
+T01126,Granite Group 52,SME,Retail,Mubarak Al-Kabeer,Account Manager B,Month-to-month,2018-08-05
+T01127,Al Industries 28,SME,Healthcare,Mubarak Al-Kabeer,Account Manager E,12 months,2023-06-18
+T01128,Nova Enterprises 94,Corporate,Education,Hawalli,Account Manager A,Month-to-month,2026-05-12
+T01129,Granite Group 80,SME,Oil & Gas,Capital,Account Manager E,24 months,2019-11-09
+T01130,Horizon Trading 18,Corporate,Logistics,Farwaniya,Account Manager D,12 months,2021-05-13
+T01131,Horizon Logistics 10,SME,Construction,Capital,Account Manager C,24 months,2023-09-27
+T01132,Coral Enterprises 54,SME,Banking & Finance,Capital,Account Manager D,24 months,2019-03-05
+T01133,Granite Supply 96,Corporate,Retail,Capital,Account Manager D,12 months,2025-07-27
+T01134,Summit Works 54,Corporate,Banking & Finance,Capital,Account Manager C,24 months,2018-08-08
+T01135,Palm Works 24,SME,Healthcare,Jahra,Account Manager D,12 months,2019-05-10
+T01136,Oasis Industries 34,SME,Healthcare,Hawalli,Account Manager E,24 months,2022-11-23
+T01137,Oasis Works 86,Corporate,Hospitality,Farwaniya,Account Manager E,Month-to-month,2022-03-22
+T01138,Falcon Group 57,Corporate,Banking & Finance,Capital,Account Manager A,12 months,2022-07-07
+T01139,Coral Supply 30,Government,Logistics,Capital,Account Manager E,12 months,2018-07-19
+T01140,Gulf Enterprises 36,SME,Retail,Capital,Account Manager A,Month-to-month,2019-06-09
+T01141,Gulf Trading 45,Corporate,Banking & Finance,Ahmadi,Account Manager B,24 months,2023-12-13
+T01142,Falcon Partners 27,SME,Banking & Finance,Hawalli,Account Manager D,24 months,2025-04-19
+T01143,Palm Enterprises 51,Government,Retail,Ahmadi,Account Manager D,12 months,2018-05-24
+T01144,Gulf Partners 70,SME,Healthcare,Farwaniya,Account Manager F,Month-to-month,2026-01-07
+T01145,Falcon Group 55,Corporate,Healthcare,Hawalli,Account Manager D,24 months,2022-06-16
+T01146,Falcon Holdings 41,SME,Healthcare,Hawalli,Account Manager F,12 months,2024-04-20
+T01147,Atlas Enterprises 50,Corporate,Oil & Gas,Capital,Account Manager E,12 months,2024-10-22
+T01148,Crescent Systems 42,SME,Construction,Capital,Account Manager B,24 months,2018-07-24
+T01149,Prime Works 14,Corporate,Healthcare,Jahra,Account Manager F,12 months,2018-07-21
+T01150,Vertex Group 29,SME,Education,Capital,Account Manager E,Month-to-month,2018-11-22
+T01151,Al Works 48,Enterprise,Logistics,Capital,Account Manager F,24 months,2020-07-29
+T01152,Atlas Enterprises 13,Enterprise,Hospitality,Capital,Account Manager D,24 months,2024-02-16
+T01153,Vertex Logistics 59,Enterprise,Retail,Mubarak Al-Kabeer,Account Manager A,12 months,2018-09-16
+T01154,Bay Enterprises 40,SME,Logistics,Capital,Account Manager A,12 months,2022-11-09
+T01155,Prime Group 81,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager A,24 months,2025-11-15
+T01156,Failaka Industries 73,SME,Retail,Hawalli,Account Manager D,24 months,2019-05-23
+T01157,Oasis Enterprises 70,SME,Education,Ahmadi,Account Manager B,12 months,2020-05-22
+T01158,Granite Logistics 40,SME,Oil & Gas,Capital,Account Manager F,Month-to-month,2018-02-20
+T01159,Horizon Industries 19,SME,Healthcare,Hawalli,Account Manager E,Month-to-month,2021-07-02
+T01160,Horizon Services 57,SME,Education,Jahra,Account Manager D,Month-to-month,2020-12-06
+T01161,Delta Solutions 49,SME,Construction,Hawalli,Account Manager D,12 months,2019-01-24
+T01162,Failaka Holdings 11,SME,Construction,Capital,Account Manager B,Month-to-month,2025-01-24
+T01163,Nova Supply 63,Enterprise,Healthcare,Mubarak Al-Kabeer,Account Manager E,24 months,2020-11-05
+T01164,Summit Group 13,SME,Healthcare,Capital,Account Manager A,24 months,2020-05-25
+T01165,Coral Industries 77,SME,Banking & Finance,Capital,Account Manager D,12 months,2023-09-19
+T01166,Desert Holdings 34,SME,Healthcare,Capital,Account Manager E,24 months,2018-05-08
+T01167,Summit Group 27,Enterprise,Construction,Capital,Account Manager E,12 months,2024-09-03
+T01168,Coral Holdings 47,SME,Oil & Gas,Jahra,Account Manager B,12 months,2019-07-18
+T01169,Falcon Supply 40,Corporate,Oil & Gas,Capital,Account Manager D,24 months,2024-08-26
+T01170,Atlas Group 39,Corporate,Construction,Hawalli,Account Manager F,12 months,2022-06-11
+T01171,Nova Systems 12,Corporate,Construction,Jahra,Account Manager D,12 months,2020-08-10
+T01172,Desert Solutions 35,SME,Hospitality,Capital,Account Manager E,Month-to-month,2018-08-05
+T01173,Delta Systems 98,SME,Oil & Gas,Capital,Account Manager A,Month-to-month,2022-03-14
+T01174,Falcon Supply 13,SME,Banking & Finance,Capital,Account Manager D,24 months,2021-06-05
+T01175,Coral Group 12,Corporate,Banking & Finance,Ahmadi,Account Manager E,12 months,2026-06-06
+T01176,Delta Trading 78,SME,Construction,Jahra,Account Manager D,24 months,2019-01-03
+T01177,Palm Works 52,SME,Oil & Gas,Capital,Account Manager B,12 months,2025-09-05
+T01178,Sahara Solutions 48,Corporate,Healthcare,Capital,Account Manager E,24 months,2021-12-11
+T01179,Prime Services 73,Corporate,Banking & Finance,Capital,Account Manager C,24 months,2023-10-28
+T01180,Apex Services 37,SME,Hospitality,Jahra,Account Manager F,24 months,2021-04-03
+T01181,Nova Supply 53,SME,Healthcare,Capital,Account Manager C,12 months,2020-10-04
+T01182,Nova Supply 98,Enterprise,Retail,Farwaniya,Account Manager B,24 months,2025-01-19
+T01183,Oasis Services 13,Corporate,Hospitality,Capital,Account Manager B,24 months,2021-12-08
+T01184,Nova Group 68,Corporate,Retail,Ahmadi,Account Manager D,12 months,2018-10-10
+T01185,Prime Trading 69,Government,Construction,Capital,Account Manager A,24 months,2020-05-17
+T01186,Delta Enterprises 81,Corporate,Construction,Capital,Account Manager D,24 months,2026-04-13
+T01187,Apex Systems 56,Corporate,Oil & Gas,Hawalli,Account Manager A,24 months,2022-08-22
+T01188,Sahara Holdings 18,SME,Retail,Hawalli,Account Manager B,12 months,2018-08-03
+T01189,Delta Group 97,SME,Logistics,Hawalli,Account Manager C,Month-to-month,2019-10-15
+T01190,Oasis Works 13,Corporate,Hospitality,Capital,Account Manager A,24 months,2018-12-07
+T01191,Bay Logistics 51,SME,Logistics,Capital,Account Manager D,Month-to-month,2021-10-19
+T01192,Summit Supply 44,SME,Healthcare,Jahra,Account Manager A,Month-to-month,2025-06-12
+T01193,Sahara Logistics 14,SME,Education,Ahmadi,Account Manager D,24 months,2021-06-28
+T01194,Sahara Solutions 34,SME,Construction,Ahmadi,Account Manager B,24 months,2022-04-15
+T01195,Sahara Works 91,Corporate,Logistics,Capital,Account Manager D,12 months,2020-05-18
+T01196,Oasis Services 39,Corporate,Healthcare,Jahra,Account Manager B,12 months,2024-04-30
+T01197,Palm Partners 14,Corporate,Healthcare,Mubarak Al-Kabeer,Account Manager B,24 months,2025-06-26
+T01198,Oasis Logistics 32,SME,Banking & Finance,Farwaniya,Account Manager A,24 months,2022-04-17
+T01199,Falcon Partners 14,Corporate,Hospitality,Mubarak Al-Kabeer,Account Manager C,24 months,2020-07-09
+T01200,Failaka Partners 59,Corporate,Education,Hawalli,Account Manager A,12 months,2025-12-23
+T01201,Oasis Logistics 83,SME,Construction,Capital,Account Manager D,24 months,2024-12-31
+T01202,Granite Group 69,Corporate,Banking & Finance,Capital,Account Manager D,Month-to-month,2020-09-29
+T01203,Granite Trading 79,Government,Hospitality,Capital,Account Manager B,Month-to-month,2021-08-29
+T01204,Crescent Supply 61,SME,Education,Hawalli,Account Manager E,24 months,2018-01-04
+T01205,Apex Industries 22,Corporate,Logistics,Farwaniya,Account Manager F,Month-to-month,2025-12-13
+T01206,Coral Partners 59,Enterprise,Retail,Capital,Account Manager F,24 months,2020-05-05
+T01207,Atlas Systems 38,SME,Hospitality,Ahmadi,Account Manager F,24 months,2020-08-16
+T01208,Summit Industries 92,Enterprise,Hospitality,Capital,Account Manager F,12 months,2024-12-14
+T01209,Coral Industries 41,Enterprise,Banking & Finance,Mubarak Al-Kabeer,Account Manager A,24 months,2026-04-05
+T01210,Vertex Holdings 74,SME,Education,Capital,Account Manager F,12 months,2021-03-10
+T01211,Summit Trading 39,Corporate,Education,Capital,Account Manager A,Month-to-month,2025-12-02
+T01212,Vertex Solutions 82,SME,Education,Capital,Account Manager A,Month-to-month,2020-10-22
+T01213,Al Trading 55,SME,Hospitality,Jahra,Account Manager F,Month-to-month,2026-03-23
+T01214,Horizon Group 33,SME,Education,Farwaniya,Account Manager C,12 months,2019-09-14
+T01215,Nova Systems 43,Corporate,Retail,Capital,Account Manager A,12 months,2021-06-25
+T01216,Prime Holdings 93,SME,Construction,Mubarak Al-Kabeer,Account Manager F,Month-to-month,2019-02-07
+T01217,Summit Works 33,SME,Healthcare,Capital,Account Manager B,12 months,2023-03-30
+T01218,Gulf Group 38,SME,Retail,Hawalli,Account Manager B,12 months,2021-08-21
+T01219,Prime Systems 39,SME,Logistics,Farwaniya,Account Manager B,Month-to-month,2018-11-16
+T01220,Prime Enterprises 98,Corporate,Banking & Finance,Jahra,Account Manager E,24 months,2021-12-18
+T01221,Delta Logistics 37,Corporate,Retail,Hawalli,Account Manager B,12 months,2022-06-18
+T01222,Sahara Group 52,SME,Banking & Finance,Hawalli,Account Manager F,24 months,2026-02-20
+T01223,Nova Works 20,SME,Healthcare,Mubarak Al-Kabeer,Account Manager D,12 months,2026-02-15
+T01224,Coral Holdings 38,Enterprise,Oil & Gas,Mubarak Al-Kabeer,Account Manager A,12 months,2021-01-15
+T01225,Atlas Holdings 70,Government,Retail,Mubarak Al-Kabeer,Account Manager A,24 months,2021-08-10
+T01226,Crescent Enterprises 47,Corporate,Construction,Ahmadi,Account Manager B,Month-to-month,2019-12-09
+T01227,Atlas Solutions 59,Corporate,Banking & Finance,Capital,Account Manager C,24 months,2018-09-06
+T01228,Sahara Works 32,Government,Banking & Finance,Mubarak Al-Kabeer,Account Manager A,24 months,2025-10-14
+T01229,Crescent Enterprises 64,Corporate,Logistics,Hawalli,Account Manager E,12 months,2018-05-12
+T01230,Nova Systems 13,SME,Oil & Gas,Ahmadi,Account Manager D,12 months,2020-08-20
+T01231,Prime Systems 19,SME,Banking & Finance,Mubarak Al-Kabeer,Account Manager D,Month-to-month,2023-03-06
+T01232,Atlas Systems 68,SME,Construction,Jahra,Account Manager C,Month-to-month,2021-12-03
+T01233,Oasis Industries 81,SME,Healthcare,Hawalli,Account Manager B,12 months,2025-05-22
+T01234,Coral Works 76,SME,Education,Hawalli,Account Manager D,12 months,2018-09-27
+T01235,Oasis Works 53,SME,Banking & Finance,Farwaniya,Account Manager B,Month-to-month,2019-06-13
+T01236,Prime Works 38,Enterprise,Retail,Hawalli,Account Manager A,24 months,2019-05-17
+T01237,Coral Holdings 87,SME,Retail,Capital,Account Manager E,12 months,2025-06-30
+T01238,Horizon Logistics 36,SME,Hospitality,Farwaniya,Account Manager E,12 months,2020-12-15
+T01239,Apex Trading 51,Corporate,Banking & Finance,Capital,Account Manager A,Month-to-month,2019-09-10
+T01240,Falcon Partners 32,Corporate,Construction,Hawalli,Account Manager E,12 months,2019-07-24
+T01241,Bay Holdings 26,SME,Logistics,Hawalli,Account Manager D,12 months,2021-05-14
+T01242,Gulf Enterprises 33,Corporate,Hospitality,Jahra,Account Manager F,24 months,2021-06-30
+T01243,Atlas Systems 39,SME,Education,Hawalli,Account Manager C,12 months,2025-02-15
+T01244,Falcon Solutions 40,SME,Healthcare,Jahra,Account Manager B,Month-to-month,2025-10-11
+T01245,Bay Partners 98,SME,Construction,Capital,Account Manager E,Month-to-month,2020-01-26
+T01246,Delta Trading 43,SME,Logistics,Ahmadi,Account Manager E,24 months,2018-05-27
+T01247,Summit Systems 33,SME,Oil & Gas,Capital,Account Manager E,12 months,2026-01-21
+T01248,Granite Group 56,SME,Hospitality,Mubarak Al-Kabeer,Account Manager F,Month-to-month,2024-10-11
+T01249,Prime Works 91,Corporate,Construction,Hawalli,Account Manager D,24 months,2021-11-15
+T01250,Palm Logistics 98,SME,Oil & Gas,Mubarak Al-Kabeer,Account Manager B,24 months,2019-09-18
+T01251,Bay Partners 97,Government,Education,Mubarak Al-Kabeer,Account Manager A,12 months,2020-08-02
+T01252,Apex Logistics 11,SME,Education,Farwaniya,Account Manager B,12 months,2023-02-21
+T01253,Nova Logistics 60,Enterprise,Logistics,Ahmadi,Account Manager D,24 months,2019-12-02
+T01254,Al Industries 72,Enterprise,Education,Capital,Account Manager F,24 months,2022-12-24
+T01255,Delta Trading 55,SME,Education,Jahra,Account Manager C,12 months,2025-06-28
+T01256,Nova Enterprises 84,Corporate,Hospitality,Capital,Account Manager C,12 months,2024-10-27
+T01257,Sahara Systems 65,SME,Banking & Finance,Ahmadi,Account Manager A,12 months,2019-08-18
+T01258,Coral Systems 49,SME,Banking & Finance,Jahra,Account Manager E,Month-to-month,2023-09-18
+T01259,Delta Systems 84,SME,Oil & Gas,Jahra,Account Manager F,12 months,2026-01-09
+T01260,Horizon Works 13,Enterprise,Healthcare,Capital,Account Manager B,24 months,2020-01-07
+T01261,Al Industries 59,SME,Oil & Gas,Jahra,Account Manager A,24 months,2022-02-22
+T01262,Crescent Logistics 11,Corporate,Construction,Farwaniya,Account Manager A,24 months,2023-12-17
+T01263,Gulf Works 40,Enterprise,Education,Capital,Account Manager F,24 months,2020-10-05
+T01264,Palm Enterprises 37,SME,Hospitality,Mubarak Al-Kabeer,Account Manager C,12 months,2024-04-24
+T01265,Desert Enterprises 18,SME,Oil & Gas,Farwaniya,Account Manager E,Month-to-month,2024-06-24
+T01266,Crescent Works 73,Corporate,Construction,Capital,Account Manager D,24 months,2025-10-06
+T01267,Delta Trading 27,Government,Logistics,Hawalli,Account Manager A,24 months,2020-01-01
+T01268,Granite Industries 73,SME,Construction,Hawalli,Account Manager C,24 months,2021-09-21
+T01269,Vertex Systems 29,SME,Retail,Jahra,Account Manager F,12 months,2025-03-13
+T01270,Atlas Systems 36,SME,Hospitality,Capital,Account Manager A,Month-to-month,2019-03-25
+T01271,Bay Trading 16,Corporate,Construction,Hawalli,Account Manager F,12 months,2018-08-29
+T01272,Palm Systems 13,SME,Construction,Capital,Account Manager B,12 months,2025-10-31
+T01273,Sahara Trading 95,SME,Healthcare,Ahmadi,Account Manager C,24 months,2025-06-07
+T01274,Palm Supply 94,Corporate,Banking & Finance,Mubarak Al-Kabeer,Account Manager A,12 months,2019-01-28
+T01275,Atlas Services 28,SME,Hospitality,Ahmadi,Account Manager F,24 months,2018-11-03
+T01276,Crescent Solutions 53,SME,Oil & Gas,Hawalli,Account Manager F,Month-to-month,2020-03-27
+T01277,Sahara Logistics 18,Enterprise,Banking & Finance,Capital,Account Manager F,24 months,2024-04-19
+T01278,Atlas Services 56,Enterprise,Retail,Farwaniya,Account Manager B,12 months,2018-05-09
+T01279,Vertex Logistics 36,Enterprise,Construction,Farwaniya,Account Manager E,24 months,2025-03-19
+T01280,Vertex Systems 89,Government,Retail,Farwaniya,Account Manager A,12 months,2025-02-12
+T01281,Failaka Supply 83,Corporate,Banking & Finance,Hawalli,Account Manager B,24 months,2023-12-21
+T01282,Nova Holdings 44,Corporate,Education,Hawalli,Account Manager E,12 months,2023-01-20
+T01283,Al Solutions 77,SME,Logistics,Hawalli,Account Manager D,24 months,2023-04-10
+T01284,Falcon Industries 35,Corporate,Construction,Farwaniya,Account Manager F,Month-to-month,2020-09-09
+T01285,Summit Solutions 19,Corporate,Construction,Ahmadi,Account Manager C,12 months,2023-06-21
+T01286,Delta Services 54,SME,Healthcare,Capital,Account Manager A,12 months,2022-02-06
+T01287,Failaka Supply 84,SME,Logistics,Farwaniya,Account Manager C,Month-to-month,2019-10-09
+T01288,Al Supply 15,SME,Education,Ahmadi,Account Manager E,12 months,2019-01-26
+T01289,Al Holdings 76,SME,Healthcare,Hawalli,Account Manager B,12 months,2020-12-20
+T01290,Nova Group 33,Corporate,Logistics,Hawalli,Account Manager F,24 months,2021-12-08
+T01291,Falcon Supply 39,Corporate,Education,Capital,Account Manager F,24 months,2024-02-07
+T01292,Desert Industries 27,SME,Logistics,Capital,Account Manager C,12 months,2022-11-15
+T01293,Gulf Holdings 37,Government,Oil & Gas,Capital,Account Manager E,24 months,2018-04-16
+T01294,Apex Group 22,Corporate,Banking & Finance,Ahmadi,Account Manager C,Month-to-month,2021-08-05
+T01295,Palm Logistics 18,SME,Construction,Capital,Account Manager D,24 months,2023-01-11
+T01296,Bay Solutions 87,SME,Construction,Capital,Account Manager F,12 months,2019-10-11
+T01297,Apex Holdings 59,SME,Construction,Hawalli,Account Manager D,Month-to-month,2024-05-03
+T01298,Vertex Systems 16,SME,Construction,Farwaniya,Account Manager D,12 months,2024-05-03
+T01299,Atlas Solutions 72,SME,Logistics,Hawalli,Account Manager A,12 months,2026-06-24
+T01300,Nova Partners 74,Enterprise,Healthcare,Hawalli,Account Manager F,24 months,2022-03-02
+T01301,Coral Group 10,SME,Education,Hawalli,Account Manager E,12 months,2024-08-14
+T01302,Palm Trading 15,SME,Oil & Gas,Hawalli,Account Manager F,Month-to-month,2020-06-13
+T01303,Granite Works 72,Corporate,Logistics,Capital,Account Manager C,24 months,2018-12-03
+T01304,Apex Trading 17,Corporate,Hospitality,Jahra,Account Manager A,12 months,2024-08-31
+T01305,Atlas Trading 89,Corporate,Education,Ahmadi,Account Manager E,24 months,2022-10-11
+T01306,Nova Partners 85,SME,Logistics,Ahmadi,Account Manager F,12 months,2019-02-16
+T01307,Palm Solutions 51,SME,Construction,Capital,Account Manager F,24 months,2024-11-18
+T01308,Horizon Services 47,Corporate,Oil & Gas,Farwaniya,Account Manager B,Month-to-month,2020-07-02
+T01309,Summit Services 88,SME,Construction,Jahra,Account Manager E,24 months,2024-08-23
+T01310,Crescent Trading 54,SME,Education,Farwaniya,Account Manager D,24 months,2022-11-07
+T01311,Sahara Supply 45,SME,Logistics,Jahra,Account Manager A,12 months,2022-08-12
+T01312,Gulf Partners 83,SME,Oil & Gas,Hawalli,Account Manager C,24 months,2023-12-16
+T01313,Coral Trading 35,Government,Education,Ahmadi,Account Manager A,12 months,2023-09-10
+T01314,Crescent Industries 88,SME,Retail,Jahra,Account Manager F,Month-to-month,2024-04-07
+T01315,Prime Systems 91,Enterprise,Education,Hawalli,Account Manager B,24 months,2025-03-11
+T01316,Bay Services 33,SME,Logistics,Farwaniya,Account Manager A,12 months,2021-09-03
+T01317,Apex Logistics 15,SME,Retail,Hawalli,Account Manager E,Month-to-month,2018-01-28
+T01318,Falcon Holdings 56,SME,Construction,Jahra,Account Manager B,24 months,2022-12-11
+T01319,Summit Logistics 48,Corporate,Oil & Gas,Ahmadi,Account Manager D,12 months,2026-06-04
+T01320,Atlas Enterprises 37,SME,Oil & Gas,Hawalli,Account Manager D,12 months,2020-11-17
+T01321,Delta Group 86,Corporate,Education,Ahmadi,Account Manager A,24 months,2020-07-01
+T01322,Falcon Trading 23,SME,Hospitality,Capital,Account Manager C,12 months,2023-02-05
+T01323,Apex Works 28,SME,Oil & Gas,Mubarak Al-Kabeer,Account Manager D,12 months,2020-11-25
+T01324,Failaka Partners 21,Government,Retail,Ahmadi,Account Manager B,12 months,2020-06-22
+T01325,Crescent Enterprises 96,Government,Retail,Capital,Account Manager C,12 months,2020-10-16
+T01326,Apex Industries 31,Government,Healthcare,Capital,Account Manager F,12 months,2024-02-04
+T01327,Oasis Industries 60,Corporate,Banking & Finance,Ahmadi,Account Manager A,24 months,2022-03-08
+T01328,Al Industries 14,Corporate,Education,Hawalli,Account Manager A,12 months,2021-09-09
+T01329,Summit Services 25,SME,Construction,Ahmadi,Account Manager E,Month-to-month,2022-05-27
+T01330,Granite Group 13,SME,Logistics,Hawalli,Account Manager B,12 months,2022-02-19
+T01331,Atlas Enterprises 19,SME,Hospitality,Ahmadi,Account Manager B,12 months,2023-11-26
+T01332,Nova Works 62,SME,Logistics,Hawalli,Account Manager C,12 months,2025-03-13
+T01333,Falcon Partners 10,SME,Education,Jahra,Account Manager B,24 months,2022-10-17
+T01334,Atlas Systems 27,Enterprise,Retail,Farwaniya,Account Manager E,12 months,2019-06-21
+T01335,Granite Supply 32,SME,Construction,Ahmadi,Account Manager E,24 months,2024-07-10
+T01336,Falcon Solutions 54,Corporate,Oil & Gas,Capital,Account Manager C,24 months,2020-06-07
+T01337,Prime Holdings 59,SME,Banking & Finance,Capital,Account Manager A,Month-to-month,2024-11-23
+T01338,Failaka Systems 29,Corporate,Oil & Gas,Mubarak Al-Kabeer,Account Manager F,12 months,2025-09-11
+T01339,Delta Enterprises 77,SME,Hospitality,Hawalli,Account Manager F,Month-to-month,2020-06-21
+T01340,Crescent Works 44,Government,Education,Capital,Account Manager C,12 months,2023-08-05
+T01341,Apex Solutions 32,SME,Banking & Finance,Farwaniya,Account Manager A,12 months,2023-06-06
+T01342,Summit Works 39,Corporate,Logistics,Hawalli,Account Manager E,Month-to-month,2022-07-09
+T01343,Horizon Supply 58,Government,Oil & Gas,Capital,Account Manager F,12 months,2019-12-18
+T01344,Bay Works 96,Enterprise,Retail,Ahmadi,Account Manager B,24 months,2020-12-17
+T01345,Crescent Logistics 27,SME,Healthcare,Mubarak Al-Kabeer,Account Manager E,Month-to-month,2021-11-06
+T01346,Horizon Supply 53,SME,Education,Capital,Account Manager F,Month-to-month,2023-05-09
+T01347,Atlas Industries 44,SME,Education,Farwaniya,Account Manager B,Month-to-month,2023-11-09
+T01348,Desert Supply 56,Corporate,Education,Capital,Account Manager B,Month-to-month,2018-03-22
+T01349,Prime Trading 85,Corporate,Hospitality,Capital,Account Manager E,24 months,2021-02-26
+T01350,Coral Services 21,SME,Construction,Capital,Account Manager B,12 months,2025-04-24
+T01351,Nova Solutions 76,Corporate,Education,Jahra,Account Manager F,24 months,2021-04-03
+T01352,Delta Works 18,Corporate,Retail,Capital,Account Manager F,24 months,2023-02-20
+T01353,Gulf Works 92,Government,Healthcare,Capital,Account Manager A,24 months,2020-12-16
+T01354,Palm Industries 16,Enterprise,Oil & Gas,Mubarak Al-Kabeer,Account Manager A,24 months,2019-09-27
+T01355,Nova Enterprises 85,SME,Retail,Jahra,Account Manager A,Month-to-month,2023-12-31
+T01356,Failaka Group 77,SME,Healthcare,Hawalli,Account Manager A,24 months,2021-09-27
+T01357,Palm Works 62,Government,Retail,Capital,Account Manager F,24 months,2025-11-09
+T01358,Crescent Group 92,SME,Banking & Finance,Jahra,Account Manager F,Month-to-month,2026-04-21
+T01359,Bay Solutions 95,SME,Construction,Capital,Account Manager C,Month-to-month,2025-03-18
+T01360,Nova Systems 26,SME,Construction,Capital,Account Manager E,12 months,2019-11-28
+T01361,Bay Holdings 48,Corporate,Education,Jahra,Account Manager C,24 months,2025-02-26
+T01362,Bay Services 43,SME,Healthcare,Ahmadi,Account Manager D,Month-to-month,2019-12-23
+T01363,Granite Logistics 24,Government,Healthcare,Farwaniya,Account Manager A,12 months,2018-03-07
+T01364,Al Solutions 71,Corporate,Retail,Farwaniya,Account Manager D,24 months,2020-06-27
+T01365,Horizon Holdings 52,Enterprise,Hospitality,Capital,Account Manager A,Month-to-month,2020-06-17
+T01366,Apex Partners 15,SME,Healthcare,Hawalli,Account Manager A,12 months,2021-02-28
+T01367,Al Logistics 45,SME,Retail,Mubarak Al-Kabeer,Account Manager A,Month-to-month,2018-05-15
+T01368,Sahara Partners 77,SME,Retail,Farwaniya,Account Manager A,12 months,2022-04-12
+T01369,Vertex Holdings 68,Enterprise,Healthcare,Capital,Account Manager C,24 months,2020-07-21
+T01370,Failaka Enterprises 26,SME,Oil & Gas,Jahra,Account Manager E,24 months,2022-10-10
+T01371,Failaka Group 80,Corporate,Oil & Gas,Farwaniya,Account Manager E,12 months,2022-02-04
+T01372,Delta Systems 94,Corporate,Oil & Gas,Farwaniya,Account Manager A,Month-to-month,2021-02-24
+T01373,Horizon Trading 63,Enterprise,Construction,Hawalli,Account Manager F,24 months,2018-09-10
+T01374,Delta Industries 19,Corporate,Banking & Finance,Jahra,Account Manager D,Month-to-month,2022-06-03
+T01375,Summit Works 56,Corporate,Construction,Ahmadi,Account Manager E,12 months,2021-07-28
+T01376,Granite Works 59,SME,Banking & Finance,Jahra,Account Manager F,24 months,2022-01-11
+T01377,Bay Group 18,SME,Education,Hawalli,Account Manager F,Month-to-month,2023-05-23
+T01378,Falcon Systems 26,Government,Banking & Finance,Farwaniya,Account Manager C,12 months,2020-05-31
+T01379,Desert Trading 75,SME,Banking & Finance,Capital,Account Manager B,Month-to-month,2020-04-28
+T01380,Sahara Services 43,SME,Construction,Farwaniya,Account Manager D,12 months,2026-03-26
+T01381,Vertex Supply 62,SME,Education,Ahmadi,Account Manager A,Month-to-month,2019-10-03
+T01382,Summit Holdings 74,SME,Retail,Mubarak Al-Kabeer,Account Manager D,24 months,2024-08-02
+T01383,Al Enterprises 42,SME,Education,Hawalli,Account Manager A,12 months,2023-09-28
+T01384,Horizon Group 42,Corporate,Construction,Farwaniya,Account Manager B,24 months,2022-11-23
+T01385,Atlas Trading 79,SME,Banking & Finance,Ahmadi,Account Manager A,Month-to-month,2021-10-01
+T01386,Gulf Holdings 91,Corporate,Banking & Finance,Jahra,Account Manager C,12 months,2025-05-16
+T01387,Coral Holdings 54,SME,Banking & Finance,Ahmadi,Account Manager E,Month-to-month,2018-10-27
+T01388,Granite Solutions 94,Government,Banking & Finance,Capital,Account Manager D,12 months,2019-03-03
+T01389,Prime Solutions 40,Enterprise,Education,Ahmadi,Account Manager E,24 months,2018-02-28
+T01390,Al Services 86,Government,Logistics,Farwaniya,Account Manager E,24 months,2021-05-02
+T01391,Falcon Works 78,SME,Hospitality,Hawalli,Account Manager D,24 months,2022-09-04
+T01392,Apex Services 61,Government,Oil & Gas,Hawalli,Account Manager D,12 months,2022-06-14
+T01393,Coral Supply 26,SME,Retail,Hawalli,Account Manager A,24 months,2023-07-07
+T01394,Oasis Solutions 14,Enterprise,Hospitality,Mubarak Al-Kabeer,Account Manager A,12 months,2021-10-01
+T01395,Granite Supply 92,Corporate,Logistics,Hawalli,Account Manager F,24 months,2023-12-27
+T01396,Sahara Systems 56,Government,Education,Jahra,Account Manager B,24 months,2020-11-15
+T01397,Granite Partners 67,SME,Oil & Gas,Farwaniya,Account Manager D,24 months,2020-07-08
+T01398,Desert Enterprises 82,Corporate,Construction,Farwaniya,Account Manager C,12 months,2026-01-09
+T01399,Bay Logistics 27,SME,Oil & Gas,Capital,Account Manager A,Month-to-month,2018-07-15
+T01400,Al Systems 70,SME,Construction,Hawalli,Account Manager B,12 months,2020-07-13
+T01401,Delta Supply 54,SME,Oil & Gas,Ahmadi,Account Manager F,24 months,2023-01-22
+T01402,Apex Enterprises 34,Corporate,Banking & Finance,Hawalli,Account Manager E,12 months,2021-03-01
+T01403,Apex Trading 63,Enterprise,Oil & Gas,Hawalli,Account Manager A,12 months,2021-07-18
+T01404,Coral Systems 93,SME,Logistics,Mubarak Al-Kabeer,Account Manager B,12 months,2023-08-17
+T01405,Nova Partners 79,Corporate,Construction,Hawalli,Account Manager A,24 months,2019-10-09
+T01406,Failaka Works 51,SME,Education,Ahmadi,Account Manager D,12 months,2018-04-22
+T01407,Bay Logistics 87,SME,Education,Capital,Account Manager F,Month-to-month,2019-08-30
+T01408,Palm Solutions 38,Enterprise,Healthcare,Hawalli,Account Manager B,12 months,2021-09-20
+T01409,Apex Holdings 22,SME,Construction,Capital,Account Manager E,24 months,2021-01-11
+T01410,Al Solutions 91,Corporate,Hospitality,Capital,Account Manager D,12 months,2023-04-19
+T01411,Horizon Supply 29,Enterprise,Construction,Ahmadi,Account Manager A,12 months,2026-04-12
+T01412,Falcon Industries 45,SME,Oil & Gas,Ahmadi,Account Manager A,Month-to-month,2018-12-11
+T01413,Vertex Services 42,Enterprise,Banking & Finance,Capital,Account Manager A,24 months,2022-02-01
+T01414,Delta Systems 35,Corporate,Construction,Jahra,Account Manager C,24 months,2024-06-19
+T01415,Coral Logistics 23,SME,Healthcare,Ahmadi,Account Manager E,12 months,2025-10-16
+T01416,Granite Works 14,SME,Logistics,Mubarak Al-Kabeer,Account Manager B,12 months,2024-12-26
+T01417,Coral Supply 83,SME,Logistics,Hawalli,Account Manager B,24 months,2019-03-14
+T01418,Summit Systems 57,SME,Logistics,Mubarak Al-Kabeer,Account Manager B,12 months,2020-01-18
+T01419,Failaka Systems 66,Government,Logistics,Capital,Account Manager B,12 months,2020-04-20
+T01420,Horizon Enterprises 56,SME,Logistics,Capital,Account Manager B,24 months,2025-05-18
+T01421,Al Trading 95,SME,Banking & Finance,Capital,Account Manager C,12 months,2021-01-28
+T01422,Coral Systems 25,Corporate,Logistics,Hawalli,Account Manager F,24 months,2018-07-26
+T01423,Delta Industries 43,Corporate,Construction,Farwaniya,Account Manager D,24 months,2025-11-24
+T01424,Atlas Trading 81,Government,Hospitality,Jahra,Account Manager E,12 months,2019-07-24
+T01425,Horizon Group 55,Corporate,Education,Jahra,Account Manager B,Month-to-month,2024-05-25
+T01426,Al Logistics 56,SME,Healthcare,Capital,Account Manager F,12 months,2020-12-18
+T01427,Atlas Services 32,Government,Banking & Finance,Capital,Account Manager C,24 months,2020-12-27
+T01428,Falcon Trading 96,Corporate,Logistics,Capital,Account Manager A,24 months,2024-02-17
+T01429,Oasis Solutions 64,Government,Healthcare,Capital,Account Manager C,24 months,2024-06-04
+T01430,Atlas Supply 36,Government,Retail,Farwaniya,Account Manager C,24 months,2026-03-22
+T01431,Vertex Partners 31,Enterprise,Oil & Gas,Capital,Account Manager C,24 months,2024-08-09
+T01432,Crescent Industries 67,SME,Banking & Finance,Ahmadi,Account Manager C,12 months,2023-04-06
+T01433,Delta Supply 38,Corporate,Logistics,Capital,Account Manager D,24 months,2025-09-04
+T01434,Summit Partners 71,SME,Oil & Gas,Hawalli,Account Manager A,12 months,2020-02-20
+T01435,Granite Trading 31,SME,Construction,Capital,Account Manager C,Month-to-month,2023-05-08
+T01436,Summit Group 51,Corporate,Logistics,Capital,Account Manager B,24 months,2020-11-28
+T01437,Sahara Trading 82,Corporate,Retail,Hawalli,Account Manager F,24 months,2024-02-26
+T01438,Failaka Systems 70,SME,Banking & Finance,Jahra,Account Manager B,Month-to-month,2022-05-06
+T01439,Prime Enterprises 32,Corporate,Oil & Gas,Mubarak Al-Kabeer,Account Manager A,Month-to-month,2023-05-21
+T01440,Horizon Enterprises 63,Corporate,Construction,Capital,Account Manager E,12 months,2020-05-03
+T01441,Atlas Holdings 52,Enterprise,Logistics,Capital,Account Manager D,12 months,2023-03-07
+T01442,Al Enterprises 18,SME,Banking & Finance,Farwaniya,Account Manager A,24 months,2026-02-08
+T01443,Crescent Systems 17,SME,Education,Capital,Account Manager D,24 months,2022-04-22
+T01444,Granite Holdings 11,SME,Construction,Hawalli,Account Manager B,12 months,2019-05-31
+T01445,Bay Partners 66,Enterprise,Healthcare,Ahmadi,Account Manager C,12 months,2024-12-15
+T01446,Delta Logistics 83,Government,Logistics,Farwaniya,Account Manager A,24 months,2022-04-15
+T01447,Falcon Partners 24,SME,Hospitality,Jahra,Account Manager C,12 months,2022-10-07
+T01448,Failaka Group 72,Corporate,Hospitality,Hawalli,Account Manager B,12 months,2025-01-07
+T01449,Apex Works 92,SME,Education,Hawalli,Account Manager A,24 months,2026-01-03
+T01450,Prime Industries 92,Government,Banking & Finance,Farwaniya,Account Manager E,24 months,2021-12-06
+T01451,Falcon Trading 35,Corporate,Hospitality,Hawalli,Account Manager F,12 months,2023-02-18
+T01452,Apex Holdings 16,Government,Education,Capital,Account Manager C,24 months,2020-08-01
+T01453,Palm Solutions 41,SME,Education,Capital,Account Manager C,12 months,2022-03-07
+T01454,Al Systems 49,SME,Construction,Hawalli,Account Manager D,12 months,2023-08-22
+T01455,Sahara Holdings 28,SME,Hospitality,Hawalli,Account Manager A,24 months,2019-04-06
+T01456,Gulf Solutions 50,Corporate,Oil & Gas,Mubarak Al-Kabeer,Account Manager C,24 months,2022-04-17
+T01457,Nova Holdings 86,SME,Hospitality,Capital,Account Manager D,24 months,2020-05-28
+T01458,Delta Systems 89,Government,Construction,Hawalli,Account Manager C,12 months,2024-08-20
+T01459,Delta Systems 86,Enterprise,Oil & Gas,Farwaniya,Account Manager A,24 months,2023-06-05
+T01460,Prime Services 36,Corporate,Oil & Gas,Hawalli,Account Manager B,12 months,2023-03-29
+T01461,Palm Works 54,SME,Oil & Gas,Farwaniya,Account Manager A,12 months,2021-07-14
+T01462,Nova Holdings 46,SME,Logistics,Farwaniya,Account Manager B,12 months,2022-05-11
+T01463,Coral Supply 60,Corporate,Construction,Ahmadi,Account Manager D,24 months,2024-06-02
+T01464,Granite Logistics 46,SME,Healthcare,Farwaniya,Account Manager B,24 months,2020-12-06
+T01465,Apex Enterprises 56,SME,Hospitality,Farwaniya,Account Manager F,Month-to-month,2019-01-03
+T01466,Crescent Enterprises 77,SME,Healthcare,Capital,Account Manager C,24 months,2021-08-29
+T01467,Crescent Trading 19,SME,Hospitality,Ahmadi,Account Manager E,24 months,2023-09-12
+T01468,Prime Logistics 64,SME,Logistics,Capital,Account Manager B,Month-to-month,2018-05-05
+T01469,Apex Solutions 80,SME,Healthcare,Ahmadi,Account Manager A,Month-to-month,2021-07-22
+T01470,Bay Trading 41,Enterprise,Oil & Gas,Farwaniya,Account Manager E,24 months,2020-01-05
+T01471,Atlas Works 91,SME,Healthcare,Jahra,Account Manager E,Month-to-month,2020-09-15
+T01472,Apex Partners 53,SME,Logistics,Hawalli,Account Manager D,Month-to-month,2018-08-26
+T01473,Atlas Services 17,SME,Oil & Gas,Capital,Account Manager E,12 months,2018-04-07
+T01474,Summit Industries 53,SME,Logistics,Mubarak Al-Kabeer,Account Manager D,12 months,2019-11-23
+T01475,Summit Solutions 43,Corporate,Logistics,Hawalli,Account Manager D,24 months,2023-06-08
+T01476,Sahara Partners 83,Corporate,Logistics,Ahmadi,Account Manager E,12 months,2022-06-20
+T01477,Coral Works 41,SME,Healthcare,Jahra,Account Manager F,Month-to-month,2021-08-16
+T01478,Sahara Works 95,SME,Construction,Farwaniya,Account Manager C,24 months,2018-01-11
+T01479,Falcon Solutions 62,SME,Retail,Capital,Account Manager A,24 months,2023-10-19
+T01480,Coral Works 60,SME,Banking & Finance,Capital,Account Manager B,12 months,2024-06-27
+T01481,Prime Logistics 73,SME,Healthcare,Capital,Account Manager B,24 months,2021-10-11
+T01482,Vertex Holdings 40,SME,Healthcare,Hawalli,Account Manager F,24 months,2019-05-21
+T01483,Nova Group 69,SME,Banking & Finance,Capital,Account Manager A,24 months,2019-02-08
+T01484,Desert Supply 17,SME,Healthcare,Farwaniya,Account Manager B,12 months,2020-09-18
+T01485,Vertex Logistics 84,Government,Banking & Finance,Capital,Account Manager B,24 months,2021-04-22
+T01486,Sahara Partners 66,Corporate,Hospitality,Farwaniya,Account Manager C,12 months,2023-04-21
+T01487,Bay Partners 26,Corporate,Healthcare,Ahmadi,Account Manager F,12 months,2023-08-21
+T01488,Oasis Solutions 51,SME,Banking & Finance,Farwaniya,Account Manager F,24 months,2023-12-10
+T01489,Failaka Solutions 32,Corporate,Retail,Farwaniya,Account Manager F,12 months,2019-04-04
+T01490,Apex Holdings 27,Enterprise,Construction,Ahmadi,Account Manager F,24 months,2018-03-21
+T01491,Palm Enterprises 83,SME,Retail,Capital,Account Manager E,Month-to-month,2024-03-13
+T01492,Delta Supply 61,Corporate,Education,Hawalli,Account Manager F,Month-to-month,2025-03-18
+T01493,Atlas Enterprises 92,SME,Hospitality,Hawalli,Account Manager A,24 months,2026-05-24
+T01494,Delta Trading 69,SME,Retail,Capital,Account Manager C,Month-to-month,2022-01-26
+T01495,Gulf Works 15,SME,Logistics,Hawalli,Account Manager A,12 months,2021-04-12
+T01496,Granite Solutions 47,Enterprise,Banking & Finance,Capital,Account Manager B,24 months,2019-05-14
+T01497,Desert Services 45,Corporate,Healthcare,Farwaniya,Account Manager B,24 months,2021-05-23
+T01498,Palm Trading 50,SME,Hospitality,Farwaniya,Account Manager F,Month-to-month,2024-10-24
+T01499,Coral Supply 28,SME,Oil & Gas,Capital,Account Manager C,12 months,2025-04-26
+T01500,Falcon Holdings 60,SME,Hospitality,Capital,Account Manager C,Month-to-month,2025-06-12

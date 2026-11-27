@@ -1,0 +1,27 @@
+{
+  "train_rows": 19425,
+  "test_rows": 6248,
+  "train_snapshots": [
+    "2024-01-31",
+    "2025-10-31"
+  ],
+  "test_snapshots": [
+    "2026-01-31",
+    "2026-07-31"
+  ],
+  "test_churn_rate": 0.0496,
+  "logistic_regression": {
+    "roc_auc": 0.915,
+    "pr_auc": 0.7023,
+    "brier": 0.0224,
+    "recall_top_10pct": 0.7161,
+    "recall_top_20pct": 0.8065
+  },
+  "lightgbm": {
+    "roc_auc": 0.9417,
+    "pr_auc": 0.7303,
+    "brier": 0.0213,
+    "recall_top_10pct": 0.7387,
+    "recall_top_20pct": 0.8806
+  }
+}

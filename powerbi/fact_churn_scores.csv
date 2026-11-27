@@ -1,0 +1,835 @@
+customer_id,snapshot_date,churn_probability,risk_band,annual_revenue,revenue_at_risk,lines_at_risk,months_to_renewal,active_lines,reason_1,reason_2,reason_3,protective_factor,model_version,scored_at_utc
+T01344,2026-10-31,0.955,High,144247.68,137762.98,1065.8,2,1116.0,7 port-out requests in last 3 months,Contract renews in 2 months,Lines down 6% in last 3 months,"1,116 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01300,2026-10-31,0.6756,High,59923.2,40481.84,245.2,17,363.0,3 port-out requests in last 3 months,Lines down 13% in last 3 months,Data usage down 14% vs previous quarter,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00869,2026-10-31,0.4305,High,92638.8,39884.8,297.1,1,690.0,Contract renews in 1 month,2 port-out requests in last 3 months,Customer for 95 months,Data usage up 13% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T01182,2026-10-31,0.3361,Medium,111217.92,37382.46,243.4,3,724.0,Contract renews in 3 months,Data usage down 14% vs previous quarter,2 unresolved support tickets,724 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00077,2026-10-31,0.3295,Medium,75270.96,24800.44,259.3,1,787.0,Contract renews in 1 month,Customer for 95 months,2 unresolved support tickets,787 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00348,2026-10-31,0.4563,High,41109.48,18759.0,152.9,2,335.0,Contract renews in 2 months,Lines down 7% in last 3 months,1 port-out requests in last 3 months,335 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00926,2026-10-31,0.993,High,18299.64,18171.42,145.0,2,146.0,10 port-out requests in last 3 months,Data usage down 31% vs previous quarter,Contract renews in 2 months,146 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00557,2026-10-31,0.2532,Medium,69593.64,17619.04,122.8,3,485.0,Contract renews in 3 months,1 port-out requests in last 3 months,"Monthly recurring revenue: KWD 5,799",485 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00485,2026-10-31,0.966,High,17997.72,17386.53,96.6,2,100.0,4 port-out requests in last 3 months,Contract renews in 2 months,Data usage down 23% vs previous quarter,Customer for 82 months,lgbm-telecom-v1,2026-11-27 15:46
+T01224,2026-10-31,0.1672,Medium,100340.52,16776.03,123.6,3,739.0,Contract renews in 3 months,1 port-out requests in last 3 months,On a 12 months contract,739 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00290,2026-10-31,0.9969,High,13666.2,13624.32,115.6,1,116.0,8 port-out requests in last 3 months,Data usage down 46% vs previous quarter,Contract renews in 1 month,116 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00465,2026-10-31,0.1665,Medium,80169.36,13348.04,89.4,1,537.0,2 port-out requests in last 3 months,Contract renews in 1 month,"Monthly recurring revenue: KWD 6,681",537 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00187,2026-10-31,0.2299,Medium,54033.12,12422.34,51.3,3,223.0,Contract renews in 3 months,Customer for 93 months,2 billing disputes in last 3 months,Subscribes to 5 products,lgbm-telecom-v1,2026-11-27 15:46
+T00288,2026-10-31,0.8402,High,13759.56,11561.18,70.6,2,84.0,Contract renews in 2 months,Data usage down 15% vs previous quarter,Lines down 22% in last 3 months,11.0 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00747,2026-10-31,0.0476,Low,230520.36,10982.9,67.3,3,1413.0,Contract renews in 3 months,3 unresolved support tickets,On a 12 months contract,"1,413 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00251,2026-10-31,0.9936,High,10302.36,10236.64,76.5,1,77.0,6 port-out requests in last 3 months,Data usage down 45% vs previous quarter,Contract renews in 1 month,7.5 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00592,2026-10-31,0.0624,Low,107741.52,6722.97,49.1,3,787.0,Contract renews in 3 months,On a 12 months contract,"Monthly recurring revenue: KWD 8,978",787 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01184,2026-10-31,0.9945,High,6297.0,6262.21,33.8,12,34.0,11 port-out requests in last 3 months,Data usage down 48% vs previous quarter,Lines down 48% in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00586,2026-10-31,0.125,Low,45333.84,5668.67,59.5,2,476.0,Contract renews in 2 months,Customer for 94 months,On a 24 months contract,476 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00186,2026-10-31,0.068,Low,78902.76,5362.62,53.6,3,788.0,Contract renews in 3 months,On a 12 months contract,1 unresolved support tickets,788 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00151,2026-10-31,0.32,Medium,16616.4,5317.52,33.0,3,103.0,Contract renews in 3 months,103 active lines,On a 24 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00764,2026-10-31,0.0517,Low,98517.24,5096.21,29.1,3,563.0,Contract renews in 3 months,"Monthly recurring revenue: KWD 8,210",On a 12 months contract,563 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01303,2026-10-31,0.2762,Medium,16149.36,4461.26,24.9,2,90.0,Contract renews in 2 months,On a 24 months contract,90 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00931,2026-10-31,0.0658,Low,64451.4,4240.67,34.0,2,516.0,Contract renews in 2 months,1 port-out requests in last 3 months,Data usage down 9% vs previous quarter,516 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00092,2026-10-31,0.1356,Low,30594.48,4148.53,49.5,3,365.0,Contract renews in 3 months,1 port-out requests in last 3 months,On a 24 months contract,365 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00862,2026-10-31,0.9832,High,4122.36,4053.12,24.6,2,25.0,Data usage down 32% vs previous quarter,Contract renews in 2 months,1 port-out requests in last 3 months,5 support tickets in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00278,2026-10-31,0.0353,Low,112052.52,3959.63,31.5,2,890.0,Contract renews in 2 months,1 port-out requests in last 3 months,On a 12 months contract,890 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00779,2026-10-31,0.7864,High,4620.36,3633.51,22.0,3,28.0,2 port-out requests in last 3 months,Contract renews in 3 months,Voice usage down 20% vs previous quarter,Region: Ahmadi,lgbm-telecom-v1,2026-11-27 15:46
+T01398,2026-10-31,0.0769,Low,39007.8,3001.51,20.1,3,261.0,Contract renews in 3 months,1 port-out requests in last 3 months,Customer for 9 months,261 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00867,2026-10-31,0.2119,Medium,13862.52,2937.48,19.7,3,93.0,Contract renews in 3 months,93 active lines,Industry: Logistics,4 support tickets in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00834,2026-10-31,0.0211,Low,137227.56,2896.37,22.9,1,1086.0,Contract renews in 1 month,2 billing disputes in last 3 months,On a 12 months contract,"1,086 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01246,2026-10-31,0.9311,High,2996.64,2790.3,22.3,19,24.0,3 port-out requests in last 3 months,Data usage down 24% vs previous quarter,Lines down 20% in last 3 months,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01123,2026-10-31,0.0659,Low,41618.04,2742.74,18.3,2,277.0,Contract renews in 2 months,Industry: Hospitality,On a 12 months contract,277 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00725,2026-10-31,0.088,Low,28289.64,2490.81,11.5,3,131.0,Contract renews in 3 months,Lines down 4% in last 3 months,26.4 GB data per line per month,131 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00256,2026-10-31,0.9909,High,2500.68,2477.91,19.8,1,20.0,4 port-out requests in last 3 months,Data usage down 26% vs previous quarter,Contract renews in 1 month,Region: Hawalli,lgbm-telecom-v1,2026-11-27 15:46
+T00696,2026-10-31,0.0344,Low,68645.28,2360.69,23.4,2,680.0,Contract renews in 2 months,On a 12 months contract,"Monthly recurring revenue: KWD 5,720",Subscribes to 5 products,lgbm-telecom-v1,2026-11-27 15:46
+T00323,2026-10-31,0.0553,Low,39951.36,2209.62,18.4,2,333.0,Contract renews in 2 months,1 port-out requests in last 3 months,On a 24 months contract,333 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00595,2026-10-31,0.1264,Low,17075.04,2159.13,12.0,3,95.0,Contract renews in 3 months,95 active lines,On a 12 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01384,2026-10-31,0.147,Low,14537.64,2136.9,13.2,1,90.0,Contract renews in 1 month,90 active lines,On a 24 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00795,2026-10-31,0.6473,High,3214.32,2080.66,13.6,1,21.0,2 port-out requests in last 3 months,Contract renews in 1 month,Customer for 6 months,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00330,2026-10-31,0.0378,Low,53956.32,2037.55,18.6,2,492.0,Contract renews in 2 months,Customer for 10 months,1 port-out requests in last 3 months,492 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01092,2026-10-31,0.9955,High,1946.52,1937.7,15.9,1,16.0,7 port-out requests in last 3 months,Data usage down 51% vs previous quarter,Contract renews in 1 month,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T01427,2026-10-31,0.0264,Low,73154.4,1929.8,14.4,2,546.0,Contract renews in 2 months,"Monthly recurring revenue: KWD 6,096",On a 24 months contract,546 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00222,2026-10-31,0.9472,High,2017.2,1910.72,8.5,2,9.0,Data usage down 25% vs previous quarter,Contract renews in 2 months,1 port-out requests in last 3 months,Tickets take 0 days to resolve,lgbm-telecom-v1,2026-11-27 15:46
+T00175,2026-10-31,0.0186,Low,102628.92,1904.79,15.5,19,834.0,Customer for 5 months,"Monthly recurring revenue: KWD 8,552",Tickets take 5 days to resolve,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00183,2026-10-31,0.0181,Low,104503.8,1889.28,14.9,1,823.0,Contract renews in 1 month,"Monthly recurring revenue: KWD 8,709",On a 12 months contract,Subscribes to 5 products,lgbm-telecom-v1,2026-11-27 15:46
+T00522,2026-10-31,0.0349,Low,53091.6,1851.21,9.2,3,265.0,Contract renews in 3 months,On a 24 months contract,0 support tickets in last 3 months,265 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00035,2026-10-31,0.1651,Medium,11187.48,1846.53,13.7,1,83.0,Contract renews in 1 month,23.3 GB data per line per month,83 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01418,2026-10-31,0.478,High,3774.36,1803.99,12.4,3,26.0,Contract renews in 3 months,1 port-out requests in last 3 months,Data usage down 8% vs previous quarter,Customer for 81 months,lgbm-telecom-v1,2026-11-27 15:46
+T00658,2026-10-31,0.0146,Low,117231.84,1706.96,15.1,1,1039.0,Contract renews in 1 month,Customer for 90 months,26.2 GB data per line per month,"1,039 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00880,2026-10-31,0.0207,Low,80876.88,1674.54,13.5,1,653.0,Contract renews in 1 month,2 billing disputes in last 3 months,On a 24 months contract,653 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00870,2026-10-31,0.2176,Medium,7496.88,1631.34,11.5,2,53.0,Contract renews in 2 months,Data usage down 17% vs previous quarter,53 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01334,2026-10-31,0.0149,Low,104840.4,1565.22,12.2,8,820.0,2 billing disputes in last 3 months,"Monthly recurring revenue: KWD 8,737",Customer for 88 months,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00913,2026-10-31,0.1131,Low,13492.08,1526.06,12.0,1,106.0,Contract renews in 1 month,On a 24 months contract,106 active lines,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00284,2026-10-31,0.0199,Low,73058.64,1450.64,7.9,1,399.0,Contract renews in 1 month,On a 12 months contract,"Monthly recurring revenue: KWD 6,088",41.5 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00805,2026-10-31,0.3421,Medium,4231.68,1447.83,5.8,1,17.0,Contract renews in 1 month,17 active lines,1 port-out requests in last 3 months,Pays 0 days late on average,lgbm-telecom-v1,2026-11-27 15:46
+T01020,2026-10-31,0.0293,Low,47738.64,1401.05,11.1,2,377.0,Contract renews in 2 months,On a 12 months contract,Region: Jahra,377 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00166,2026-10-31,0.0997,Low,13638.72,1359.99,8.7,2,87.0,Contract renews in 2 months,On a 24 months contract,87 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01084,2026-10-31,0.0088,Low,150782.16,1324.72,14.1,18,1601.0,Customer for 102 months,1 port-out requests in last 3 months,72 lines disconnected in last 3 months,"1,601 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01295,2026-10-31,0.269,Medium,4708.32,1266.71,6.2,3,23.0,Contract renews in 3 months,Lines down 8% in last 3 months,23 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01163,2026-10-31,0.0153,Low,81899.52,1252.97,9.3,1,607.0,Contract renews in 1 month,3 billing disputes in last 3 months,On a 24 months contract,607 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00041,2026-10-31,0.0181,Low,67249.68,1214.96,7.4,2,412.0,Contract renews in 2 months,On a 12 months contract,Pays 10 days late on average,412 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00037,2026-10-31,0.4097,High,2802.24,1148.09,8.6,3,21.0,Contract renews in 3 months,Data usage down 15% vs previous quarter,Lines down 9% in last 3 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00828,2026-10-31,0.0572,Low,19299.36,1103.45,7.0,3,122.0,Contract renews in 3 months,On a 12 months contract,Customer for 93 months,122 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01353,2026-10-31,0.019,Low,56227.8,1070.19,7.5,2,395.0,Contract renews in 2 months,1 port-out requests in last 3 months,2 billing disputes in last 3 months,395 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00325,2026-10-31,0.0729,Low,14322.36,1043.53,6.6,1,90.0,Contract renews in 1 month,90 active lines,On a 12 months contract,6.5 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00811,2026-10-31,0.0427,Low,23499.96,1003.78,8.7,3,204.0,Contract renews in 3 months,2 billing disputes in last 3 months,On a 24 months contract,204 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01190,2026-10-31,0.1311,Low,7569.96,992.08,8.9,2,68.0,Contract renews in 2 months,Industry: Hospitality,On a 24 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00975,2026-10-31,0.44,High,2174.16,956.71,4.0,3,9.0,Contract renews in 3 months,9 active lines,Data usage down 12% vs previous quarter,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01409,2026-10-31,0.1188,Low,7309.92,868.09,5.1,3,43.0,Contract renews in 3 months,43 active lines,On a 24 months contract,Data usage up 14% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T01396,2026-10-31,0.0176,Low,49243.92,866.0,6.6,1,374.0,Contract renews in 1 month,On a 24 months contract,Region: Jahra,374 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00130,2026-10-31,0.0188,Low,45262.32,850.66,8.2,2,438.0,Contract renews in 2 months,On a 12 months contract,Customer for 22 months,438 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00203,2026-10-31,0.0188,Low,44851.44,843.13,7.2,2,383.0,Contract renews in 2 months,On a 12 months contract,21 lines disconnected in last 3 months,383 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00879,2026-10-31,0.1185,Low,7072.56,838.21,6.9,3,58.0,Contract renews in 3 months,58 active lines,On a 12 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01254,2026-10-31,0.0077,Low,106976.88,818.49,7.6,2,991.0,Contract renews in 2 months,On a 24 months contract,35 lines disconnected in last 3 months,991 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01448,2026-10-31,0.037,Low,21148.32,782.16,5.5,3,150.0,Contract renews in 3 months,Industry: Hospitality,On a 12 months contract,150 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00740,2026-10-31,0.082,Low,9425.4,773.24,5.4,1,66.0,Contract renews in 1 month,Tickets take 6 days to resolve,1 port-out requests in last 3 months,4 support tickets in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01070,2026-10-31,0.2411,Medium,3183.6,767.58,3.1,1,13.0,Contract renews in 1 month,2 port-out requests in last 3 months,13 active lines,Data usage up 70% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T01446,2026-10-31,0.0089,Low,84517.32,753.14,6.0,18,678.0,Data usage down 15% vs previous quarter,1 port-out requests in last 3 months,Region: Farwaniya,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00655,2026-10-31,0.0179,Low,41436.84,743.53,6.9,1,382.0,Contract renews in 1 month,On a 24 months contract,0 support tickets in last 3 months,382 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01272,2026-10-31,0.9749,High,753.0,734.13,2.9,12,3.0,4 port-out requests in last 3 months,Data usage down 56% vs previous quarter,Lines down 40% in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00891,2026-10-31,0.1672,Medium,4278.84,715.36,3.3,1,20.0,Contract renews in 1 month,Tickets take 8 days to resolve,20 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01352,2026-10-31,0.0556,Low,12568.08,698.52,4.6,4,83.0,2 port-out requests in last 3 months,83 active lines,On a 24 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00731,2026-10-31,0.0414,Low,16442.04,680.58,3.8,1,93.0,Contract renews in 1 month,93 active lines,1 port-out requests in last 3 months,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00820,2026-10-31,0.3172,Medium,2104.44,667.52,4.4,17,14.0,3 port-out requests in last 3 months,Customer for 7 months,14 active lines,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00425,2026-10-31,0.1452,Low,4597.68,667.45,4.6,2,32.0,Contract renews in 2 months,Lines down 14% in last 3 months,32 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00170,2026-10-31,0.0141,Low,47329.92,665.12,8.6,1,610.0,Contract renews in 1 month,On a 12 months contract,24 lines disconnected in last 3 months,610 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01411,2026-10-31,0.0119,Low,53208.84,632.49,7.4,6,625.0,2 port-out requests in last 3 months,Customer for 6 months,29 lines disconnected in last 3 months,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00353,2026-10-31,0.0163,Low,38383.56,624.71,5.1,2,316.0,Contract renews in 2 months,On a 12 months contract,Industry: Logistics,316 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00124,2026-10-31,0.0102,Low,61334.52,624.43,4.8,1,475.0,Contract renews in 1 month,On a 12 months contract,32 lines disconnected in last 3 months,475 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00855,2026-10-31,0.3412,Medium,1809.6,617.4,2.7,3,8.0,Contract renews in 3 months,Data usage down 22% vs previous quarter,8 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01128,2026-10-31,0.0873,Low,6989.76,610.2,4.5,1,52.0,Contract renews in 1 month,Customer for 5 months,Tickets take 7 days to resolve,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00627,2026-10-31,0.0108,Low,55142.52,596.47,5.7,1,526.0,Contract renews in 1 month,On a 12 months contract,25 lines disconnected in last 3 months,526 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00264,2026-10-31,0.0047,Low,126322.08,596.12,8.4,1,1781.0,Contract renews in 1 month,Pays 9 days late on average,78 lines disconnected in last 3 months,"1,781 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01200,2026-10-31,0.0582,Low,9944.52,578.41,6.2,2,106.0,Contract renews in 2 months,106 active lines,21.9 GB data per line per month,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00946,2026-10-31,0.1655,Medium,3476.64,575.54,3.3,1,20.0,Contract renews in 1 month,20 active lines,Industry: Logistics,Data usage up 2% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00749,2026-10-31,0.0025,Low,231378.72,568.32,3.7,17,1488.0,1 port-out requests in last 3 months,Customer for 103 months,66 lines disconnected in last 3 months,"1,488 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00800,2026-10-31,0.1227,Low,4479.36,549.59,3.6,1,29.0,Contract renews in 1 month,Customer for 10 months,Industry: Hospitality,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01284,2026-10-31,0.072,Low,7628.88,548.91,4.0,1,56.0,Contract renews in 1 month,Tickets take 11 days to resolve,56 active lines,Customer for 73 months,lgbm-telecom-v1,2026-11-27 15:46
+T00045,2026-10-31,0.0456,Low,11971.56,545.64,3.6,1,79.0,Contract renews in 1 month,1 port-out requests in last 3 months,79 active lines,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T01153,2026-10-31,0.0036,Low,146877.24,526.0,4.9,11,1355.0,Customer for 97 months,Pays 15 days late on average,68 lines disconnected in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00091,2026-10-31,0.0019,Low,280463.88,523.9,4.7,8,2541.0,1 port-out requests in last 3 months,Industry: Hospitality,112 lines disconnected in last 3 months,"2,541 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01401,2026-10-31,0.1174,Low,4443.36,521.66,3.6,3,31.0,Contract renews in 3 months,31 active lines,On a 24 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00769,2026-10-31,0.1349,Low,3826.2,516.15,3.0,3,22.0,Contract renews in 3 months,22 active lines,On a 12 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00370,2026-10-31,0.0039,Low,131742.72,507.46,5.8,15,1516.0,Pays 20 days late on average,1 port-out requests in last 3 months,2 billing disputes in last 3 months,"1,516 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00420,2026-10-31,0.0548,Low,9203.16,504.36,3.2,2,58.0,Contract renews in 2 months,1 port-out requests in last 3 months,58 active lines,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00430,2026-10-31,0.058,Low,8693.52,504.05,2.7,2,47.0,Contract renews in 2 months,On a 24 months contract,Subscribes to 3 products,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01028,2026-10-31,0.2689,Medium,1860.72,500.32,1.9,1,7.0,Contract renews in 1 month,Data usage down 21% vs previous quarter,7 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00137,2026-10-31,0.0351,Low,13986.6,490.47,2.7,1,76.0,Contract renews in 1 month,76 active lines,35.0 GB data per line per month,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00705,2026-10-31,0.0022,Low,224337.96,489.81,2.6,19,1211.0,Customer for 101 months,Data usage down 7% vs previous quarter,"Monthly recurring revenue: KWD 18,695",Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00523,2026-10-31,0.0515,Low,9337.68,480.89,4.0,1,77.0,Contract renews in 1 month,77 active lines,9.8 GB data per line per month,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00892,2026-10-31,0.0042,Low,114937.68,477.45,4.1,1,988.0,Contract renews in 1 month,On a 12 months contract,22.0 GB data per line per month,988 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00246,2026-10-31,0.0143,Low,33251.28,474.12,6.0,2,423.0,Contract renews in 2 months,Data usage down 11% vs previous quarter,On a 24 months contract,423 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00396,2026-10-31,0.0402,Low,11754.84,472.34,3.2,1,80.0,Contract renews in 1 month,80 active lines,1 support tickets in last 3 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01496,2026-10-31,0.0026,Low,172288.92,452.4,3.0,7,1143.0,3 billing disputes in last 3 months,"Monthly recurring revenue: KWD 14,357","Overdue amount: KWD 14,216",Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00920,2026-10-31,0.0066,Low,67084.56,441.47,3.8,2,581.0,Contract renews in 2 months,On a 12 months contract,31 lines disconnected in last 3 months,581 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00797,2026-10-31,0.0076,Low,57204.72,434.31,3.3,7,429.0,Lines down 6% in last 3 months,1 port-out requests in last 3 months,Tickets take 8 days to resolve,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01077,2026-10-31,0.1331,Low,3158.52,420.47,2.3,1,17.0,Contract renews in 1 month,17 active lines,1 port-out requests in last 3 months,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00704,2026-10-31,0.1718,Medium,2427.12,416.95,2.6,1,15.0,Contract renews in 1 month,Lines down 12% in last 3 months,15 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00220,2026-10-31,0.016,Low,26105.88,416.93,2.5,6,156.0,2 port-out requests in last 3 months,"Overdue amount: KWD 2,175",24.1 GB data per line per month,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01260,2026-10-31,0.0046,Low,89690.28,414.64,6.0,15,1292.0,1 port-out requests in last 3 months,2 billing disputes in last 3 months,1 unresolved support tickets,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00629,2026-10-31,0.0163,Low,25260.36,410.72,4.0,23,248.0,2 port-out requests in last 3 months,Customer for 97 months,"Overdue amount: KWD 2,120",Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T01365,2026-10-31,0.003,Low,136245.84,402.24,3.0,1,1011.0,Contract renews in 1 month,Industry: Hospitality,48 lines disconnected in last 3 months,"1,011 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00548,2026-10-31,0.2092,Medium,1874.04,392.0,2.5,3,12.0,Contract renews in 3 months,12 active lines,Industry: Hospitality,Data usage up 10% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T01042,2026-10-31,0.0024,Low,162593.04,391.66,2.1,19,866.0,Customer for 101 months,"Overdue amount: KWD 13,594",Region: Jahra,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00700,2026-10-31,0.0413,Low,9316.44,385.11,2.5,1,60.0,Contract renews in 1 month,On a 24 months contract,1 port-out requests in last 3 months,Data usage up 6% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00326,2026-10-31,0.12,Low,3168.0,380.2,2.3,3,19.0,Contract renews in 3 months,19 active lines,On a 24 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00201,2026-10-31,0.0896,Low,4202.04,376.32,3.0,1,33.0,Contract renews in 1 month,Customer for 6 months,33 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00015,2026-10-31,0.1569,Medium,2265.84,355.49,2.2,1,14.0,Contract renews in 1 month,Customer for 6 months,Tickets take 6 days to resolve,Data usage up 22% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00110,2026-10-31,0.1595,Medium,2193.48,349.9,1.8,1,11.0,Contract renews in 1 month,11 active lines,21.9 GB data per line per month,Voice usage up 4% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T01093,2026-10-31,0.0065,Low,51825.96,338.47,2.6,7,400.0,Customer for 101 months,17 lines disconnected in last 3 months,25.6 GB data per line per month,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01289,2026-10-31,0.1116,Low,3020.4,336.94,2.0,2,18.0,Contract renews in 2 months,18 active lines,On a 12 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01278,2026-10-31,0.0031,Low,108364.56,334.57,3.1,7,992.0,Customer for 101 months,"Monthly recurring revenue: KWD 9,030",1 unresolved support tickets,992 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00832,2026-10-31,0.04,Low,8183.04,327.55,2.7,1,67.0,Contract renews in 1 month,27.8 GB data per line per month,67 active lines,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T01186,2026-10-31,0.0129,Low,24935.16,322.85,2.3,18,175.0,2 port-out requests in last 3 months,Customer for 6 months,Data usage down 1% vs previous quarter,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T01003,2026-10-31,0.0425,Low,7551.24,321.11,2.4,1,57.0,Contract renews in 1 month,Industry: Hospitality,9.6 GB data per line per month,Customer for 96 months,lgbm-telecom-v1,2026-11-27 15:46
+T01173,2026-10-31,0.1799,Medium,1730.52,311.4,1.8,1,10.0,2 port-out requests in last 3 months,Contract renews in 1 month,10 active lines,Data usage up 5% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00427,2026-10-31,0.0435,Low,7122.24,310.02,1.7,1,40.0,Contract renews in 1 month,Industry: Hospitality,40 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00665,2026-10-31,0.2413,Medium,1282.56,309.43,1.9,1,8.0,Contract renews in 1 month,8 active lines,Customer for 7 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00518,2026-10-31,0.018,Low,16686.12,300.34,2.3,5,126.0,2 port-out requests in last 3 months,9.6 GB data per line per month,Industry: Hospitality,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00043,2026-10-31,0.0025,Low,116452.08,296.05,2.7,8,1054.0,Customer for 100 months,"Monthly recurring revenue: KWD 9,704",48 lines disconnected in last 3 months,"1,054 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00089,2026-10-31,0.0041,Low,71969.04,296.04,2.1,4,503.0,"Monthly recurring revenue: KWD 5,997",Data usage down 11% vs previous quarter,25 lines disconnected in last 3 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00988,2026-10-31,0.1978,Medium,1488.48,294.47,2.2,2,11.0,Contract renews in 2 months,11 active lines,On a 12 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01035,2026-10-31,0.0036,Low,76449.48,278.34,3.2,9,873.0,Industry: Retail,Customer for 15 months,Data usage down 8% vs previous quarter,873 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01474,2026-10-31,0.0568,Low,4873.44,276.78,2.8,1,50.0,Contract renews in 1 month,28.4 GB data per line per month,On a 12 months contract,Customer for 83 months,lgbm-telecom-v1,2026-11-27 15:46
+T01136,2026-10-31,0.0584,Low,4704.12,274.89,1.8,1,30.0,Contract renews in 1 month,On a 24 months contract,30 active lines,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00116,2026-10-31,0.0258,Low,10566.72,272.85,1.9,2,75.0,Contract renews in 2 months,On a 12 months contract,Lines down 6% in last 3 months,51.3 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00907,2026-10-31,0.0949,Low,2856.6,270.96,1.4,1,15.0,Contract renews in 1 month,Customer for 7 months,15 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00022,2026-10-31,0.0042,Low,61350.6,257.97,1.4,5,336.0,Data usage down 18% vs previous quarter,Region: Farwaniya,Tickets take 6 days to resolve,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00529,2026-10-31,0.2654,Medium,971.52,257.87,1.9,1,7.0,2 port-out requests in last 3 months,Contract renews in 1 month,7 active lines,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T01348,2026-10-31,0.0255,Low,10010.76,255.0,2.1,1,81.0,Contract renews in 1 month,81 active lines,29.6 GB data per line per month,Customer for 103 months,lgbm-telecom-v1,2026-11-27 15:46
+T00472,2026-10-31,0.001,Low,262470.12,252.84,1.8,17,1829.0,4 billing disputes in last 3 months,82 lines disconnected in last 3 months,"Overdue amount: KWD 21,604","1,829 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00894,2026-10-31,0.0025,Low,101956.92,251.57,2.0,5,800.0,Voice usage down 17% vs previous quarter,Region: Farwaniya,34 lines disconnected in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00383,2026-10-31,0.0043,Low,58861.8,251.0,2.1,16,481.0,4 unresolved support tickets,Data usage down 10% vs previous quarter,Tickets take 5 days to resolve,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00468,2026-10-31,0.0591,Low,4240.08,250.56,1.3,1,22.0,Contract renews in 1 month,22 active lines,On a 12 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01259,2026-10-31,0.1554,Medium,1603.56,249.17,2.0,3,13.0,Contract renews in 3 months,Lines down 19% in last 3 months,Data usage down 15% vs previous quarter,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00916,2026-10-31,0.0088,Low,28322.28,248.63,1.7,1,190.0,Contract renews in 1 month,16.4 GB data per line per month,Region: Farwaniya,"Monthly recurring revenue: KWD 2,360",lgbm-telecom-v1,2026-11-27 15:46
+T00488,2026-10-31,0.0026,Low,95644.2,244.13,1.7,5,676.0,Customer for 7 months,"Monthly recurring revenue: KWD 7,970",On a 12 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00673,2026-10-31,0.0127,Low,19206.84,243.1,1.8,2,146.0,Contract renews in 2 months,On a 12 months contract,6 lines disconnected in last 3 months,146 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00668,2026-10-31,0.0788,Low,3074.88,242.26,3.4,3,43.0,Contract renews in 3 months,Industry: Hospitality,On a 24 months contract,Data usage up 18% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00854,2026-10-31,0.0021,Low,111360.48,239.3,2.8,15,1295.0,Industry: Retail,46 lines disconnected in last 3 months,Data usage down 4% vs previous quarter,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00821,2026-10-31,0.0057,Low,41356.68,236.92,1.9,17,331.0,Customer for 7 months,Data usage down 7% vs previous quarter,Region: Farwaniya,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00405,2026-10-31,0.0678,Low,3485.16,236.43,0.9,1,13.0,Contract renews in 1 month,13 active lines,Lines down 13% in last 3 months,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00875,2026-10-31,0.0034,Low,69045.0,234.04,1.8,23,542.0,Customer for 97 months,"Monthly recurring revenue: KWD 5,754",Data usage down 8% vs previous quarter,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T00885,2026-10-31,0.012,Low,19112.4,229.19,1.2,1,97.0,Contract renews in 1 month,97 active lines,Industry: Banking & Finance,"Monthly recurring revenue: KWD 1,593",lgbm-telecom-v1,2026-11-27 15:46
+T00512,2026-10-31,0.0015,Low,151783.8,227.72,1.8,23,1213.0,Industry: Logistics,61 lines disconnected in last 3 months,Data usage down 0% vs previous quarter,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T01144,2026-10-31,0.1082,Low,2101.08,227.3,1.7,1,16.0,Contract renews in 1 month,Data usage down 18% vs previous quarter,Pays 13 days late on average,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00883,2026-10-31,0.0015,Low,156696.12,227.27,2.1,24,1425.0,Customer for 96 months,69 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 13,058",Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T01280,2026-10-31,0.0049,Low,45347.28,224.4,2.5,4,499.0,2 billing disputes in last 3 months,1 port-out requests in last 3 months,4 SLA breaches in last 3 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00681,2026-10-31,0.0101,Low,22115.04,223.1,1.4,1,135.0,Contract renews in 1 month,On a 24 months contract,Pays 13 days late on average,135 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00973,2026-10-31,0.0349,Low,6360.84,221.89,1.3,4,38.0,1 port-out requests in last 3 months,Customer for 8 months,Data usage down 6% vs previous quarter,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01120,2026-10-31,0.015,Low,14553.48,218.51,0.9,1,58.0,Contract renews in 1 month,16.3 GB data per line per month,58 active lines,Subscribes to 5 products,lgbm-telecom-v1,2026-11-27 15:46
+T00072,2026-10-31,0.0019,Low,114878.04,217.55,1.9,6,1028.0,"Monthly recurring revenue: KWD 9,573",Industry: Hospitality,Customer for 90 months,"1,028 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01213,2026-10-31,0.1334,Low,1589.88,212.11,1.5,1,11.0,Contract renews in 1 month,Customer for 7 months,Lines down 15% in last 3 months,7.5 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T01426,2026-10-31,0.049,Low,4307.28,211.24,1.4,2,29.0,Contract renews in 2 months,29 active lines,On a 12 months contract,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00689,2026-10-31,0.0009,Low,238468.8,205.22,1.4,16,1675.0,2 billing disputes in last 3 months,79 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 19,872","1,675 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00807,2026-10-31,0.0109,Low,18598.56,202.96,1.8,8,168.0,Customer for 4 months,Region: Farwaniya,16.4 GB data per line per month,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00597,2026-10-31,0.1282,Low,1578.24,202.35,1.9,3,15.0,Contract renews in 3 months,15 active lines,Overdue amount: KWD 132,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01358,2026-10-31,0.0715,Low,2799.48,200.19,2.1,1,29.0,Contract renews in 1 month,Customer for 6 months,29 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00178,2026-10-31,0.0024,Low,84468.24,200.1,2.0,13,842.0,30.0 GB data per line per month,Region: Jahra,46 lines disconnected in last 3 months,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00028,2026-10-31,0.003,Low,66132.84,198.84,1.6,9,519.0,Customer for 87 months,22.1 GB data per line per month,26 lines disconnected in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00672,2026-10-31,0.0926,Low,2141.88,198.42,1.3,3,14.0,Contract renews in 3 months,14 active lines,Lines down 7% in last 3 months,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00633,2026-10-31,0.0094,Low,21038.28,198.21,1.3,1,133.0,Contract renews in 1 month,Customer for 10 months,Industry: Banking & Finance,133 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01441,2026-10-31,0.0013,Low,155514.96,196.47,1.9,5,1465.0,26.5 GB data per line per month,67 lines disconnected in last 3 months,Industry: Logistics,"1,465 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00683,2026-10-31,0.0322,Low,6090.12,196.02,1.4,1,45.0,Contract renews in 1 month,Industry: Logistics,Lines down 6% in last 3 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00606,2026-10-31,0.0256,Low,7534.08,193.2,1.3,1,51.0,Contract renews in 1 month,20.7 GB data per line per month,51 active lines,Customer for 88 months,lgbm-telecom-v1,2026-11-27 15:46
+T00701,2026-10-31,0.0026,Low,72318.24,191.43,2.0,5,772.0,Customer for 7 months,"Monthly recurring revenue: KWD 6,027",On a 12 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01315,2026-10-31,0.0024,Low,77745.84,190.37,2.0,5,834.0,Industry: Education,Tickets take 8 days to resolve,31 lines disconnected in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00603,2026-10-31,0.0018,Low,107495.52,189.48,1.6,22,915.0,Customer for 98 months,"Monthly recurring revenue: KWD 8,958",Industry: Education,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00374,2026-10-31,0.008,Low,23556.96,188.96,1.5,1,191.0,Contract renews in 1 month,"Overdue amount: KWD 2,003",13 lines disconnected in last 3 months,191 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01209,2026-10-31,0.0016,Low,114555.0,187.3,1.9,18,1185.0,Customer for 6 months,40 lines disconnected in last 3 months,Tickets take 2 days to resolve,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T01236,2026-10-31,0.0047,Low,40052.28,186.89,1.6,7,334.0,Data usage down 6% vs previous quarter,Industry: Retail,12 lines disconnected in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01266,2026-10-31,0.0258,Low,7142.4,184.42,0.9,12,34.0,1 port-out requests in last 3 months,Lines down 11% in last 3 months,Data usage down 0% vs previous quarter,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00271,2026-10-31,0.0023,Low,77483.04,179.93,1.5,15,645.0,Data usage down 11% vs previous quarter,Region: Farwaniya,Pays 11 days late on average,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00233,2026-10-31,0.0024,Low,72866.04,176.61,1.2,13,505.0,4.8 GB data per line per month,Region: Farwaniya,Pays 6 days late on average,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00165,2026-10-31,0.0431,Low,3991.44,172.09,1.4,2,32.0,Contract renews in 2 months,32 active lines,On a 24 months contract,Data usage up 28% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00379,2026-10-31,0.002,Low,87968.76,171.91,1.3,9,650.0,Industry: Hospitality,On a 12 months contract,"Monthly recurring revenue: KWD 7,331",Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00295,2026-10-31,0.0034,Low,49982.04,171.71,1.4,6,403.0,16.1 GB data per line per month,Industry: Retail,17 lines disconnected in last 3 months,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00378,2026-10-31,0.0037,Low,46827.72,171.19,1.1,8,312.0,Customer for 4 months,Industry: Logistics,On a 12 months contract,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01140,2026-10-31,0.0924,Low,1848.48,170.72,0.9,1,10.0,Contract renews in 1 month,Data usage down 18% vs previous quarter,1 port-out requests in last 3 months,Customer for 88 months,lgbm-telecom-v1,2026-11-27 15:46
+T00416,2026-10-31,0.0493,Low,3445.2,169.73,1.1,1,23.0,Contract renews in 1 month,Tickets take 6 days to resolve,23 active lines,Customer for 38 months,lgbm-telecom-v1,2026-11-27 15:46
+T00373,2026-10-31,0.0878,Low,1909.08,167.56,1.1,2,13.0,Contract renews in 2 months,13 active lines,Customer for 10 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00299,2026-10-31,0.0014,Low,114783.0,165.86,1.5,16,1050.0,Customer for 8 months,Industry: Retail,51 lines disconnected in last 3 months,"1,050 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01307,2026-10-31,0.1096,Low,1509.84,165.48,2.2,1,20.0,Contract renews in 1 month,20 active lines,1 unresolved support tickets,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01095,2026-10-31,0.0011,Low,144241.2,164.99,1.5,5,1277.0,57 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 12,020",Data usage down 4% vs previous quarter,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01373,2026-10-31,0.0048,Low,34457.16,164.81,1.5,23,322.0,Customer for 97 months,32.1 GB data per line per month,"Overdue amount: KWD 2,936",Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T00052,2026-10-31,0.1179,Low,1397.4,164.72,1.3,1,11.0,Contract renews in 1 month,Voice usage down 22% vs previous quarter,Lines down 15% in last 3 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01247,2026-10-31,0.0587,Low,2796.0,164.22,1.3,3,22.0,Contract renews in 3 months,22 active lines,Customer for 9 months,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00095,2026-10-31,0.0537,Low,3000.48,161.11,0.9,1,16.0,Contract renews in 1 month,16 active lines,Lines down 11% in last 3 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00919,2026-10-31,0.0022,Low,72543.96,159.71,1.7,5,772.0,Industry: Hospitality,On a 12 months contract,"Monthly recurring revenue: KWD 6,045",Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00025,2026-10-31,0.0074,Low,21635.76,159.32,1.3,1,175.0,Contract renews in 1 month,1 port-out requests in last 3 months,On a 12 months contract,175 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00205,2026-10-31,0.0068,Low,23490.84,158.64,1.5,1,216.0,Contract renews in 1 month,Tickets take 7 days to resolve,24.5 GB data per line per month,216 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00836,2026-10-31,0.0043,Low,35748.24,155.33,0.8,1,185.0,Contract renews in 1 month,Region: Jahra,"Overdue amount: KWD 2,994",185 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00901,2026-10-31,0.0046,Low,33745.8,154.49,1.0,7,213.0,1 port-out requests in last 3 months,Industry: Logistics,Region: Jahra,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00358,2026-10-31,0.0018,Low,87473.4,154.27,1.2,12,707.0,16.1 GB data per line per month,35 lines disconnected in last 3 months,"Overdue amount: KWD 7,249",Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00058,2026-10-31,0.0125,Low,12298.44,154.26,1.1,7,84.0,21.9 GB data per line per month,84 active lines,"Overdue amount: KWD 1,013",Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00974,2026-10-31,0.0008,Low,180037.8,151.4,1.4,6,1645.0,93 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 15,003",Industry: Retail,"1,645 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00581,2026-10-31,0.0081,Low,18666.96,151.32,1.3,1,162.0,Contract renews in 1 month,Industry: Hospitality,Tickets take 3 days to resolve,"Monthly recurring revenue: KWD 1,556",lgbm-telecom-v1,2026-11-27 15:46
+T01151,2026-10-31,0.001,Low,158056.68,150.98,1.7,21,1792.0,1 port-out requests in last 3 months,29.6 GB data per line per month,86 lines disconnected in last 3 months,"1,792 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00492,2026-10-31,0.0741,Low,2035.8,150.94,1.2,2,16.0,Contract renews in 2 months,16 active lines,20.6 GB data per line per month,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00341,2026-10-31,0.0056,Low,26710.32,150.83,1.0,6,169.0,Data usage down 16% vs previous quarter,"Overdue amount: KWD 2,201",16.3 GB data per line per month,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00180,2026-10-31,0.0739,Low,2032.56,150.27,1.0,3,13.0,Contract renews in 3 months,13 active lines,On a 12 months contract,6.8 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T01439,2026-10-31,0.0156,Low,9622.56,150.22,0.9,1,58.0,Contract renews in 1 month,24.2 GB data per line per month,58 active lines,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T01203,2026-10-31,0.0038,Low,39526.2,148.87,1.1,1,291.0,Contract renews in 1 month,Industry: Hospitality,12 lines disconnected in last 3 months,291 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01094,2026-10-31,0.0304,Low,4870.32,147.84,1.2,1,39.0,Contract renews in 1 month,On a 12 months contract,25.1 GB data per line per month,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00380,2026-10-31,0.0492,Low,2997.96,147.64,1.4,1,28.0,Contract renews in 1 month,28 active lines,Pays 13 days late on average,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00563,2026-10-31,0.143,Low,999.96,143.04,0.7,1,5.0,Contract renews in 1 month,5 active lines,Industry: Logistics,Data usage up 46% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00686,2026-10-31,0.0024,Low,58109.88,141.79,1.7,7,678.0,Region: Farwaniya,On a 12 months contract,22 lines disconnected in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01228,2026-10-31,0.0023,Low,61085.76,138.96,0.8,12,366.0,1 port-out requests in last 3 months,Customer for 12 months,0 support tickets in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01080,2026-10-31,0.0587,Low,2360.76,138.49,1.0,2,17.0,Contract renews in 2 months,17 active lines,On a 12 months contract,Customer for 82 months,lgbm-telecom-v1,2026-11-27 15:46
+T00356,2026-10-31,0.045,Low,3069.0,138.17,0.8,1,17.0,Contract renews in 1 month,Data usage down 15% vs previous quarter,Lines down 11% in last 3 months,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00317,2026-10-31,0.0071,Low,19358.04,137.58,0.9,1,120.0,Contract renews in 1 month,21.8 GB data per line per month,1 port-out requests in last 3 months,120 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00497,2026-10-31,0.0099,Low,13841.52,136.81,1.0,1,100.0,Contract renews in 1 month,100 active lines,Industry: Retail,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00859,2026-10-31,0.0015,Low,91093.08,136.12,1.0,5,642.0,22.9 GB data per line per month,"Monthly recurring revenue: KWD 7,591",25 lines disconnected in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00331,2026-10-31,0.0487,Low,2758.56,134.28,1.0,2,21.0,Contract renews in 2 months,21 active lines,On a 24 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00161,2026-10-31,0.0024,Low,55957.68,133.42,1.2,5,490.0,"Overdue amount: KWD 4,707",24 lines disconnected in last 3 months,Data usage down 2% vs previous quarter,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00480,2026-10-31,0.001,Low,134737.68,132.78,0.9,12,913.0,Industry: Logistics,Pays 10 days late on average,38 lines disconnected in last 3 months,913 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00219,2026-10-31,0.0011,Low,119055.6,132.1,1.0,9,858.0,"Monthly recurring revenue: KWD 9,921",35 lines disconnected in last 3 months,Customer for 87 months,858 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01253,2026-10-31,0.0011,Low,122111.76,129.67,1.4,14,1300.0,1 port-out requests in last 3 months,"Monthly recurring revenue: KWD 10,176",67 lines disconnected in last 3 months,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T01239,2026-10-31,0.005,Low,25683.36,127.55,0.6,1,126.0,Contract renews in 1 month,"Overdue amount: KWD 2,059",Industry: Banking & Finance,126 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01459,2026-10-31,0.001,Low,131653.92,127.04,0.9,8,934.0,31.7 GB data per line per month,Region: Farwaniya,43 lines disconnected in last 3 months,934 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00322,2026-10-31,0.0015,Low,86541.72,125.88,1.2,17,840.0,Region: Jahra,Data usage down 3% vs previous quarter,36 lines disconnected in last 3 months,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00972,2026-10-31,0.0018,Low,70837.08,124.26,1.0,8,564.0,Customer for 4 months,Pays 17 days late on average,Data usage down 8% vs previous quarter,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01085,2026-10-31,0.0012,Low,103509.84,124.25,1.1,23,911.0,1 port-out requests in last 3 months,Data usage down 2% vs previous quarter,Industry: Hospitality,911 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01465,2026-10-31,0.0639,Low,1896.48,121.13,0.8,1,13.0,Contract renews in 1 month,Tickets take 5 days to resolve,1 unresolved support tickets,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00155,2026-10-31,0.0013,Low,94781.16,121.12,1.0,22,746.0,Industry: Retail,Data usage down 1% vs previous quarter,"Monthly recurring revenue: KWD 7,898",Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00716,2026-10-31,0.0013,Low,93721.68,119.31,0.8,8,626.0,"Monthly recurring revenue: KWD 7,810",Industry: Retail,33 lines disconnected in last 3 months,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00184,2026-10-31,0.001,Low,120724.2,118.46,0.9,5,886.0,"Overdue amount: KWD 9,975",43 lines disconnected in last 3 months,15.3 GB data per line per month,886 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00569,2026-10-31,0.0014,Low,86657.88,118.24,0.8,19,554.0,Customer for 5 months,Industry: Logistics,Tickets take 3 days to resolve,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00599,2026-10-31,0.0045,Low,26544.48,118.14,0.7,7,160.0,Customer for 5 months,Tickets take 4 days to resolve,Pays 12 days late on average,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00428,2026-10-31,0.0012,Low,94796.4,116.99,0.9,5,751.0,"Monthly recurring revenue: KWD 7,900",31 lines disconnected in last 3 months,Pays 7 days late on average,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00495,2026-10-31,0.0012,Low,98335.44,115.97,1.1,22,921.0,1 port-out requests in last 3 months,16.0 GB data per line per month,Industry: Logistics,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00753,2026-10-31,0.0065,Low,17734.56,115.75,1.2,1,178.0,Contract renews in 1 month,Industry: Retail,Tickets take 4 days to resolve,178 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00415,2026-10-31,0.0012,Low,95291.16,115.38,0.9,15,739.0,Data usage down 10% vs previous quarter,22.4 GB data per line per month,29 lines disconnected in last 3 months,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T01492,2026-10-31,0.0047,Low,24408.84,115.33,0.8,1,166.0,Contract renews in 1 month,"Overdue amount: KWD 2,022",Subscribes to 3 products,166 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01108,2026-10-31,0.0268,Low,4301.88,115.08,1.0,1,38.0,Contract renews in 1 month,Industry: Hospitality,Customer for 11 months,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00750,2026-10-31,0.0029,Low,39116.16,113.83,1.0,7,360.0,3 billing disputes in last 3 months,1 port-out requests in last 3 months,Pays 9 days late on average,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01458,2026-10-31,0.0006,Low,178409.16,113.56,0.8,10,1206.0,16.1 GB data per line per month,51 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 14,867",Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01072,2026-10-31,0.0067,Low,16942.44,113.44,0.6,11,94.0,1 port-out requests in last 3 months,94 active lines,Industry: Hospitality,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00446,2026-10-31,0.0036,Low,31257.84,112.46,0.8,8,222.0,27.0 GB data per line per month,Lines down 3% in last 3 months,"Overdue amount: KWD 2,649",Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00434,2026-10-31,0.0019,Low,58921.2,111.6,0.6,19,333.0,Data usage down 6% vs previous quarter,Industry: Hospitality,Region: Farwaniya,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01285,2026-10-31,0.003,Low,36730.2,111.27,0.7,8,239.0,2 port-out requests in last 3 months,11 lines disconnected in last 3 months,On a 12 months contract,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01372,2026-10-31,0.0054,Low,20543.28,111.02,0.8,1,146.0,Contract renews in 1 month,Region: Farwaniya,Pays 8 days late on average,146 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00423,2026-10-31,0.0314,Low,3528.84,110.94,0.7,1,23.0,Contract renews in 1 month,Customer for 6 months,23 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00918,2026-10-31,0.0014,Low,81510.48,110.46,1.0,4,745.0,2 billing disputes in last 3 months,On a 12 months contract,Industry: Hospitality,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00663,2026-10-31,0.0358,Low,3059.52,109.38,0.6,24,17.0,21.6 GB data per line per month,Lines down 15% in last 3 months,17 active lines,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00997,2026-10-31,0.0009,Low,125742.24,108.18,0.8,10,905.0,1 port-out requests in last 3 months,28.5 GB data per line per month,40 lines disconnected in last 3 months,905 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01394,2026-10-31,0.0013,Low,83010.0,108.08,1.3,12,1009.0,1 port-out requests in last 3 months,Industry: Hospitality,Subscribes to 2 products,"1,009 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01413,2026-10-31,0.0014,Low,75882.36,106.34,1.1,16,777.0,39 lines disconnected in last 3 months,15.2 GB data per line per month,Segment: Enterprise,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00292,2026-10-31,0.0007,Low,151008.24,106.2,1.1,6,1604.0,75 lines disconnected in last 3 months,Pays 9 days late on average,On a 24 months contract,"1,604 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01378,2026-10-31,0.0019,Low,56846.4,105.82,1.2,7,652.0,Pays 17 days late on average,On a 12 months contract,Region: Farwaniya,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00159,2026-10-31,0.001,Low,105474.36,105.49,1.0,19,976.0,Region: Jahra,44 lines disconnected in last 3 months,15.8 GB data per line per month,976 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01235,2026-10-31,0.0295,Low,3530.04,104.09,0.8,1,28.0,Contract renews in 1 month,1 unresolved support tickets,Lines down 10% in last 3 months,Customer for 88 months,lgbm-telecom-v1,2026-11-27 15:46
+T00752,2026-10-31,0.0013,Low,78626.4,103.33,0.6,14,473.0,1 port-out requests in last 3 months,Region: Farwaniya,"Monthly recurring revenue: KWD 6,552",Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00054,2026-10-31,0.0009,Low,111546.36,102.48,0.8,22,902.0,2 billing disputes in last 3 months,Pays 9 days late on average,40 lines disconnected in last 3 months,902 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00847,2026-10-31,0.0015,Low,65703.84,101.14,1.0,15,655.0,27 lines disconnected in last 3 months,Subscribes to 2 products,Industry: Retail,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00842,2026-10-31,0.039,Low,2585.04,100.73,0.7,1,18.0,Contract renews in 1 month,18 active lines,Industry: Banking & Finance,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T01075,2026-10-31,0.0015,Low,67566.96,100.6,0.7,12,448.0,"Monthly recurring revenue: KWD 5,631",Industry: Education,19 lines disconnected in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00998,2026-10-31,0.0018,Low,56987.88,100.17,0.7,5,404.0,2 billing disputes in last 3 months,1 port-out requests in last 3 months,Customer for 91 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00417,2026-10-31,0.0031,Low,31986.24,99.79,1.0,1,317.0,Contract renews in 1 month,Industry: Logistics,21 lines disconnected in last 3 months,317 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00780,2026-10-31,0.004,Low,24805.44,98.77,0.6,14,152.0,Customer for 10 months,Industry: Retail,Tickets take 4 days to resolve,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T01429,2026-10-31,0.0008,Low,126734.4,98.22,0.9,20,1172.0,65 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 10,561",2 network/data-speed complaints in last 3 months,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00618,2026-10-31,0.0022,Low,43637.64,97.63,0.6,9,282.0,"Overdue amount: KWD 3,600",0 support tickets in last 3 months,Customer for 15 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01000,2026-10-31,0.0041,Low,23600.04,97.37,0.6,6,141.0,1 port-out requests in last 3 months,Region: Farwaniya,"Overdue amount: KWD 1,993",Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00607,2026-10-31,0.0038,Low,25292.04,96.96,0.8,19,211.0,Customer for 101 months,23.8 GB data per line per month,"Overdue amount: KWD 2,117",Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00189,2026-10-31,0.0019,Low,51580.92,96.15,0.9,10,479.0,1 port-out requests in last 3 months,Data usage down 10% vs previous quarter,Pays 10 days late on average,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00477,2026-10-31,0.0013,Low,73561.44,96.07,0.7,17,524.0,3 billing disputes in last 3 months,27.7 GB data per line per month,Pays 9 days late on average,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T01201,2026-10-31,0.0553,Low,1703.64,94.23,0.5,2,9.0,Contract renews in 2 months,9 active lines,On a 24 months contract,8.8 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00352,2026-10-31,0.0268,Low,3472.2,93.06,0.5,1,18.0,Contract renews in 1 month,18 active lines,1 port-out requests in last 3 months,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00959,2026-10-31,0.0011,Low,87476.88,92.48,0.8,10,735.0,Pays 10 days late on average,26 lines disconnected in last 3 months,Segment: Enterprise,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01430,2026-10-31,0.0022,Low,41442.0,91.75,0.8,17,363.0,Customer for 7 months,Tickets take 3 days to resolve,Industry: Retail,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00126,2026-10-31,0.0018,Low,51151.68,91.11,0.7,11,401.0,Industry: Hospitality,Pays 12 days late on average,Region: Jahra,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00887,2026-10-31,0.0473,Low,1914.96,90.6,0.6,1,12.0,Contract renews in 1 month,12 active lines,Industry: Hospitality,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00999,2026-10-31,0.0035,Low,25581.48,90.36,0.5,12,133.0,40.6 GB data per line per month,Region: Farwaniya,"Overdue amount: KWD 2,162",Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00185,2026-10-31,0.0037,Low,24640.08,90.26,0.5,15,148.0,Customer for 105 months,31.0 GB data per line per month,"Overdue amount: KWD 2,053",Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00075,2026-10-31,0.0016,Low,55390.44,89.94,0.8,10,522.0,35.2 GB data per line per month,On a 12 months contract,Pays 8 days late on average,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00343,2026-10-31,0.0008,Low,109798.92,89.31,0.5,15,613.0,Region: Jahra,36.1 GB data per line per month,23 lines disconnected in last 3 months,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00031,2026-10-31,0.0007,Low,121118.64,89.28,0.8,16,1057.0,56 lines disconnected in last 3 months,Industry: Retail,"Overdue amount: KWD 10,147",Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00615,2026-10-31,0.0663,Low,1338.36,88.68,0.8,1,12.0,Contract renews in 1 month,12 active lines,Industry: Hospitality,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00940,2026-10-31,0.0173,Low,5129.16,88.66,0.6,1,35.0,Contract renews in 1 month,Industry: Banking & Finance,Overdue amount: KWD 405,Customer for 104 months,lgbm-telecom-v1,2026-11-27 15:46
+T01279,2026-10-31,0.0019,Low,46935.36,88.61,0.6,5,325.0,Region: Farwaniya,"Overdue amount: KWD 3,933",On a 24 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00042,2026-10-31,0.0397,Low,2215.56,88.06,0.7,1,18.0,Contract renews in 1 month,Customer for 4 months,18 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01357,2026-10-31,0.0017,Low,52836.6,87.98,0.9,13,520.0,Customer for 11 months,Industry: Retail,23 lines disconnected in last 3 months,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00982,2026-10-31,0.0006,Low,150093.0,87.55,0.8,10,1288.0,64 lines disconnected in last 3 months,Data usage down 6% vs previous quarter,Subscribes to 2 products,"1,288 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00519,2026-10-31,0.0149,Low,5830.32,86.78,0.6,1,37.0,Contract renews in 1 month,24.0 GB data per line per month,37 active lines,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00542,2026-10-31,0.0012,Low,71656.92,86.15,1.1,22,892.0,2 unresolved support tickets,Region: Farwaniya,Tickets take 6 days to resolve,892 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00263,2026-10-31,0.0012,Low,74620.8,86.04,0.5,10,418.0,"Monthly recurring revenue: KWD 6,218",Tickets take 6 days to resolve,Customer for 14 months,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00666,2026-10-31,0.0026,Low,32481.24,86.03,0.7,18,279.0,Region: Farwaniya,"Overdue amount: KWD 2,678",Data usage down 6% vs previous quarter,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00463,2026-10-31,0.0019,Low,44949.0,84.91,0.5,1,242.0,Contract renews in 1 month,1 unresolved support tickets,Pays 6 days late on average,242 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00630,2026-10-31,0.032,Low,2646.6,84.75,0.5,1,17.0,Contract renews in 1 month,17 active lines,Overdue amount: KWD 221,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00698,2026-10-31,0.0009,Low,98507.76,84.58,0.5,12,625.0,2 unresolved support tickets,21.9 GB data per line per month,Region: Farwaniya,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00069,2026-10-31,0.0128,Low,6564.96,84.25,0.7,24,51.0,22.2 GB data per line per month,1 port-out requests in last 3 months,Data usage down 3% vs previous quarter,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00471,2026-10-31,0.0121,Low,6954.48,83.98,0.5,24,42.0,26.2 GB data per line per month,Lines down 11% in last 3 months,6 lines disconnected in last 3 months,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00345,2026-10-31,0.0014,Low,58231.08,83.86,0.6,6,426.0,Data usage down 7% vs previous quarter,1 unresolved support tickets,Region: Farwaniya,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01471,2026-10-31,0.0216,Low,3880.32,83.74,0.6,1,26.0,Contract renews in 1 month,24.3 GB data per line per month,26 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00247,2026-10-31,0.0103,Low,8087.88,83.06,0.5,1,46.0,Contract renews in 1 month,Lines down 8% in last 3 months,6 lines disconnected in last 3 months,Subscribes to 5 products,lgbm-telecom-v1,2026-11-27 15:46
+T00914,2026-10-31,0.0239,Low,3430.2,81.91,0.7,1,28.0,Contract renews in 1 month,28 active lines,Tickets take 3 days to resolve,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00838,2026-10-31,0.0095,Low,8594.64,81.86,0.5,22,55.0,35.5 GB data per line per month,Data usage down 9% vs previous quarter,55 active lines,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00239,2026-10-31,0.0056,Low,14585.88,81.71,0.6,1,99.0,Contract renews in 1 month,99 active lines,Pays 6 days late on average,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00799,2026-10-31,0.0007,Low,118552.32,81.18,0.8,6,1137.0,Pays 14 days late on average,45 lines disconnected in last 3 months,Tickets take 3 days to resolve,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00490,2026-10-31,0.0012,Low,67265.64,80.43,0.6,7,524.0,1 port-out requests in last 3 months,Region: Jahra,18 lines disconnected in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00297,2026-10-31,0.0077,Low,10308.84,79.57,0.6,7,74.0,74 active lines,Customer for 17 months,Region: Farwaniya,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00567,2026-10-31,0.0376,Low,2117.64,79.57,0.3,2,8.0,Contract renews in 2 months,8 active lines,On a 12 months contract,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01324,2026-10-31,0.0013,Low,59577.72,79.21,0.5,8,378.0,"Monthly recurring revenue: KWD 4,965",Industry: Retail,On a 12 months contract,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00347,2026-10-31,0.0072,Low,10882.92,78.64,0.5,10,76.0,76 active lines,Data usage down 11% vs previous quarter,Customer for 14 months,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01175,2026-10-31,0.0044,Low,17774.52,78.08,0.6,8,138.0,Customer for 4 months,Industry: Banking & Finance,Subscribes to 2 products,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00967,2026-10-31,0.0011,Low,72616.32,77.94,0.8,17,702.0,21.5 GB data per line per month,Customer for 7 months,23 lines disconnected in last 3 months,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T01031,2026-10-31,0.0049,Low,15753.12,77.87,0.5,5,102.0,Customer for 7 months,102 active lines,Industry: Banking & Finance,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00451,2026-10-31,0.0012,Low,63743.04,77.84,0.5,18,387.0,Pays 10 days late on average,1 support tickets in last 3 months,On a 24 months contract,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00732,2026-10-31,0.0073,Low,10715.88,77.82,0.7,16,93.0,28.7 GB data per line per month,93 active lines,Tickets take 5 days to resolve,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00744,2026-10-31,0.0015,Low,52985.76,77.81,1.0,7,657.0,On a 12 months contract,27 lines disconnected in last 3 months,Tickets take 3 days to resolve,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00195,2026-10-31,0.0057,Low,13519.32,76.74,0.6,19,98.0,Customer for 5 months,98 active lines,Industry: Banking & Finance,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01403,2026-10-31,0.0009,Low,81415.32,76.69,0.8,9,813.0,"Monthly recurring revenue: KWD 6,785",35 lines disconnected in last 3 months,On a 12 months contract,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00479,2026-10-31,0.0175,Low,4336.32,75.97,0.6,1,35.0,Contract renews in 1 month,1 port-out requests in last 3 months,25.1 GB data per line per month,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00911,2026-10-31,0.0564,Low,1343.76,75.81,0.5,18,8.0,29.6 GB data per line per month,1 port-out requests in last 3 months,Data usage down 9% vs previous quarter,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00944,2026-10-31,0.023,Low,3244.08,74.72,0.4,1,19.0,Contract renews in 1 month,19 active lines,23.8 GB data per line per month,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00148,2026-10-31,0.0015,Low,51207.84,74.64,0.8,5,577.0,Data usage down 9% vs previous quarter,Pays 10 days late on average,"Overdue amount: KWD 4,261",Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01464,2026-10-31,0.0491,Low,1508.16,74.12,0.5,2,10.0,Contract renews in 2 months,10 active lines,On a 24 months contract,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T01351,2026-10-31,0.0056,Low,13116.84,73.58,0.4,6,65.0,Region: Jahra,65 active lines,On a 24 months contract,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00524,2026-10-31,0.0363,Low,2022.36,73.5,0.5,1,15.0,Contract renews in 1 month,15 active lines,On a 12 months contract,9.0 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00270,2026-10-31,0.0184,Low,3967.92,73.11,0.5,1,29.0,Contract renews in 1 month,29 active lines,28.2 GB data per line per month,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01180,2026-10-31,0.0214,Low,3417.24,73.05,0.4,6,17.0,Lines down 19% in last 3 months,17 active lines,Data usage down 9% vs previous quarter,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00992,2026-10-31,0.0014,Low,53351.04,72.93,0.7,20,498.0,Data usage down 6% vs previous quarter,Industry: Logistics,23 lines disconnected in last 3 months,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00856,2026-10-31,0.0009,Low,80546.52,72.13,0.5,15,547.0,27 lines disconnected in last 3 months,Data usage down 5% vs previous quarter,Tickets take 3 days to resolve,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00448,2026-10-31,0.0026,Low,27968.28,71.8,0.3,10,128.0,1 port-out requests in last 3 months,Customer for 14 months,Industry: Hospitality,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00908,2026-10-31,0.0017,Low,41984.52,71.63,0.7,18,401.0,21.9 GB data per line per month,20 lines disconnected in last 3 months,Pays 8 days late on average,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00462,2026-10-31,0.0012,Low,60530.04,71.34,0.6,4,539.0,Customer for 92 months,"Overdue amount: KWD 5,010",20 lines disconnected in last 3 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01489,2026-10-31,0.0031,Low,22848.96,71.22,0.4,6,130.0,Region: Farwaniya,"Overdue amount: KWD 1,877",Industry: Retail,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01369,2026-10-31,0.002,Low,34831.2,71.13,0.7,21,346.0,3 billing disputes in last 3 months,Data usage down 7% vs previous quarter,"Overdue amount: KWD 2,871",Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T01339,2026-10-31,0.0175,Low,4067.64,71.08,0.3,1,20.0,Contract renews in 1 month,Industry: Hospitality,20 active lines,Customer for 76 months,lgbm-telecom-v1,2026-11-27 15:46
+T00214,2026-10-31,0.0051,Low,13923.0,71.03,0.5,13,96.0,96 active lines,Industry: Logistics,Customer for 11 months,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T01325,2026-10-31,0.0018,Low,40195.08,70.85,0.6,12,327.0,"Monthly recurring revenue: KWD 3,350",Industry: Retail,On a 12 months contract,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01349,2026-10-31,0.0043,Low,16264.08,70.34,0.5,4,126.0,2 billing disputes in last 3 months,Tickets take 5 days to resolve,Industry: Hospitality,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00113,2026-10-31,0.0125,Low,5572.8,69.69,0.5,1,42.0,Contract renews in 1 month,Region: Farwaniya,0 support tickets in last 3 months,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T01277,2026-10-31,0.0014,Low,49175.16,69.51,0.5,18,385.0,1 port-out requests in last 3 months,36.3 GB data per line per month,14 lines disconnected in last 3 months,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T01256,2026-10-31,0.0031,Low,22551.84,69.19,0.6,12,182.0,5.0 GB data per line per month,Industry: Hospitality,On a 12 months contract,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00458,2026-10-31,0.0139,Low,4931.76,68.67,0.4,24,27.0,1 port-out requests in last 3 months,Lines down 10% in last 3 months,Data usage down 2% vs previous quarter,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00718,2026-10-31,0.0009,Low,78137.52,67.55,0.5,22,571.0,3 billing disputes in last 3 months,Data usage down 9% vs previous quarter,4 SLA breaches in last 3 months,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01115,2026-10-31,0.0331,Low,2028.36,67.18,0.5,1,15.0,Contract renews in 1 month,Customer for 4 months,15 active lines,7.0 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00433,2026-10-31,0.0071,Low,9294.24,66.18,0.4,24,62.0,1 port-out requests in last 3 months,Data usage down 10% vs previous quarter,Industry: Logistics,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T01379,2026-10-31,0.0364,Low,1814.52,66.0,0.4,1,11.0,Contract renews in 1 month,11 active lines,Voice usage down 17% vs previous quarter,Customer for 78 months,lgbm-telecom-v1,2026-11-27 15:46
+T00777,2026-10-31,0.0078,Low,8428.32,65.76,0.5,9,61.0,61 active lines,Region: Farwaniya,Data usage down 5% vs previous quarter,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01319,2026-10-31,0.0045,Low,14473.68,65.66,0.4,8,84.0,Customer for 4 months,84 active lines,Tickets take 5 days to resolve,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00172,2026-10-31,0.0005,Low,129781.32,64.6,0.5,10,976.0,Industry: Hospitality,"Monthly recurring revenue: KWD 10,815",38 lines disconnected in last 3 months,976 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01276,2026-10-31,0.0393,Low,1642.44,64.55,0.5,1,12.0,Contract renews in 1 month,Voice usage down 21% vs previous quarter,12 active lines,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00112,2026-10-31,0.0014,Low,46718.28,64.31,0.5,4,370.0,15 lines disconnected in last 3 months,On a 24 months contract,Tickets take 2 days to resolve,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00315,2026-10-31,0.0006,Low,104675.28,64.19,0.5,15,757.0,32 lines disconnected in last 3 months,Data usage down 0% vs previous quarter,1 billing disputes in last 3 months,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00467,2026-10-31,0.0236,Low,2703.0,63.76,0.4,1,15.0,Contract renews in 1 month,15 active lines,Customer for 7 months,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00722,2026-10-31,0.0015,Low,43561.44,63.74,0.5,4,334.0,1 port-out requests in last 3 months,Subscribes to 2 products,Customer for 20 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00223,2026-10-31,0.0013,Low,48438.96,63.61,0.6,9,428.0,1 port-out requests in last 3 months,0 support tickets in last 3 months,21 lines disconnected in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00647,2026-10-31,0.0033,Low,19024.56,62.77,0.4,24,111.0,1 port-out requests in last 3 months,16.1 GB data per line per month,Lines down 3% in last 3 months,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00102,2026-10-31,0.0264,Low,2368.8,62.51,0.5,1,18.0,Contract renews in 1 month,Industry: Logistics,18 active lines,Customer for 105 months,lgbm-telecom-v1,2026-11-27 15:46
+T00562,2026-10-31,0.0054,Low,11627.04,62.42,0.6,8,115.0,Customer for 4 months,Industry: Retail,Subscribes to 2 products,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00080,2026-10-31,0.0102,Low,6082.08,62.29,0.4,1,37.0,Contract renews in 1 month,Lines down 5% in last 3 months,Pays 6 days late on average,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00024,2026-10-31,0.009,Low,6893.88,62.22,0.3,12,33.0,Region: Farwaniya,Lines down 8% in last 3 months,6 lines disconnected in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00993,2026-10-31,0.0486,Low,1279.2,62.15,0.4,1,9.0,Contract renews in 1 month,Customer for 7 months,9 active lines,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T01392,2026-10-31,0.0005,Low,113841.12,61.15,0.5,8,969.0,45 lines disconnected in last 3 months,16.4 GB data per line per month,"Monthly recurring revenue: KWD 9,487",969 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00882,2026-10-31,0.002,Low,30233.04,61.01,0.5,7,262.0,Customer for 89 months,22.6 GB data per line per month,"Overdue amount: KWD 2,511",Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00407,2026-10-31,0.0008,Low,75575.64,61.0,0.6,14,711.0,32 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 6,298",Tickets take 3 days to resolve,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T01433,2026-10-31,0.0035,Low,17388.84,60.57,0.4,11,109.0,Customer for 13 months,Industry: Logistics,"Overdue amount: KWD 1,484",Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00283,2026-10-31,0.0015,Low,39788.16,60.25,0.6,5,380.0,Customer for 7 months,20 lines disconnected in last 3 months,"Overdue amount: KWD 3,300",Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00158,2026-10-31,0.0008,Low,74979.12,60.11,0.5,4,637.0,Pays 14 days late on average,26.2 GB data per line per month,On a 12 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00443,2026-10-31,0.004,Low,15119.88,60.02,0.4,15,91.0,91 active lines,Customer for 9 months,Subscribes to 2 products,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00230,2026-10-31,0.0008,Low,72971.28,59.4,0.5,20,619.0,24.4 GB data per line per month,Tickets take 4 days to resolve,Industry: Logistics,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00033,2026-10-31,0.0012,Low,50260.2,59.27,0.5,5,398.0,Customer for 7 months,Pays 7 days late on average,21 lines disconnected in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00310,2026-10-31,0.0459,Low,1282.32,58.85,0.6,5,12.0,Lines down 29% in last 3 months,Data usage down 20% vs previous quarter,Voice usage down 26% vs previous quarter,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00206,2026-10-31,0.0009,Low,64293.24,58.63,0.6,12,624.0,Industry: Logistics,Customer for 12 months,21 lines disconnected in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00501,2026-10-31,0.0039,Low,14997.6,58.58,0.4,4,93.0,93 active lines,Industry: Logistics,Tickets take 3 days to resolve,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00912,2026-10-31,0.0357,Low,1634.28,58.41,0.5,1,14.0,Contract renews in 1 month,Customer for 9 months,14 active lines,6.8 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T01068,2026-10-31,0.003,Low,19629.6,58.2,0.4,1,133.0,Contract renews in 1 month,22.0 GB data per line per month,Industry: Banking & Finance,133 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00903,2026-10-31,0.0211,Low,2762.88,58.19,0.4,1,20.0,Contract renews in 1 month,24.7 GB data per line per month,20 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00582,2026-10-31,0.0063,Low,9255.96,58.05,0.5,24,82.0,1 port-out requests in last 3 months,82 active lines,23.5 GB data per line per month,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T01074,2026-10-31,0.0016,Low,35833.92,58.02,0.3,1,203.0,Contract renews in 1 month,1 support tickets in last 3 months,5 lines disconnected in last 3 months,203 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00727,2026-10-31,0.0007,Low,82135.92,57.9,0.7,12,1052.0,36 lines disconnected in last 3 months,Region: Jahra,Industry: Hospitality,"1,052 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T00236,2026-10-31,0.0047,Low,12365.64,57.74,0.3,8,61.0,28.5 GB data per line per month,61 active lines,Industry: Construction,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01057,2026-10-31,0.0009,Low,62092.68,57.61,0.5,9,570.0,Tickets take 4 days to resolve,Pays 11 days late on average,22 lines disconnected in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00677,2026-10-31,0.0035,Low,16225.44,57.34,0.3,10,91.0,91 active lines,31.5 GB data per line per month,Region: Farwaniya,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01381,2026-10-31,0.0133,Low,4280.52,57.06,0.3,1,22.0,Contract renews in 1 month,22 active lines,0 support tickets in last 3 months,Customer for 84 months,lgbm-telecom-v1,2026-11-27 15:46
+T01346,2026-10-31,0.0077,Low,7363.68,56.54,0.3,1,37.0,Contract renews in 1 month,37 active lines,0 support tickets in last 3 months,8.4 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T01022,2026-10-31,0.0012,Low,46976.04,56.54,0.6,11,479.0,21.6 GB data per line per month,26 lines disconnected in last 3 months,Segment: Enterprise,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00355,2026-10-31,0.0023,Low,24933.0,56.49,0.3,15,133.0,1 port-out requests in last 3 months,"Overdue amount: KWD 2,106",Customer for 9 months,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00790,2026-10-31,0.0015,Low,38366.16,56.48,0.5,11,334.0,34.3 GB data per line per month,20 lines disconnected in last 3 months,1 support tickets in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01056,2026-10-31,0.0004,Low,129861.6,56.41,0.4,11,925.0,42 lines disconnected in last 3 months,21.4 GB data per line per month,On a 12 months contract,925 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01167,2026-10-31,0.0006,Low,102311.76,56.37,0.6,11,1067.0,46 lines disconnected in last 3 months,21.2 GB data per line per month,On a 12 months contract,"1,067 active lines",lgbm-telecom-v1,2026-11-27 15:46
+T01009,2026-10-31,0.0011,Low,49454.16,56.36,0.5,24,449.0,Tickets take 5 days to resolve,Region: Farwaniya,26 lines disconnected in last 3 months,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00426,2026-10-31,0.0598,Low,938.88,56.12,0.6,1,10.0,Contract renews in 1 month,10 active lines,Industry: Hospitality,Data usage up 5% vs previous quarter,lgbm-telecom-v1,2026-11-27 15:46
+T00545,2026-10-31,0.0007,Low,83520.72,55.85,0.5,16,725.0,29 lines disconnected in last 3 months,1 unresolved support tickets,"Monthly recurring revenue: KWD 6,960",Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T01456,2026-10-31,0.0036,Low,15702.72,55.83,0.4,18,120.0,38.8 GB data per line per month,Pays 15 days late on average,Customer for 54 months,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00086,2026-10-31,0.0036,Low,15479.88,55.27,0.4,8,108.0,Lines down 4% in last 3 months,"Overdue amount: KWD 1,312",Industry: Retail,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00176,2026-10-31,0.0047,Low,11675.16,54.96,0.3,16,73.0,Customer for 8 months,73 active lines,Region: Farwaniya,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00961,2026-10-31,0.0041,Low,13445.16,54.74,0.3,9,79.0,79 active lines,Industry: Logistics,On a 24 months contract,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00923,2026-10-31,0.0088,Low,6186.24,54.69,0.5,14,56.0,Customer for 10 months,Industry: Logistics,Region: Jahra,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00650,2026-10-31,0.0013,Low,42789.24,54.49,0.4,14,347.0,Customer for 10 months,Industry: Hospitality,"Overdue amount: KWD 3,548",Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T01287,2026-10-31,0.018,Low,2997.72,53.99,0.4,1,21.0,Contract renews in 1 month,Voice usage down 17% vs previous quarter,21 active lines,Customer for 84 months,lgbm-telecom-v1,2026-11-27 15:46
+T00132,2026-10-31,0.0007,Low,75952.8,53.85,0.4,17,600.0,Industry: Logistics,26 lines disconnected in last 3 months,"Monthly recurring revenue: KWD 6,329",Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00191,2026-10-31,0.0166,Low,3206.16,53.21,0.3,1,17.0,Contract renews in 1 month,17 active lines,Overdue amount: KWD 253,7.1 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00390,2026-10-31,0.0075,Low,7107.72,53.1,0.2,9,33.0,1 port-out requests in last 3 months,Region: Jahra,33 active lines,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00349,2026-10-31,0.0643,Low,822.48,52.91,0.2,1,3.0,Contract renews in 1 month,Lines down 25% in last 3 months,Voice usage down 22% vs previous quarter,7.7 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00408,2026-10-31,0.0022,Low,24310.32,52.81,0.4,9,183.0,1 port-out requests in last 3 months,Customer for 99 months,"Overdue amount: KWD 1,972",Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01076,2026-10-31,0.0017,Low,30604.08,52.63,0.4,9,222.0,1 port-out requests in last 3 months,Voice usage down 19% vs previous quarter,22.5 GB data per line per month,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00372,2026-10-31,0.0013,Low,41608.8,52.35,0.4,15,320.0,Customer for 9 months,Industry: Hospitality,18 lines disconnected in last 3 months,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00506,2026-10-31,0.0006,Low,82513.2,52.34,0.4,7,672.0,On a 12 months contract,"Monthly recurring revenue: KWD 6,876",22 lines disconnected in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00391,2026-10-31,0.0007,Low,69603.84,52.07,0.5,21,612.0,"Monthly recurring revenue: KWD 5,800",Data usage down 3% vs previous quarter,26 lines disconnected in last 3 months,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00146,2026-10-31,0.0008,Low,66889.44,51.81,0.5,4,596.0,2 billing disputes in last 3 months,32 lines disconnected in last 3 months,Pays 8 days late on average,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01212,2026-10-31,0.0103,Low,5008.8,51.79,0.4,1,38.0,Contract renews in 1 month,18.1 GB data per line per month,38 active lines,Customer for 72 months,lgbm-telecom-v1,2026-11-27 15:46
+T00303,2026-10-31,0.0125,Low,4105.08,51.48,0.2,1,17.0,Contract renews in 1 month,17 active lines,Monthly recurring revenue: KWD 342,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00483,2026-10-31,0.0009,Low,56188.68,51.4,0.3,20,352.0,24.9 GB data per line per month,18 lines disconnected in last 3 months,1 network/data-speed complaints in last 3 months,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00688,2026-10-31,0.0117,Low,4328.88,50.86,0.4,1,33.0,Contract renews in 1 month,17.4 GB data per line per month,33 active lines,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T01029,2026-10-31,0.0046,Low,10966.44,50.65,0.4,17,76.0,1 port-out requests in last 3 months,76 active lines,Data usage down 5% vs previous quarter,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00139,2026-10-31,0.0006,Low,83842.56,50.39,0.4,11,627.0,28.3 GB data per line per month,Customer for 13 months,29 lines disconnected in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00702,2026-10-31,0.0035,Low,14432.4,50.31,0.3,12,99.0,Data usage down 11% vs previous quarter,22.0 GB data per line per month,99 active lines,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00905,2026-10-31,0.019,Low,2640.84,50.19,0.5,1,24.0,Contract renews in 1 month,24 active lines,17.0 GB data per line per month,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00123,2026-10-31,0.0258,Low,1943.28,50.14,0.4,1,14.0,Contract renews in 1 month,14 active lines,Industry: Retail,9.3 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00613,2026-10-31,0.0078,Low,6383.76,50.02,0.3,14,35.0,1 port-out requests in last 3 months,Lines down 8% in last 3 months,Industry: Banking & Finance,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00676,2026-10-31,0.0197,Low,2539.32,49.98,0.2,1,12.0,Contract renews in 1 month,12 active lines,Overdue amount: KWD 212,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T01288,2026-10-31,0.0664,Low,747.24,49.62,0.5,3,7.0,Contract renews in 3 months,Lines down 12% in last 3 months,7 active lines,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01313,2026-10-31,0.0013,Low,37288.56,49.55,0.4,11,318.0,2 billing disputes in last 3 months,"Overdue amount: KWD 3,081",On a 12 months contract,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01225,2026-10-31,0.0015,Low,31947.84,49.15,0.4,10,257.0,28.7 GB data per line per month,Tickets take 4 days to resolve,Data usage down 1% vs previous quarter,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00044,2026-10-31,0.004,Low,12316.56,49.14,0.2,6,62.0,62 active lines,Customer for 6 months,Pays 9 days late on average,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01485,2026-10-31,0.0006,Low,76315.2,48.91,0.3,6,543.0,"Monthly recurring revenue: KWD 6,360",22 lines disconnected in last 3 months,16.9 GB data per line per month,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00318,2026-10-31,0.0031,Low,15476.16,48.71,0.3,14,105.0,Tickets take 5 days to resolve,On a 24 months contract,21.1 GB data per line per month,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00657,2026-10-31,0.0053,Low,8947.08,47.8,0.4,7,70.0,27.8 GB data per line per month,1 port-out requests in last 3 months,70 active lines,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00001,2026-10-31,0.0116,Low,4113.72,47.64,0.3,11,29.0,Data usage down 11% vs previous quarter,Lines down 9% in last 3 months,29 active lines,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00669,2026-10-31,0.0046,Low,10300.2,47.52,0.3,11,66.0,Industry: Logistics,66 active lines,Customer for 13 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00808,2026-10-31,0.002,Low,23548.92,47.45,0.3,10,160.0,Data usage down 9% vs previous quarter,Tickets take 6 days to resolve,Industry: Education,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01065,2026-10-31,0.0008,Low,57040.2,47.06,0.4,10,478.0,Region: Jahra,32 lines disconnected in last 3 months,Industry: Education,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01014,2026-10-31,0.0012,Low,38033.64,47.05,0.4,9,348.0,Customer for 15 months,On a 12 months contract,Data usage down 0% vs previous quarter,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01294,2026-10-31,0.0034,Low,13681.56,46.9,0.4,1,116.0,Contract renews in 1 month,Industry: Banking & Finance,1 support tickets in last 3 months,116 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01048,2026-10-31,0.0246,Low,1903.92,46.84,0.3,1,14.0,Contract renews in 1 month,14 active lines,Industry: Banking & Finance,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00786,2026-10-31,0.0083,Low,5630.04,46.82,0.3,18,41.0,26.9 GB data per line per month,Customer for 54 months,41 active lines,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00778,2026-10-31,0.0016,Low,28276.08,46.45,0.3,15,173.0,Customer for 9 months,"Overdue amount: KWD 2,320",0 support tickets in last 3 months,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T01021,2026-10-31,0.0254,Low,1829.16,46.41,0.2,9,7.0,Data usage down 15% vs previous quarter,7 active lines,Region: Farwaniya,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01423,2026-10-31,0.0037,Low,12538.8,46.34,0.4,13,101.0,101 active lines,Customer for 11 months,Region: Farwaniya,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00053,2026-10-31,0.0025,Low,18544.08,46.33,0.3,22,130.0,16.6 GB data per line per month,Lines down 2% in last 3 months,Industry: Retail,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01361,2026-10-31,0.0018,Low,25826.16,46.02,0.2,4,137.0,Data usage down 8% vs previous quarter,Region: Jahra,On a 24 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00371,2026-10-31,0.0019,Low,23809.92,46.01,0.5,18,267.0,29.9 GB data per line per month,Data usage down 6% vs previous quarter,Tickets take 4 days to resolve,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T01338,2026-10-31,0.0021,Low,21780.12,46.0,0.4,11,177.0,10.0 GB data per line per month,Customer for 13 months,Tickets take 3 days to resolve,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00088,2026-10-31,0.0511,Low,892.8,45.66,0.4,1,7.0,Contract renews in 1 month,7 active lines,30.2 GB data per line per month,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T01001,2026-10-31,0.0039,Low,11786.28,45.53,0.3,20,75.0,75 active lines,Region: Farwaniya,Overdue amount: KWD 994,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T01380,2026-10-31,0.0086,Low,5241.96,45.07,0.3,5,35.0,Customer for 7 months,Region: Farwaniya,35 active lines,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00412,2026-10-31,0.014,Low,3208.92,44.78,0.3,1,23.0,Contract renews in 1 month,Data usage down 11% vs previous quarter,Industry: Retail,Customer for 102 months,lgbm-telecom-v1,2026-11-27 15:46
+T00079,2026-10-31,0.0324,Low,1380.84,44.72,0.2,1,6.0,Contract renews in 1 month,Voice usage down 20% vs previous quarter,6 active lines,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00027,2026-10-31,0.0007,Low,65822.04,44.47,0.4,11,525.0,34.5 GB data per line per month,Pays 11 days late on average,Tickets take 3 days to resolve,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00558,2026-10-31,0.0028,Low,15975.6,44.38,0.3,24,118.0,1 port-out requests in last 3 months,23.8 GB data per line per month,Pays 9 days late on average,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T01390,2026-10-31,0.0009,Low,51669.36,44.37,0.3,7,377.0,9.6 GB data per line per month,Industry: Logistics,1 unresolved support tickets,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01179,2026-10-31,0.0025,Low,17495.64,43.79,0.3,12,136.0,1 port-out requests in last 3 months,Data usage down 2% vs previous quarter,"Overdue amount: KWD 1,427",Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00209,2026-10-31,0.0072,Low,6052.8,43.48,0.3,11,48.0,1 port-out requests in last 3 months,Customer for 13 months,Industry: Logistics,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00772,2026-10-31,0.0004,Low,104812.56,43.31,0.4,24,976.0,Region: Farwaniya,46 lines disconnected in last 3 months,Tickets take 3 days to resolve,976 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T01152,2026-10-31,0.0009,Low,48531.84,43.06,0.4,16,417.0,2 billing disputes in last 3 months,Industry: Hospitality,18 lines disconnected in last 3 months,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00513,2026-10-31,0.0037,Low,11711.16,42.86,0.3,13,91.0,91 active lines,Industry: Hospitality,Customer for 11 months,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00381,2026-10-31,0.014,Low,3066.6,42.78,0.3,1,24.0,Contract renews in 1 month,Industry: Logistics,24 active lines,Customer for 99 months,lgbm-telecom-v1,2026-11-27 15:46
+T00388,2026-10-31,0.0022,Low,19788.6,42.71,0.4,20,184.0,25.2 GB data per line per month,Region: Jahra,Customer for 52 months,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00906,2026-10-31,0.0015,Low,27514.56,42.3,0.3,4,177.0,Lines down 4% in last 3 months,"Overdue amount: KWD 2,293",Region: Jahra,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00008,2026-10-31,0.0007,Low,62002.56,41.15,0.3,5,419.0,31.3 GB data per line per month,On a 12 months contract,19 lines disconnected in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00060,2026-10-31,0.0018,Low,22498.8,40.99,0.3,9,186.0,Data usage down 6% vs previous quarter,23.5 GB data per line per month,On a 24 months contract,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00853,2026-10-31,0.016,Low,2520.96,40.42,0.4,1,28.0,Contract renews in 1 month,28 active lines,Lines down 7% in last 3 months,Industry: Education,lgbm-telecom-v1,2026-11-27 15:46
+T01183,2026-10-31,0.0013,Low,32218.8,40.31,0.3,14,245.0,Industry: Hospitality,On a 24 months contract,8 lines disconnected in last 3 months,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00400,2026-10-31,0.0007,Low,57477.0,40.11,0.3,14,466.0,Pays 8 days late on average,16 lines disconnected in last 3 months,Industry: Hospitality,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00194,2026-10-31,0.0035,Low,11389.32,40.08,0.3,8,91.0,91 active lines,Customer for 4 months,On a 12 months contract,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00361,2026-10-31,0.0024,Low,16498.2,39.99,0.3,4,130.0,Customer for 8 months,11.9 GB data per line per month,0 support tickets in last 3 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01089,2026-10-31,0.0011,Low,34776.72,39.94,0.3,22,275.0,"Overdue amount: KWD 2,888",14 lines disconnected in last 3 months,Industry: Education,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00464,2026-10-31,0.0128,Low,3118.32,39.91,0.3,1,20.0,Contract renews in 1 month,Pays 9 days late on average,20 active lines,Customer for 94 months,lgbm-telecom-v1,2026-11-27 15:46
+T00014,2026-10-31,0.009,Low,4381.8,39.56,0.3,12,34.0,16.2 GB data per line per month,Customer for 12 months,Industry: Hospitality,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00530,2026-10-31,0.0007,Low,58518.6,39.49,0.4,4,625.0,1 support tickets in last 3 months,24 lines disconnected in last 3 months,On a 12 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01036,2026-10-31,0.0036,Low,11102.28,39.44,0.3,22,88.0,88 active lines,Data usage down 4% vs previous quarter,Overdue amount: KWD 945,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01386,2026-10-31,0.0036,Low,10869.0,39.08,0.2,7,52.0,52 active lines,Region: Jahra,Industry: Banking & Finance,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00074,2026-10-31,0.0038,Low,10181.76,39.06,0.3,10,66.0,66 active lines,Industry: Logistics,Data usage down 8% vs previous quarter,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00684,2026-10-31,0.0265,Low,1473.12,39.04,0.3,1,10.0,Contract renews in 1 month,10 active lines,Industry: Hospitality,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00441,2026-10-31,0.0007,Low,55571.88,39.02,0.4,22,510.0,33 lines disconnected in last 3 months,Data usage down 3% vs previous quarter,3 SLA breaches in last 3 months,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01251,2026-10-31,0.0011,Low,34270.32,38.99,0.4,10,338.0,Data usage down 9% vs previous quarter,"Overdue amount: KWD 2,809",16.1 GB data per line per month,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01318,2026-10-31,0.0389,Low,999.96,38.87,0.2,2,5.0,Contract renews in 2 months,5 active lines,Region: Jahra,9.0 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00878,2026-10-31,0.0007,Low,56165.76,38.83,0.4,12,556.0,Industry: Hospitality,21 lines disconnected in last 3 months,Tickets take 4 days to resolve,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00140,2026-10-31,0.0015,Low,25453.32,38.66,0.2,5,156.0,"Overdue amount: KWD 2,134",34.5 GB data per line per month,On a 24 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01326,2026-10-31,0.0005,Low,80759.88,38.46,0.6,4,1164.0,47 lines disconnected in last 3 months,On a 12 months contract,21.6 GB data per line per month,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01297,2026-10-31,0.0333,Low,1152.48,38.35,0.2,1,6.0,Contract renews in 1 month,6 active lines,17.0 GB data per line per month,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00711,2026-10-31,0.0144,Low,2652.24,38.25,0.3,1,22.0,Contract renews in 1 month,22 active lines,Overdue amount: KWD 221,Industry: Education,lgbm-telecom-v1,2026-11-27 15:46
+T00357,2026-10-31,0.0034,Low,11120.4,38.08,0.3,11,100.0,39.7 GB data per line per month,Overdue amount: KWD 927,Customer for 97 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00826,2026-10-31,0.0404,Low,938.88,37.95,0.2,1,4.0,Contract renews in 1 month,Voice usage down 23% vs previous quarter,Lines down 20% in last 3 months,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00874,2026-10-31,0.0096,Low,3965.52,37.91,0.2,1,23.0,Contract renews in 1 month,1 port-out requests in last 3 months,23 active lines,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T01187,2026-10-31,0.0036,Low,10465.56,37.23,0.3,22,84.0,1 port-out requests in last 3 months,84 active lines,25.6 GB data per line per month,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00067,2026-10-31,0.0035,Low,10514.04,37.19,0.3,16,94.0,22.7 GB data per line per month,94 active lines,6 lines disconnected in last 3 months,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00212,2026-10-31,0.0008,Low,43653.48,37.1,0.3,9,382.0,Data usage down 7% vs previous quarter,18 lines disconnected in last 3 months,On a 12 months contract,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00509,2026-10-31,0.0033,Low,11154.48,37.09,0.3,21,85.0,85 active lines,Tickets take 5 days to resolve,Data usage down 2% vs previous quarter,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00406,2026-10-31,0.0013,Low,27915.6,36.86,0.3,23,256.0,1 port-out requests in last 3 months,Region: Farwaniya,Pays 9 days late on average,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T00369,2026-10-31,0.001,Low,35115.36,36.72,0.3,12,292.0,22.7 GB data per line per month,"Overdue amount: KWD 2,862",On a 24 months contract,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00127,2026-10-31,0.0028,Low,13177.44,36.67,0.4,14,133.0,Customer for 10 months,16.4 GB data per line per month,Industry: Banking & Finance,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00019,2026-10-31,0.0069,Low,5251.8,36.4,0.2,19,31.0,31 active lines,Data usage down 8% vs previous quarter,Region: Jahra,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01267,2026-10-31,0.0007,Low,52867.2,36.28,0.4,15,566.0,31 lines disconnected in last 3 months,Data usage down 4% vs previous quarter,Industry: Logistics,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00277,2026-10-31,0.0105,Low,3459.6,36.28,0.3,8,28.0,1 port-out requests in last 3 months,28 active lines,Data usage down 5% vs previous quarter,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01281,2026-10-31,0.004,Low,9063.12,36.22,0.3,14,80.0,80 active lines,Data usage down 9% vs previous quarter,Industry: Banking & Finance,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T01185,2026-10-31,0.0009,Low,37861.68,35.65,0.3,19,310.0,Lines down 3% in last 3 months,25 lines disconnected in last 3 months,Data usage down 4% vs previous quarter,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00280,2026-10-31,0.0144,Low,2457.72,35.44,0.2,1,11.0,Contract renews in 1 month,Customer for 7 months,11 active lines,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00814,2026-10-31,0.0026,Low,13795.8,35.22,0.2,13,69.0,27.6 GB data per line per month,69 active lines,Data usage down 1% vs previous quarter,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00857,2026-10-31,0.0023,Low,15097.08,35.2,0.3,9,135.0,23.2 GB data per line per month,Data usage down 4% vs previous quarter,On a 24 months contract,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00367,2026-10-31,0.0033,Low,10662.36,35.02,0.1,7,42.0,Customer for 5 months,Industry: Retail,42 active lines,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01220,2026-10-31,0.0016,Low,22102.2,34.95,0.3,14,218.0,Tickets take 11 days to resolve,Region: Jahra,On a 24 months contract,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00640,2026-10-31,0.0027,Low,12773.52,34.95,0.2,5,76.0,76 active lines,Lines down 6% in last 3 months,"Overdue amount: KWD 1,101",Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00794,2026-10-31,0.0012,Low,28164.84,34.49,0.2,5,187.0,12 lines disconnected in last 3 months,Industry: Hospitality,22.3 GB data per line per month,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00845,2026-10-31,0.0014,Low,24348.48,34.44,0.3,10,185.0,21.7 GB data per line per month,Region: Jahra,"Overdue amount: KWD 2,049",Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01150,2026-10-31,0.0181,Low,1905.12,34.44,0.2,1,9.0,Contract renews in 1 month,9 active lines,1 port-out requests in last 3 months,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T01450,2026-10-31,0.001,Low,34466.64,34.03,0.2,14,253.0,Region: Farwaniya,"Overdue amount: KWD 2,851",On a 24 months contract,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00590,2026-10-31,0.023,Low,1475.28,34.0,0.3,18,13.0,13 active lines,Customer for 6 months,Data usage down 8% vs previous quarter,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00930,2026-10-31,0.0021,Low,15678.12,33.63,0.2,9,110.0,Industry: Retail,Subscribes to 2 products,0 support tickets in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01419,2026-10-31,0.0009,Low,35376.84,33.6,0.4,6,408.0,Industry: Logistics,2 network/data-speed complaints in last 3 months,On a 12 months contract,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00765,2026-10-31,0.0003,Low,104298.96,33.56,0.3,23,974.0,47 lines disconnected in last 3 months,1 billing disputes in last 3 months,Pays 6 days late on average,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T00553,2026-10-31,0.0223,Low,1500.84,33.41,0.2,1,9.0,Contract renews in 1 month,9 active lines,Industry: Banking & Finance,7.8 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T00555,2026-10-31,0.0009,Low,36214.32,33.31,0.2,11,206.0,Industry: Hospitality,Tickets take 6 days to resolve,On a 12 months contract,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01388,2026-10-31,0.0011,Low,30168.12,33.23,0.3,5,258.0,1 port-out requests in last 3 months,Data usage down 2% vs previous quarter,14 lines disconnected in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00071,2026-10-31,0.0127,Low,2594.88,32.94,0.2,15,18.0,18 active lines,24.0 GB data per line per month,Data usage down 5% vs previous quarter,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T01375,2026-10-31,0.0015,Low,22512.6,32.9,0.2,9,167.0,Tickets take 4 days to resolve,"Overdue amount: KWD 1,823",Data usage down 5% vs previous quarter,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00011,2026-10-31,0.0121,Low,2716.56,32.88,0.3,12,21.0,Lines down 9% in last 3 months,21 active lines,Data usage down 9% vs previous quarter,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00830,2026-10-31,0.002,Low,15964.56,32.65,0.2,8,105.0,Region: Farwaniya,"Overdue amount: KWD 1,297",Industry: Retail,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00504,2026-10-31,0.0209,Low,1561.44,32.63,0.2,1,11.0,Contract renews in 1 month,11 active lines,Tickets take 6 days to resolve,Customer for 77 months,lgbm-telecom-v1,2026-11-27 15:46
+T01059,2026-10-31,0.0028,Low,11429.4,32.24,0.3,15,100.0,100 active lines,Customer for 9 months,Monthly recurring revenue: KWD 952,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00128,2026-10-31,0.0023,Low,13708.2,31.76,0.2,8,85.0,85 active lines,"Overdue amount: KWD 1,131",Industry: Logistics,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00351,2026-10-31,0.0014,Low,22864.68,31.67,0.2,9,173.0,On a 24 months contract,Data usage down 1% vs previous quarter,"Overdue amount: KWD 1,905",Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00536,2026-10-31,0.0201,Low,1578.0,31.66,0.4,9,18.0,1 port-out requests in last 3 months,Data usage down 16% vs previous quarter,Lines down 10% in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00009,2026-10-31,0.0162,Low,1927.56,31.17,0.2,1,13.0,Contract renews in 1 month,13 active lines,23.2 GB data per line per month,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T01229,2026-10-31,0.0019,Low,16073.64,31.01,0.2,7,121.0,21.4 GB data per line per month,Lines down 4% in last 3 months,Customer for 101 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01354,2026-10-31,0.0008,Low,38467.68,30.3,0.3,11,346.0,"Overdue amount: KWD 3,146",Segment: Enterprise,1 support tickets in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01230,2026-10-31,0.0074,Low,4081.32,30.29,0.2,10,23.0,22.0 GB data per line per month,23 active lines,Data usage down 4% vs previous quarter,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00177,2026-10-31,0.0046,Low,6510.6,30.05,0.2,20,47.0,Data usage down 2% vs previous quarter,Tickets take 4 days to resolve,Lines down 4% in last 3 months,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00969,2026-10-31,0.0138,Low,2170.32,29.9,0.2,1,16.0,Contract renews in 1 month,16 active lines,Industry: Logistics,Customer for 78 months,lgbm-telecom-v1,2026-11-27 15:46
+T00421,2026-10-31,0.0011,Low,26300.04,29.6,0.2,13,197.0,Data usage down 1% vs previous quarter,Region: Farwaniya,On a 24 months contract,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00922,2026-10-31,0.0021,Low,14288.4,29.35,0.2,10,107.0,Customer for 14 months,Region: Farwaniya,"Overdue amount: KWD 1,171",Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00422,2026-10-31,0.0011,Low,26496.84,29.01,0.2,7,183.0,"Overdue amount: KWD 2,175",28.4 GB data per line per month,Data usage down 3% vs previous quarter,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00499,2026-10-31,0.0148,Low,1959.12,28.92,0.1,1,10.0,Contract renews in 1 month,10 active lines,Customer for 8 months,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00939,2026-10-31,0.0014,Low,20912.76,28.87,0.2,12,176.0,1 port-out requests in last 3 months,Pays 7 days late on average,"Overdue amount: KWD 1,734",Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00012,2026-10-31,0.0084,Low,3418.56,28.71,0.1,18,17.0,17 active lines,1 port-out requests in last 3 months,Monthly recurring revenue: KWD 285,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00661,2026-10-31,0.0009,Low,32585.28,28.0,0.2,19,194.0,29.6 GB data per line per month,On a 24 months contract,"Overdue amount: KWD 2,649",Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00082,2026-10-31,0.0093,Low,2980.32,27.75,0.4,1,40.0,Contract renews in 1 month,Industry: Retail,1 support tickets in last 3 months,Customer for 92 months,lgbm-telecom-v1,2026-11-27 15:46
+T01039,2026-10-31,0.0191,Low,1453.56,27.74,0.2,1,8.0,Contract renews in 1 month,8 active lines,34.5 GB data per line per month,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T00707,2026-10-31,0.001,Low,29079.0,27.72,0.2,22,174.0,22.9 GB data per line per month,Industry: Banking & Finance,11 lines disconnected in last 3 months,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00612,2026-10-31,0.0008,Low,32662.56,27.59,0.2,21,208.0,Customer for 99 months,Tickets take 5 days to resolve,1 support tickets in last 3 months,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00438,2026-10-31,0.0027,Low,10227.24,27.56,0.1,9,52.0,Customer for 15 months,52 active lines,Industry: Hospitality,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00100,2026-10-31,0.0069,Low,3977.16,27.46,0.3,11,42.0,1 port-out requests in last 3 months,10.0 GB data per line per month,Customer for 13 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00306,2026-10-31,0.0019,Low,14172.72,27.32,0.2,11,129.0,Customer for 13 months,Industry: Logistics,On a 24 months contract,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00531,2026-10-31,0.0016,Low,17399.52,27.29,0.1,11,91.0,1 port-out requests in last 3 months,91 active lines,On a 12 months contract,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00030,2026-10-31,0.0028,Low,9756.6,27.1,0.2,21,65.0,Tickets take 6 days to resolve,65 active lines,Region: Farwaniya,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00735,2026-10-31,0.0018,Low,14794.68,26.97,0.2,6,83.0,83 active lines,On a 12 months contract,Tickets take 4 days to resolve,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00884,2026-10-31,0.0014,Low,19688.52,26.89,0.2,9,128.0,Lines down 4% in last 3 months,13 lines disconnected in last 3 months,On a 24 months contract,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00720,2026-10-31,0.0171,Low,1565.88,26.84,0.2,19,14.0,14 active lines,Monthly recurring revenue: KWD 130,Customer for 5 months,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01055,2026-10-31,0.0007,Low,36634.2,26.7,0.1,12,198.0,29.9 GB data per line per month,On a 12 months contract,"Overdue amount: KWD 3,053",Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01158,2026-10-31,0.0112,Low,2383.56,26.59,0.1,1,10.0,Contract renews in 1 month,10 active lines,25.5 GB data per line per month,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00541,2026-10-31,0.0012,Low,22846.08,26.5,0.2,5,165.0,27.5 GB data per line per month,On a 24 months contract,Industry: Construction,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00785,2026-10-31,0.0012,Low,22596.48,26.46,0.2,11,168.0,Lines down 2% in last 3 months,On a 12 months contract,28.8 GB data per line per month,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00758,2026-10-31,0.0013,Low,19853.88,26.41,0.2,17,130.0,Customer for 103 months,Tickets take 3 days to resolve,Industry: Hospitality,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00840,2026-10-31,0.0009,Low,27984.84,26.35,0.2,4,193.0,Industry: Hospitality,0 support tickets in last 3 months,On a 12 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00776,2026-10-31,0.0051,Low,5162.16,26.31,0.2,22,31.0,26.2 GB data per line per month,31 active lines,Data usage down 0% vs previous quarter,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01328,2026-10-31,0.0018,Low,14794.08,26.19,0.2,11,89.0,89 active lines,21.5 GB data per line per month,6 lines disconnected in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00167,2026-10-31,0.0178,Low,1463.4,26.02,0.1,1,6.0,Contract renews in 1 month,6 active lines,18.2 GB data per line per month,Industry: Healthcare,lgbm-telecom-v1,2026-11-27 15:46
+T01177,2026-10-31,0.0054,Low,4785.0,25.74,0.2,11,32.0,1 port-out requests in last 3 months,Pays 16 days late on average,32 active lines,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01299,2026-10-31,0.0085,Low,3019.68,25.72,0.2,8,21.0,Customer for 4 months,21 active lines,16.2 GB data per line per month,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01262,2026-10-31,0.001,Low,24687.48,25.25,0.2,14,165.0,Region: Farwaniya,"Overdue amount: KWD 2,021",1 unresolved support tickets,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00182,2026-10-31,0.0006,Low,39751.56,24.98,0.2,21,362.0,Industry: Hospitality,16.4 GB data per line per month,16 lines disconnected in last 3 months,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00154,2026-10-31,0.0008,Low,32394.36,24.97,0.2,7,256.0,Data usage down 8% vs previous quarter,12 lines disconnected in last 3 months,On a 24 months contract,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00520,2026-10-31,0.0075,Low,3293.28,24.85,0.2,17,25.0,Customer for 7 months,25 active lines,Industry: Banking & Finance,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00437,2026-10-31,0.0022,Low,11524.2,24.79,0.2,11,74.0,74 active lines,Data usage down 4% vs previous quarter,Overdue amount: KWD 960,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01399,2026-10-31,0.0061,Low,4042.8,24.71,0.1,1,20.0,Contract renews in 1 month,20 active lines,Overdue amount: KWD 337,Industry: Oil & Gas,lgbm-telecom-v1,2026-11-27 15:46
+T00282,2026-10-31,0.0011,Low,23012.16,24.69,0.2,21,183.0,Customer for 99 months,Industry: Logistics,On a 24 months contract,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T01069,2026-10-31,0.0021,Low,11340.24,24.34,0.2,21,87.0,87 active lines,Overdue amount: KWD 935,Tickets take 4 days to resolve,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00927,2026-10-31,0.0006,Low,37784.76,24.19,0.1,17,213.0,Region: Farwaniya,"Overdue amount: KWD 3,162",Pays 8 days late on average,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00950,2026-10-31,0.0017,Low,14300.04,24.15,0.1,16,86.0,86 active lines,Data usage down 8% vs previous quarter,On a 24 months contract,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T01316,2026-10-31,0.004,Low,6063.36,24.14,0.1,11,23.0,23 active lines,Data usage down 7% vs previous quarter,Region: Farwaniya,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00304,2026-10-31,0.0011,Low,21093.0,24.0,0.2,5,146.0,27.9 GB data per line per month,On a 24 months contract,2 network/data-speed complaints in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00142,2026-10-31,0.0035,Low,6782.64,23.9,0.2,8,43.0,Overdue amount: KWD 588,Data usage down 4% vs previous quarter,Lines down 7% in last 3 months,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00136,2026-10-31,0.001,Low,24967.68,23.87,0.2,24,167.0,22.0 GB data per line per month,0 support tickets in last 3 months,On a 24 months contract,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T01188,2026-10-31,0.0044,Low,5402.64,23.83,0.1,10,32.0,1 port-out requests in last 3 months,32 active lines,Data usage down 2% vs previous quarter,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01118,2026-10-31,0.001,Low,23837.52,23.71,0.2,9,215.0,On a 12 months contract,Region: Jahra,11 lines disconnected in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01412,2026-10-31,0.0123,Low,1908.84,23.48,0.2,1,14.0,Contract renews in 1 month,14 active lines,17.2 GB data per line per month,Month-to-month contract (no lock-in),lgbm-telecom-v1,2026-11-27 15:46
+T00268,2026-10-31,0.0015,Low,15951.48,23.22,0.2,15,113.0,On a 24 months contract,Data usage down 3% vs previous quarter,Pays 6 days late on average,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00144,2026-10-31,0.0007,Low,32088.24,23.19,0.2,8,318.0,Tickets take 4 days to resolve,On a 12 months contract,12 lines disconnected in last 3 months,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00333,2026-10-31,0.0013,Low,18431.28,23.17,0.2,4,133.0,Lines down 2% in last 3 months,"Overdue amount: KWD 1,558",Data usage down 2% vs previous quarter,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00543,2026-10-31,0.0012,Low,19779.24,23.04,0.3,4,231.0,16.3 GB data per line per month,Region: Jahra,Lines down 2% in last 3 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00109,2026-10-31,0.004,Low,5739.72,23.03,0.1,11,34.0,Industry: Logistics,34 active lines,17.0 GB data per line per month,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00300,2026-10-31,0.0085,Low,2711.76,23.0,0.2,4,18.0,Lines down 14% in last 3 months,18 active lines,Data usage down 11% vs previous quarter,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00572,2026-10-31,0.0024,Low,9538.68,22.99,0.1,11,54.0,35.1 GB data per line per month,54 active lines,Data usage down 0% vs previous quarter,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00935,2026-10-31,0.0016,Low,14710.92,22.87,0.2,11,118.0,22.3 GB data per line per month,Lines down 3% in last 3 months,On a 24 months contract,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00474,2026-10-31,0.0028,Low,8119.56,22.58,0.2,4,56.0,21.8 GB data per line per month,Tickets take 5 days to resolve,56 active lines,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00414,2026-10-31,0.0019,Low,11760.36,22.37,0.2,13,121.0,Customer for 11 months,Industry: Logistics,Pays 11 days late on average,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00153,2026-10-31,0.0068,Low,3265.92,22.3,0.1,4,15.0,1 port-out requests in last 3 months,15 active lines,Data usage down 8% vs previous quarter,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01024,2026-10-31,0.0012,Low,18754.2,22.11,0.1,6,119.0,Region: Jahra,Tickets take 4 days to resolve,On a 24 months contract,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01063,2026-10-31,0.0089,Low,2493.24,22.11,0.1,4,15.0,1 port-out requests in last 3 months,Industry: Hospitality,15 active lines,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00852,2026-10-31,0.0009,Low,23384.4,22.05,0.1,13,140.0,Customer for 11 months,"Overdue amount: KWD 1,962",On a 24 months contract,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T01475,2026-10-31,0.0014,Low,15610.68,21.62,0.2,8,127.0,Industry: Logistics,On a 24 months contract,Data usage down 3% vs previous quarter,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00275,2026-10-31,0.0011,Low,18771.12,21.45,0.1,21,130.0,Customer for 99 months,17.0 GB data per line per month,On a 24 months contract,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00644,2026-10-31,0.0011,Low,18668.16,21.43,0.2,24,170.0,33.0 GB data per line per month,Customer for 96 months,9 lines disconnected in last 3 months,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00440,2026-10-31,0.0061,Low,3531.24,21.37,0.1,23,18.0,18 active lines,Monthly recurring revenue: KWD 294,Industry: Hospitality,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T01442,2026-10-31,0.005,Low,4276.8,21.29,0.1,16,19.0,19 active lines,Customer for 8 months,Industry: Banking & Finance,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T00397,2026-10-31,0.006,Low,3507.36,21.14,0.2,5,28.0,Customer for 7 months,28 active lines,Industry: Logistics,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00801,2026-10-31,0.0011,Low,19627.2,20.96,0.2,7,167.0,3 billing disputes in last 3 months,Industry: Hospitality,On a 12 months contract,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01215,2026-10-31,0.0023,Low,9171.72,20.95,0.1,8,34.0,34 active lines,Industry: Retail,Overdue amount: KWD 764,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00649,2026-10-31,0.0015,Low,13488.48,20.7,0.2,10,125.0,Region: Jahra,Industry: Logistics,Subscribes to 2 products,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00248,2026-10-31,0.0041,Low,4999.56,20.5,0.1,10,29.0,Lines down 12% in last 3 months,29 active lines,6 lines disconnected in last 3 months,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00860,2026-10-31,0.0121,Low,1687.2,20.43,0.2,15,13.0,Data usage down 13% vs previous quarter,Lines down 13% in last 3 months,Region: Jahra,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00589,2026-10-31,0.0105,Low,1929.36,20.27,0.1,19,11.0,1 port-out requests in last 3 months,Lines down 8% in last 3 months,Voice usage down 17% vs previous quarter,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00307,2026-10-31,0.0009,Low,22234.56,20.2,0.1,7,144.0,21.9 GB data per line per month,On a 12 months contract,Pays 6 days late on average,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00767,2026-10-31,0.001,Low,20246.16,19.5,0.1,5,152.0,Data usage down 2% vs previous quarter,On a 24 months contract,Tickets take 4 days to resolve,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01119,2026-10-31,0.001,Low,18408.12,19.21,0.1,1,116.0,Contract renews in 1 month,34.4 GB data per line per month,7 lines disconnected in last 3 months,116 active lines,lgbm-telecom-v1,2026-11-27 15:46
+T00115,2026-10-31,0.002,Low,9613.32,19.15,0.2,7,78.0,78 active lines,6 lines disconnected in last 3 months,Data usage down 4% vs previous quarter,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01033,2026-10-31,0.0007,Low,27993.0,18.9,0.1,21,145.0,Industry: Education,0 support tickets in last 3 months,Segment: Corporate,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T01138,2026-10-31,0.0009,Low,22099.32,18.8,0.1,9,137.0,Industry: Banking & Finance,On a 12 months contract,6 lines disconnected in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00714,2026-10-31,0.0037,Low,4991.88,18.34,0.1,19,37.0,29.5 GB data per line per month,Overdue amount: KWD 416,Pays 6 days late on average,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01420,2026-10-31,0.005,Low,3678.6,18.29,0.1,7,24.0,24 active lines,1 port-out requests in last 3 months,Industry: Logistics,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00094,2026-10-31,0.0027,Low,6752.16,18.27,0.1,5,46.0,24.1 GB data per line per month,Lines down 4% in last 3 months,On a 12 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00692,2026-10-31,0.0037,Low,4932.0,18.23,0.1,5,29.0,29 active lines,Industry: Logistics,Overdue amount: KWD 399,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00614,2026-10-31,0.001,Low,17239.32,18.07,0.1,4,114.0,0 support tickets in last 3 months,Industry: Banking & Finance,Region: Jahra,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01073,2026-10-31,0.0015,Low,12377.28,18.07,0.1,7,74.0,74 active lines,Industry: Retail,Subscribes to 3 products,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00226,2026-10-31,0.001,Low,17783.16,18.05,0.1,23,118.0,Industry: Logistics,23.2 GB data per line per month,0 support tickets in last 3 months,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T00450,2026-10-31,0.0034,Low,5285.04,17.95,0.1,12,27.0,27 active lines,29.7 GB data per line per month,Overdue amount: KWD 397,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01043,2026-10-31,0.0111,Low,1611.84,17.93,0.1,7,12.0,Customer for 5 months,Data usage down 13% vs previous quarter,12 active lines,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00674,2026-10-31,0.0077,Low,2316.72,17.8,0.1,1,11.0,Contract renews in 1 month,11 active lines,Overdue amount: KWD 180,42.4 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T01157,2026-10-31,0.0023,Low,7750.92,17.76,0.1,7,45.0,22.1 GB data per line per month,45 active lines,On a 12 months contract,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01109,2026-10-31,0.0033,Low,5331.0,17.71,0.1,7,45.0,1 port-out requests in last 3 months,Industry: Banking & Finance,Overdue amount: KWD 444,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01141,2026-10-31,0.0022,Low,7753.32,17.19,0.1,14,48.0,48 active lines,Industry: Banking & Finance,Monthly recurring revenue: KWD 646,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T01071,2026-10-31,0.0008,Low,21252.96,16.88,0.1,10,158.0,Customer for 14 months,0 support tickets in last 3 months,Pays 7 days late on average,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00646,2026-10-31,0.0077,Low,2179.8,16.88,0.1,23,15.0,1 port-out requests in last 3 months,Lines down 12% in last 3 months,15 active lines,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T00296,2026-10-31,0.0041,Low,4097.88,16.77,0.1,8,25.0,25 active lines,Lines down 7% in last 3 months,Data usage down 6% vs previous quarter,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01293,2026-10-31,0.0008,Low,19508.76,16.23,0.1,18,172.0,Customer for 102 months,Tickets take 4 days to resolve,Pays 7 days late on average,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00489,2026-10-31,0.0021,Low,7653.96,15.95,0.1,19,51.0,1 port-out requests in last 3 months,51 active lines,Monthly recurring revenue: KWD 638,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01040,2026-10-31,0.0037,Low,4226.88,15.68,0.1,5,25.0,25 active lines,Data usage down 8% vs previous quarter,Lines down 7% in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00133,2026-10-31,0.0011,Low,13800.6,15.62,0.1,13,113.0,24.4 GB data per line per month,On a 24 months contract,6 lines disconnected in last 3 months,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00963,2026-10-31,0.0015,Low,10573.92,15.59,0.1,6,77.0,77 active lines,Data usage down 6% vs previous quarter,Pays 8 days late on average,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00063,2026-10-31,0.0011,Low,14080.92,15.56,0.1,6,108.0,0 support tickets in last 3 months,On a 24 months contract,Data usage down 1% vs previous quarter,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01112,2026-10-31,0.0136,Low,1136.64,15.48,0.1,1,10.0,Contract renews in 1 month,10 active lines,22.9 GB data per line per month,0 port-out requests in last 3 months,lgbm-telecom-v1,2026-11-27 15:46
+T00216,2026-10-31,0.0012,Low,12342.96,15.37,0.1,21,54.0,"Overdue amount: KWD 1,029",1 unresolved support tickets,Industry: Logistics,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00733,2026-10-31,0.0008,Low,19515.12,15.37,0.1,7,127.0,On a 12 months contract,"Overdue amount: KWD 1,626",1 support tickets in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01473,2026-10-31,0.0045,Low,3390.0,15.25,0.1,6,25.0,22.4 GB data per line per month,1 port-out requests in last 3 months,25 active lines,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01114,2026-10-31,0.0031,Low,4950.36,15.19,0.1,10,33.0,33 active lines,Industry: Hospitality,Tickets take 4 days to resolve,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00909,2026-10-31,0.0039,Low,3899.16,15.16,0.1,7,22.0,Lines down 12% in last 3 months,22 active lines,Data usage down 10% vs previous quarter,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00526,2026-10-31,0.0006,Low,25357.56,15.1,0.1,22,194.0,"Overdue amount: KWD 2,124",Industry: Hospitality,0 support tickets in last 3 months,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01037,2026-10-31,0.0089,Low,1690.32,15.06,0.1,15,8.0,8 active lines,Customer for 9 months,Monthly recurring revenue: KWD 141,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T01234,2026-10-31,0.0031,Low,4836.12,14.82,0.1,11,34.0,Data usage down 10% vs previous quarter,Tickets take 3 days to resolve,4 lines disconnected in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01088,2026-10-31,0.0008,Low,18879.6,14.71,0.1,8,142.0,24.6 GB data per line per month,On a 12 months contract,Subscribes to 2 products,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01393,2026-10-31,0.0032,Low,4631.88,14.63,0.1,9,19.0,19 active lines,Industry: Retail,Overdue amount: KWD 386,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01463,2026-10-31,0.0015,Low,9215.4,14.14,0.1,20,61.0,61 active lines,0 support tickets in last 3 months,Monthly recurring revenue: KWD 768,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00255,2026-10-31,0.0023,Low,6231.12,14.05,0.1,19,50.0,Customer for 5 months,Tickets take 3 days to resolve,50 active lines,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01178,2026-10-31,0.0011,Low,12683.52,14.03,0.1,14,104.0,104 active lines,9.6 GB data per line per month,On a 24 months contract,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T01197,2026-10-31,0.0013,Low,10878.84,13.91,0.1,8,57.0,57 active lines,0 support tickets in last 3 months,Monthly recurring revenue: KWD 907,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00101,2026-10-31,0.0032,Low,4334.52,13.83,0.1,4,34.0,34 active lines,Lines down 6% in last 3 months,Region: Farwaniya,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00394,2026-10-31,0.0024,Low,5680.8,13.81,0.1,23,39.0,21.5 GB data per line per month,39 active lines,1 support tickets in last 3 months,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T01192,2026-10-31,0.006,Low,2279.88,13.74,0.1,1,15.0,Contract renews in 1 month,15 active lines,Region: Jahra,8.8 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T01366,2026-10-31,0.0031,Low,4437.6,13.62,0.1,4,24.0,30.2 GB data per line per month,24 active lines,Tickets take 7 days to resolve,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00267,2026-10-31,0.0007,Low,20032.8,13.54,0.1,5,146.0,Lines down 4% in last 3 months,10 lines disconnected in last 3 months,On a 12 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00482,2026-10-31,0.0036,Low,3668.28,13.3,0.1,4,25.0,25 active lines,Overdue amount: KWD 295,Region: Farwaniya,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00051,2026-10-31,0.0018,Low,7503.72,13.27,0.1,8,47.0,Customer for 4 months,47 active lines,Overdue amount: KWD 613,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00755,2026-10-31,0.0048,Low,2714.88,13.11,0.1,22,28.0,1 port-out requests in last 3 months,Region: Jahra,28 active lines,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01131,2026-10-31,0.0036,Low,3598.2,12.92,0.1,11,24.0,21.7 GB data per line per month,24 active lines,Monthly recurring revenue: KWD 300,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00199,2026-10-31,0.0032,Low,4089.6,12.89,0.1,10,16.0,1 port-out requests in last 3 months,16 active lines,Data usage down 2% vs previous quarter,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01437,2026-10-31,0.0007,Low,18924.48,12.87,0.1,16,173.0,Industry: Retail,Data usage down 1% vs previous quarter,0 support tickets in last 3 months,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T01243,2026-10-31,0.002,Low,6339.84,12.72,0.1,4,38.0,Lines down 5% in last 3 months,24.3 GB data per line per month,On a 12 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00645,2026-10-31,0.0012,Low,11024.16,12.68,0.1,12,75.0,75 active lines,0 support tickets in last 3 months,3 lines disconnected in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00641,2026-10-31,0.0033,Low,3805.2,12.57,0.1,8,30.0,Industry: Banking & Finance,30 active lines,3 lines disconnected in last 3 months,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00385,2026-10-31,0.0006,Low,19601.76,12.49,0.1,8,124.0,Data usage down 3% vs previous quarter,On a 12 months contract,"Overdue amount: KWD 1,633",Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00868,2026-10-31,0.0042,Low,2994.96,12.48,0.1,18,22.0,26.5 GB data per line per month,22 active lines,Customer for 54 months,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00654,2026-10-31,0.0025,Low,4903.8,12.28,0.1,5,48.0,Pays 9 days late on average,48 active lines,Overdue amount: KWD 401,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00547,2026-10-31,0.0006,Low,20280.24,12.25,0.1,24,167.0,Industry: Retail,11 lines disconnected in last 3 months,Pays 6 days late on average,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00763,2026-10-31,0.0006,Low,21174.12,12.19,0.1,7,150.0,22.9 GB data per line per month,Data usage down 2% vs previous quarter,On a 12 months contract,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00831,2026-10-31,0.0031,Low,3965.64,12.13,0.1,11,30.0,30 active lines,Data usage down 5% vs previous quarter,On a 24 months contract,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01452,2026-10-31,0.0006,Low,21753.72,12.0,0.1,22,131.0,33.2 GB data per line per month,On a 24 months contract,7 lines disconnected in last 3 months,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01116,2026-10-31,0.0025,Low,4713.12,11.97,0.1,8,21.0,21 active lines,Data usage down 0% vs previous quarter,Monthly recurring revenue: KWD 393,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00833,2026-10-31,0.0059,Low,2012.16,11.86,0.1,10,14.0,28.1 GB data per line per month,14 active lines,Lines down 12% in last 3 months,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00350,2026-10-31,0.0028,Low,3977.52,11.23,0.1,7,40.0,Industry: Hospitality,Data usage down 2% vs previous quarter,Customer for 17 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00841,2026-10-31,0.0093,Low,1207.44,11.19,0.0,18,5.0,27.7 GB data per line per month,Data usage down 13% vs previous quarter,5 active lines,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T01049,2026-10-31,0.0033,Low,3385.2,11.15,0.1,19,22.0,Data usage down 9% vs previous quarter,22 active lines,On a 24 months contract,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01240,2026-10-31,0.0005,Low,20484.0,11.15,0.1,9,171.0,On a 12 months contract,"Overdue amount: KWD 1,670",0 support tickets in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01087,2026-10-31,0.0021,Low,5260.44,11.09,0.1,18,49.0,1 port-out requests in last 3 months,49 active lines,1 support tickets in last 3 months,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T01193,2026-10-31,0.0033,Low,3398.64,11.07,0.1,8,21.0,21 active lines,23.2 GB data per line per month,On a 24 months contract,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01222,2026-10-31,0.0075,Low,1436.4,10.73,0.0,16,6.0,6 active lines,Customer for 8 months,Industry: Banking & Finance,Contract renews in 16 months,lgbm-telecom-v1,2026-11-27 15:46
+T01493,2026-10-31,0.0038,Low,2771.04,10.66,0.1,19,24.0,Customer for 5 months,24 active lines,Industry: Hospitality,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00076,2026-10-31,0.001,Low,11156.52,10.64,0.1,12,58.0,58 active lines,Monthly recurring revenue: KWD 930,0 support tickets in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00476,2026-10-31,0.0216,Low,491.88,10.61,0.0,1,2.0,Contract renews in 1 month,Monthly recurring revenue: KWD 41,26.2 GB data per line per month,Customer for 81 months,lgbm-telecom-v1,2026-11-27 15:46
+T00066,2026-10-31,0.0008,Low,13335.0,10.48,0.1,5,127.0,0 support tickets in last 3 months,17.7 GB data per line per month,Pays 7 days late on average,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00546,2026-10-31,0.0019,Low,5375.64,10.43,0.1,7,45.0,Industry: Logistics,Data usage down 5% vs previous quarter,Overdue amount: KWD 428,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00839,2026-10-31,0.0059,Low,1765.44,10.43,0.1,7,16.0,Customer for 5 months,16 active lines,27.3 GB data per line per month,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00419,2026-10-31,0.0057,Low,1824.6,10.4,0.1,7,11.0,Customer for 5 months,11 active lines,Lines down 8% in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01101,2026-10-31,0.0053,Low,1944.0,10.3,0.1,1,11.0,Contract renews in 1 month,11 active lines,Industry: Logistics,49.4 GB data per line per month,lgbm-telecom-v1,2026-11-27 15:46
+T01304,2026-10-31,0.0019,Low,5316.72,10.28,0.1,10,37.0,Industry: Hospitality,Region: Jahra,37 active lines,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00611,2026-10-31,0.0005,Low,18802.68,10.15,0.1,11,119.0,Tickets take 9 days to resolve,On a 12 months contract,Data usage down 5% vs previous quarter,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00947,2026-10-31,0.0047,Low,2159.4,10.12,0.1,8,17.0,Customer for 4 months,Industry: Logistics,Data usage down 8% vs previous quarter,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00723,2026-10-31,0.0012,Low,8403.36,9.95,0.1,6,59.0,59 active lines,0 support tickets in last 3 months,Region: Ahmadi,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00432,2026-10-31,0.0022,Low,4376.88,9.74,0.1,11,27.0,27 active lines,Data usage down 2% vs previous quarter,Voice usage down 14% vs previous quarter,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01434,2026-10-31,0.0024,Low,4055.28,9.72,0.0,4,19.0,19 active lines,Pays 8 days late on average,Overdue amount: KWD 338,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01286,2026-10-31,0.0025,Low,3828.0,9.67,0.0,4,15.0,15 active lines,17.6 GB data per line per month,Monthly recurring revenue: KWD 319,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01027,2026-10-31,0.003,Low,3220.68,9.52,0.1,9,18.0,18 active lines,26.7 GB data per line per month,Region: Jahra,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00056,2026-10-31,0.0016,Low,5713.68,9.39,0.1,7,36.0,36 active lines,Industry: Logistics,Subscribes to 2 products,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01146,2026-10-31,0.0046,Low,2031.84,9.37,0.1,6,14.0,14 active lines,Lines down 12% in last 3 months,Pays 12 days late on average,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01479,2026-10-31,0.0017,Low,5379.36,9.25,0.1,12,41.0,Industry: Retail,Pays 9 days late on average,Overdue amount: KWD 448,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00382,2026-10-31,0.0005,Low,19025.64,9.24,0.1,12,123.0,Region: Farwaniya,Data usage down 3% vs previous quarter,Tickets take 2 days to resolve,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00163,2026-10-31,0.0025,Low,3653.64,9.21,0.0,6,17.0,17 active lines,17.3 GB data per line per month,Data usage down 6% vs previous quarter,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01268,2026-10-31,0.0031,Low,2911.44,9.06,0.1,11,24.0,1 port-out requests in last 3 months,24 active lines,9.5 GB data per line per month,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00662,2026-10-31,0.0025,Low,3564.24,8.96,0.1,10,23.0,23 active lines,Industry: Logistics,Pays 8 days late on average,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00287,2026-10-31,0.0036,Low,2463.0,8.92,0.1,7,24.0,24 active lines,22.9 GB data per line per month,Industry: Banking & Finance,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00804,2026-10-31,0.0049,Low,1739.64,8.51,0.0,5,7.0,26.8 GB data per line per month,7 active lines,Lines down 12% in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01336,2026-10-31,0.0006,Low,14080.56,8.43,0.1,20,115.0,Subscribes to 2 products,0 support tickets in last 3 months,On a 24 months contract,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00257,2026-10-31,0.0059,Low,1423.92,8.35,0.0,10,5.0,Lines down 17% in last 3 months,Overdue amount: KWD 119,Monthly recurring revenue: KWD 119,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00955,2026-10-31,0.0004,Low,20868.36,8.31,0.1,20,147.0,"Overdue amount: KWD 1,717",7 lines disconnected in last 3 months,Tickets take 2 days to resolve,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00232,2026-10-31,0.0032,Low,2488.68,8.08,0.1,12,20.0,20 active lines,Overdue amount: KWD 207,Tickets take 4 days to resolve,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00898,2026-10-31,0.0045,Low,1762.56,8.0,0.0,11,10.0,10 active lines,Industry: Banking & Finance,Overdue amount: KWD 135,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01466,2026-10-31,0.0017,Low,4685.16,7.92,0.0,10,29.0,29 active lines,Data usage down 5% vs previous quarter,On a 24 months contract,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00152,2026-10-31,0.0011,Low,7169.76,7.87,0.1,23,85.0,85 active lines,Tickets take 3 days to resolve,Monthly recurring revenue: KWD 597,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T00896,2026-10-31,0.0044,Low,1693.8,7.5,0.1,6,22.0,22 active lines,Monthly recurring revenue: KWD 141,Overdue amount: KWD 148,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01149,2026-10-31,0.0014,Low,5507.04,7.48,0.1,9,52.0,Region: Jahra,Overdue amount: KWD 450,0 support tickets in last 3 months,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00111,2026-10-31,0.0031,Low,2382.12,7.41,0.0,12,14.0,14 active lines,22.6 GB data per line per month,Lines down 7% in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00279,2026-10-31,0.0029,Low,2526.6,7.41,0.0,24,15.0,Lines down 12% in last 3 months,15 active lines,Data usage down 9% vs previous quarter,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00835,2026-10-31,0.002,Low,3672.12,7.33,0.0,11,21.0,21 active lines,Industry: Retail,Customer for 13 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00849,2026-10-31,0.0024,Low,3065.64,7.32,0.1,15,32.0,24.3 GB data per line per month,Lines down 6% in last 3 months,32 active lines,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T01417,2026-10-31,0.0031,Low,2310.48,7.22,0.1,5,20.0,1 port-out requests in last 3 months,20 active lines,Voice usage down 19% vs previous quarter,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01110,2026-10-31,0.0048,Low,1491.36,7.17,0.1,15,11.0,11 active lines,Customer for 9 months,Overdue amount: KWD 124,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T01467,2026-10-31,0.0036,Low,1990.32,7.07,0.1,11,15.0,15 active lines,1 port-out requests in last 3 months,16.3 GB data per line per month,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00049,2026-10-31,0.0013,Low,5499.24,7.06,0.1,13,50.0,50 active lines,0 support tickets in last 3 months,Overdue amount: KWD 458,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T00699,2026-10-31,0.0006,Low,12635.76,7.04,0.1,12,139.0,Industry: Education,8 lines disconnected in last 3 months,2 network/data-speed complaints in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00952,2026-10-31,0.0023,Low,3061.8,6.89,0.0,23,16.0,16 active lines,Industry: Hospitality,Subscribes to 3 products,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T01086,2026-10-31,0.0023,Low,2966.64,6.8,0.1,6,27.0,27 active lines,26.8 GB data per line per month,Overdue amount: KWD 247,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00449,2026-10-31,0.0041,Low,1638.84,6.72,0.0,8,9.0,9 active lines,Monthly recurring revenue: KWD 137,Overdue amount: KWD 124,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01495,2026-10-31,0.003,Low,2225.64,6.68,0.0,6,13.0,13 active lines,23.3 GB data per line per month,Industry: Logistics,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01298,2026-10-31,0.0025,Low,2665.56,6.62,0.0,7,17.0,17 active lines,1 unresolved support tickets,Region: Farwaniya,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00502,2026-10-31,0.0016,Low,4141.44,6.6,0.1,5,33.0,Industry: Hospitality,On a 12 months contract,33 active lines,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00632,2026-10-31,0.0015,Low,4286.88,6.58,0.0,5,28.0,28 active lines,0 support tickets in last 3 months,On a 12 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01079,2026-10-31,0.0005,Low,12209.16,6.49,0.1,17,107.0,1 support tickets in last 3 months,Overdue amount: KWD 999,5 lines disconnected in last 3 months,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00413,2026-10-31,0.0013,Low,5070.12,6.48,0.0,7,37.0,Industry: Logistics,Overdue amount: KWD 423,0 support tickets in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01449,2026-10-31,0.0036,Low,1822.8,6.48,0.0,15,10.0,10 active lines,Customer for 9 months,Overdue amount: KWD 152,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00781,2026-10-31,0.0089,Low,710.4,6.34,0.1,13,8.0,27.1 GB data per line per month,8 active lines,Monthly recurring revenue: KWD 59,Contract renews in 13 months,lgbm-telecom-v1,2026-11-27 15:46
+T01096,2026-10-31,0.0019,Low,3237.72,6.3,0.1,20,27.0,27 active lines,Overdue amount: KWD 270,0 support tickets in last 3 months,Contract renews in 20 months,lgbm-telecom-v1,2026-11-27 15:46
+T00386,2026-10-31,0.0023,Low,2708.76,6.26,0.0,6,20.0,1 port-out requests in last 3 months,20 active lines,Overdue amount: KWD 226,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00228,2026-10-31,0.0035,Low,1756.8,6.19,0.0,23,14.0,14 active lines,24.3 GB data per line per month,Monthly recurring revenue: KWD 146,Contract renews in 23 months,lgbm-telecom-v1,2026-11-27 15:46
+T01181,2026-10-31,0.0026,Low,2278.68,6.03,0.1,12,21.0,Data usage down 14% vs previous quarter,21 active lines,Lines down 5% in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01025,2026-10-31,0.0025,Low,2351.04,5.95,0.1,7,21.0,21 active lines,Industry: Hospitality,On a 24 months contract,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00825,2026-10-31,0.0082,Low,708.12,5.84,0.0,1,3.0,Contract renews in 1 month,Monthly recurring revenue: KWD 59,0 support tickets in last 3 months,Customer for 97 months,lgbm-telecom-v1,2026-11-27 15:46
+T01091,2026-10-31,0.0018,Low,3190.32,5.82,0.0,7,16.0,16 active lines,On a 12 months contract,Pays 6 days late on average,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01207,2026-10-31,0.004,Low,1467.36,5.82,0.0,22,9.0,9 active lines,Monthly recurring revenue: KWD 122,Lines down 10% in last 3 months,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00055,2026-10-31,0.0022,Low,2575.56,5.74,0.0,5,13.0,13 active lines,Data usage down 11% vs previous quarter,22.2 GB data per line per month,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00057,2026-10-31,0.0089,Low,635.04,5.67,0.1,15,6.0,Monthly recurring revenue: KWD 53,6 active lines,Pays 7 days late on average,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00508,2026-10-31,0.0025,Low,2232.24,5.62,0.0,9,12.0,12 active lines,Industry: Banking & Finance,Overdue amount: KWD 186,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00568,2026-10-31,0.0043,Low,1303.68,5.61,0.0,12,8.0,8 active lines,1 port-out requests in last 3 months,39.6 GB data per line per month,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00978,2026-10-31,0.0013,Low,4214.52,5.5,0.1,5,39.0,Tickets take 10 days to resolve,Industry: Logistics,Segment: SME,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00751,2026-10-31,0.0034,Low,1582.8,5.41,0.0,4,10.0,10 active lines,Monthly recurring revenue: KWD 132,Overdue amount: KWD 132,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01255,2026-10-31,0.0023,Low,2338.32,5.39,0.0,8,14.0,14 active lines,Region: Jahra,Industry: Education,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00823,2026-10-31,0.0024,Low,2255.76,5.37,0.0,10,16.0,16 active lines,Tickets take 5 days to resolve,Region: Jahra,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T00250,2026-10-31,0.0013,Low,4127.52,5.34,0.0,5,23.0,23 active lines,Data usage down 3% vs previous quarter,3 lines disconnected in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01273,2026-10-31,0.0075,Low,708.0,5.34,0.0,8,5.0,Data usage down 23% vs previous quarter,Lines down 17% in last 3 months,Monthly recurring revenue: KWD 59,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T01013,2026-10-31,0.0053,Low,1001.28,5.33,0.0,7,9.0,31.5 GB data per line per month,9 active lines,Tickets take 5 days to resolve,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00616,2026-10-31,0.0033,Low,1633.56,5.31,0.0,9,15.0,15 active lines,Overdue amount: KWD 128,Monthly recurring revenue: KWD 136,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01397,2026-10-31,0.001,Low,5277.24,5.25,0.0,21,24.0,24 active lines,Region: Farwaniya,Monthly recurring revenue: KWD 440,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00730,2026-10-31,0.002,Low,2586.48,5.22,0.0,15,18.0,18 active lines,Customer for 9 months,Data usage down 4% vs previous quarter,Contract renews in 15 months,lgbm-telecom-v1,2026-11-27 15:46
+T00537,2026-10-31,0.0009,Low,5679.96,5.15,0.0,6,37.0,0 support tickets in last 3 months,Overdue amount: KWD 449,37 active lines,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00754,2026-10-31,0.0017,Low,2947.56,5.02,0.1,5,33.0,1 port-out requests in last 3 months,33 active lines,Region: Jahra,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00817,2026-10-31,0.0013,Low,3959.76,4.99,0.0,4,37.0,Customer for 8 months,On a 12 months contract,37 active lines,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00308,2026-10-31,0.0019,Low,2551.08,4.94,0.0,6,18.0,18 active lines,Overdue amount: KWD 202,0 support tickets in last 3 months,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00344,2026-10-31,0.0019,Low,2564.88,4.94,0.1,9,27.0,27 active lines,Lines down 4% in last 3 months,On a 12 months contract,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T01142,2026-10-31,0.0025,Low,1947.84,4.92,0.0,6,9.0,9 active lines,Tickets take 3 days to resolve,Industry: Banking & Finance,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00703,2026-10-31,0.0025,Low,1990.8,4.88,0.0,24,13.0,13 active lines,Industry: Banking & Finance,Monthly recurring revenue: KWD 166,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00625,2026-10-31,0.0015,Low,3161.04,4.88,0.0,14,28.0,28 active lines,18.1 GB data per line per month,0 support tickets in last 3 months,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00585,2026-10-31,0.0017,Low,2817.6,4.69,0.0,14,13.0,13 active lines,Customer for 10 months,Overdue amount: KWD 235,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00858,2026-10-31,0.0012,Low,4008.12,4.65,0.0,4,36.0,Voice usage down 18% vs previous quarter,Industry: Logistics,On a 24 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00435,2026-10-31,0.005,Low,921.6,4.64,0.0,6,5.0,5 active lines,21.0 GB data per line per month,Region: Farwaniya,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01165,2026-10-31,0.0098,Low,473.52,4.63,0.0,11,2.0,Data usage down 24% vs previous quarter,Lines down 33% in last 3 months,Voice usage down 26% vs previous quarter,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00237,2026-10-31,0.0023,Low,1971.6,4.62,0.0,5,18.0,18 active lines,Industry: Logistics,Overdue amount: KWD 155,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00085,2026-10-31,0.0033,Low,1414.68,4.6,0.0,12,10.0,10 active lines,Lines down 9% in last 3 months,Overdue amount: KWD 129,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01121,2026-10-31,0.0013,Low,3482.4,4.49,0.0,17,23.0,23 active lines,0 support tickets in last 3 months,On a 24 months contract,Contract renews in 17 months,lgbm-telecom-v1,2026-11-27 15:46
+T00609,2026-10-31,0.0039,Low,1115.52,4.34,0.0,24,6.0,Lines down 14% in last 3 months,Data usage down 16% vs previous quarter,Tickets take 6 days to resolve,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00320,2026-10-31,0.0015,Low,2770.68,4.28,0.0,11,20.0,20 active lines,Industry: Retail,Customer for 13 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01233,2026-10-31,0.003,Low,1446.6,4.27,0.0,7,12.0,12 active lines,Monthly recurring revenue: KWD 121,Overdue amount: KWD 121,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00342,2026-10-31,0.0008,Low,5342.4,4.22,0.0,11,33.0,33 active lines,Overdue amount: KWD 421,0 support tickets in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T00721,2026-10-31,0.0012,Low,3458.88,4.19,0.0,4,23.0,Lines down 8% in last 3 months,Industry: Banking & Finance,On a 12 months contract,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T01443,2026-10-31,0.0028,Low,1480.08,4.09,0.0,18,7.0,7 active lines,Monthly recurring revenue: KWD 123,On a 24 months contract,Contract renews in 18 months,lgbm-telecom-v1,2026-11-27 15:46
+T00653,2026-10-31,0.0019,Low,2109.12,4.07,0.0,7,18.0,18 active lines,1 port-out requests in last 3 months,Overdue amount: KWD 156,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01312,2026-10-31,0.0024,Low,1704.48,4.01,0.0,14,15.0,15 active lines,Overdue amount: KWD 142,On a 24 months contract,Contract renews in 14 months,lgbm-telecom-v1,2026-11-27 15:46
+T00059,2026-10-31,0.0029,Low,1373.16,3.99,0.0,7,7.0,7 active lines,Lines down 12% in last 3 months,Overdue amount: KWD 114,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00156,2026-10-31,0.0024,Low,1623.48,3.96,0.0,19,13.0,13 active lines,Monthly recurring revenue: KWD 135,Customer for 5 months,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00129,2026-10-31,0.0035,Low,1117.56,3.89,0.0,5,8.0,Data usage down 13% vs previous quarter,8 active lines,Region: Farwaniya,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00106,2026-10-31,0.0024,Low,1624.92,3.89,0.0,4,15.0,15 active lines,Region: Farwaniya,Data usage down 7% vs previous quarter,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00064,2026-10-31,0.0032,Low,1208.4,3.81,0.0,7,5.0,1 port-out requests in last 3 months,Tickets take 6 days to resolve,Data usage down 8% vs previous quarter,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01026,2026-10-31,0.004,Low,921.72,3.66,0.0,12,9.0,9 active lines,1 unresolved support tickets,Customer for 12 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01010,2026-10-31,0.0008,Low,4322.88,3.65,0.0,21,35.0,35 active lines,Overdue amount: KWD 370,0 support tickets in last 3 months,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T00392,2026-10-31,0.0014,Low,2571.6,3.63,0.0,7,18.0,18 active lines,1 support tickets in last 3 months,On a 12 months contract,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01210,2026-10-31,0.0017,Low,2098.92,3.61,0.0,5,18.0,18 active lines,0 support tickets in last 3 months,On a 12 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00395,2026-10-31,0.0029,Low,1234.56,3.6,0.0,12,11.0,11 active lines,29.3 GB data per line per month,Monthly recurring revenue: KWD 103,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T01164,2026-10-31,0.0014,Low,2570.52,3.59,0.0,19,12.0,12 active lines,Lines down 8% in last 3 months,Data usage down 2% vs previous quarter,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00863,2026-10-31,0.0038,Low,934.92,3.58,0.0,7,6.0,Lines down 25% in last 3 months,Voice usage down 29% vs previous quarter,Data usage down 14% vs previous quarter,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01250,2026-10-31,0.0009,Low,3778.92,3.57,0.0,11,29.0,29 active lines,Pays 6 days late on average,1 support tickets in last 3 months,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01257,2026-10-31,0.0013,Low,2696.04,3.57,0.0,10,21.0,21 active lines,On a 12 months contract,Industry: Banking & Finance,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01223,2026-10-31,0.0014,Low,2598.84,3.56,0.0,4,15.0,15 active lines,Customer for 8 months,Data usage down 4% vs previous quarter,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00104,2026-10-31,0.0009,Low,3898.56,3.55,0.0,7,23.0,23 active lines,Lines down 4% in last 3 months,0 support tickets in last 3 months,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T00354,2026-10-31,0.003,Low,1191.84,3.53,0.0,10,10.0,10 active lines,Region: Jahra,Customer for 14 months,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01415,2026-10-31,0.0019,Low,1800.12,3.48,0.0,12,16.0,16 active lines,20.8 GB data per line per month,1 support tickets in last 3 months,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00729,2026-10-31,0.0018,Low,1875.48,3.46,0.0,9,13.0,13 active lines,35.5 GB data per line per month,Subscribes to 2 products,Contract renews in 9 months,lgbm-telecom-v1,2026-11-27 15:46
+T00062,2026-10-31,0.0036,Low,931.32,3.32,0.0,7,8.0,8 active lines,Lines down 11% in last 3 months,Data usage down 2% vs previous quarter,Contract renews in 7 months,lgbm-telecom-v1,2026-11-27 15:46
+T01058,2026-10-31,0.003,Low,1107.36,3.3,0.0,19,8.0,8 active lines,Customer for 5 months,Data usage down 4% vs previous quarter,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T00873,2026-10-31,0.0019,Low,1733.88,3.23,0.0,22,11.0,11 active lines,On a 24 months contract,Monthly recurring revenue: KWD 144,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T00602,2026-10-31,0.0014,Low,2259.72,3.08,0.0,5,17.0,17 active lines,On a 24 months contract,0 support tickets in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00234,2026-10-31,0.002,Low,1394.64,2.81,0.0,12,7.0,7 active lines,On a 12 months contract,18.1 GB data per line per month,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00971,2026-10-31,0.0039,Low,704.52,2.77,0.0,19,7.0,Monthly recurring revenue: KWD 59,Data usage down 12% vs previous quarter,7 active lines,Contract renews in 19 months,lgbm-telecom-v1,2026-11-27 15:46
+T01306,2026-10-31,0.0013,Low,2024.16,2.63,0.0,4,12.0,12 active lines,16.0 GB data per line per month,Industry: Logistics,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00266,2026-10-31,0.0023,Low,1122.36,2.53,0.0,8,8.0,8 active lines,Data usage down 7% vs previous quarter,Industry: Retail,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00444,2026-10-31,0.0017,Low,1517.52,2.51,0.0,12,10.0,10 active lines,Region: Farwaniya,Data usage down 4% vs previous quarter,Contract renews in 12 months,lgbm-telecom-v1,2026-11-27 15:46
+T00360,2026-10-31,0.004,Low,611.16,2.44,0.0,24,3.0,24.0 GB data per line per month,Monthly recurring revenue: KWD 51,Pays 9 days late on average,Contract renews in 24 months,lgbm-telecom-v1,2026-11-27 15:46
+T00259,2026-10-31,0.0023,Low,1010.52,2.33,0.0,4,5.0,Industry: Logistics,5 active lines,Data usage down 9% vs previous quarter,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00924,2026-10-31,0.0009,Low,2525.04,2.27,0.0,5,14.0,14 active lines,Industry: Hospitality,On a 12 months contract,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00871,2026-10-31,0.0011,Low,1994.4,2.15,0.0,10,8.0,8 active lines,Monthly recurring revenue: KWD 166,On a 12 months contract,Contract renews in 10 months,lgbm-telecom-v1,2026-11-27 15:46
+T01061,2026-10-31,0.0029,Low,729.72,2.14,0.0,5,3.0,Lines down 25% in last 3 months,Monthly recurring revenue: KWD 61,Data usage down 3% vs previous quarter,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T00227,2026-10-31,0.0017,Low,1215.84,2.13,0.0,11,9.0,9 active lines,Lines down 10% in last 3 months,Data usage down 5% vs previous quarter,Contract renews in 11 months,lgbm-telecom-v1,2026-11-27 15:46
+T01499,2026-10-31,0.002,Low,1067.52,2.12,0.0,6,9.0,1 port-out requests in last 3 months,9 active lines,Tickets take 3 days to resolve,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00117,2026-10-31,0.0035,Low,592.2,2.06,0.0,21,2.0,Monthly recurring revenue: KWD 49,Data usage down 1% vs previous quarter,20.8 GB data per line per month,Contract renews in 21 months,lgbm-telecom-v1,2026-11-27 15:46
+T01483,2026-10-31,0.0008,Low,2571.24,2.02,0.0,4,12.0,12 active lines,Industry: Banking & Finance,0 support tickets in last 3 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00334,2026-10-31,0.0011,Low,1780.68,1.97,0.0,6,17.0,Industry: Hospitality,17 active lines,Lines down 6% in last 3 months,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T01090,2026-10-31,0.0024,Low,833.76,1.96,0.0,5,7.0,37.4 GB data per line per month,7 active lines,Lines down 12% in last 3 months,Contract renews in 5 months,lgbm-telecom-v1,2026-11-27 15:46
+T01382,2026-10-31,0.0025,Low,734.76,1.86,0.0,22,5.0,Monthly recurring revenue: KWD 61,5 active lines,Pays 9 days late on average,Contract renews in 22 months,lgbm-telecom-v1,2026-11-27 15:46
+T01127,2026-10-31,0.0021,Low,708.6,1.52,0.0,8,4.0,Monthly recurring revenue: KWD 59,4 active lines,On a 12 months contract,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00941,2026-10-31,0.0009,Low,1631.64,1.41,0.0,8,8.0,8 active lines,Monthly recurring revenue: KWD 136,0 support tickets in last 3 months,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
+T00977,2026-10-31,0.0012,Low,1131.12,1.35,0.0,4,5.0,5 active lines,On a 12 months contract,0 support tickets in last 3 months,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00528,2026-10-31,0.0012,Low,1107.96,1.33,0.0,6,7.0,7 active lines,17.0 GB data per line per month,0 support tickets in last 3 months,Contract renews in 6 months,lgbm-telecom-v1,2026-11-27 15:46
+T00521,2026-10-31,0.0007,Low,1076.16,0.77,0.0,4,10.0,10 active lines,Data usage down 6% vs previous quarter,Region: Farwaniya,Contract renews in 4 months,lgbm-telecom-v1,2026-11-27 15:46
+T00208,2026-10-31,0.0013,Low,300.0,0.39,0.0,8,2.0,Monthly recurring revenue: KWD 25,Tickets take 4 days to resolve,Industry: Banking & Finance,Contract renews in 8 months,lgbm-telecom-v1,2026-11-27 15:46
