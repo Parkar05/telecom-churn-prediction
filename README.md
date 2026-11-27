@@ -7,7 +7,7 @@ explains **why** for every account, and delivers the results to account managers
 through **ChurnRadar for Business**, a Streamlit app, and a **Power BI report**. The app also plans the
 retention campaign: how many accounts to call this month, and what that is worth.
 
-> **Live demo:** `https://churnradar-telcom.streamlit.app` · **All data is synthetic.** The project is based on a real
+> **Live demo:** https://churnradar-telcom.streamlit.app · **All data is synthetic.** The project is based on a real
 > business problem. The data simulates a Kuwaiti telecom operator's business unit (amounts in KWD, regions are
 > Kuwait's governorates); no real operator, customer or employee data is used.
 
